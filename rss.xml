@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SpCn-Diary]]></title><description><![CDATA[just diary.]]></description><link>https://diary.superconsole.work</link><generator>RSS for Node</generator><lastBuildDate>Sat, 07 Dec 2019 12:41:53 GMT</lastBuildDate><item><title><![CDATA[＊日記、移行しました]]></title><description><![CDATA[日記、移行しました。 改めて、よろしくお願いします。]]></description><link>https://diary.superconsole.work/191207/</link><guid isPermaLink="false">https://diary.superconsole.work/191207/</guid><pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;日記、移行しました。&lt;/p&gt;
+&lt;p&gt;改めて、よろしくお願いします。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[第13回Creator's marcket参加備忘録]]></title><description><![CDATA[久々の更新。昨日Creator’s marcketという創作活動をする人たちの交流会に参加してきた。19時に有楽町に向かい、おしゃれなコワーキングスペースで開かれた。クリエイターはゲーム制作や映像作家といった人から3D…]]></description><link>https://diary.superconsole.work/190731/</link><guid isPermaLink="false">https://diary.superconsole.work/190731/</guid><pubDate>Thu, 14 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;　久々の更新。昨日Creator’s marcketという創作活動をする人たちの交流会に参加してきた。19時に有楽町に向かい、おしゃれなコワーキングスペースで開かれた。クリエイターはゲーム制作や映像作家といった人から3Dプリンターでミニカーを作る人や和菓子職人まで多種多様な人たちが集まっていた。&lt;/p&gt;
+&lt;p&gt;すごくいい刺激になった。&lt;/p&gt;
+&lt;p&gt;みな自分が作った作品に対して思入れや熱意を込めていて楽しく語り合うなかでいろいろなバックグラウンドを知れた。&lt;/p&gt;
+&lt;p&gt;3Dプリンターでミニカーを作る人は独学で3Dモデル制作を初め、わずか1年くらいで商品としてオリジナルミニカーを販売するまでになったらしい、実際に作り込みがすごくてほんとうに3Dプリンターで制作したのかと疑うレベルだった。和菓子職人は実家が和菓子の店を経営していて和菓子の専門学校に入学して卒業後に家業を継ぐらしい、自分が関わったことのない分野で生きていく人の話は何もかもが新鮮だった。&lt;/p&gt;
+&lt;p&gt;バンドからDTMを触りはじめた人は普段はサラリーマンとして働きながら、楽曲依頼をこなし両立させていて、いずれは独立(脱サラ)して音楽一本で食べていくらしい。すごい行動力。&lt;/p&gt;
+&lt;p&gt;また体育会系からデザイナーに転身した人は、怪我でスポーツができなくなったのをきっかけにデザインを勉強し始めて、東京芸術大学の人たちに自ら弟子入り(?)し、勉強し始めてから半年で考えられないほどの場数と経験を積むまでになっていた。作品の一つである、道を歩く中で人とすれ違うタイミングでプロットを打ち、それを人の年齢や性別で音階に分けて作成した譜面が印象に残っている。&lt;/p&gt;
+&lt;p&gt;時間帯ごとに何回も同じ道を歩いた手間のかかる作品で、時間帯ごとにメロディの明るさや激しさが変わる、不思議でかつ面白い作品だった。&lt;/p&gt;
+&lt;p&gt;自分がいままで見てこなかったような分野に熱心に取組んでいる人たちと交流ができて、モチベーションが高まった。次回も開催予定なので時間が合えば行きたい。まだまだ自分の知らない世界に生きる人と交流がしたい。世界は広い。世界は広いって感嘆しながらそれを日記に残しちゃうレベルで充実した夜だった。余韻はまだ消えない。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[7月が終わるので所感とか]]></title><description><![CDATA[一年があっという間に過ぎていく。もう上半期最初の月が終わる。暑い夏がやってきた。今月の上旬から新しくTwitterのアカウントを開設、おもにセキュリティ関連のことを呟いているがフォロワーも徐々に増えていって充実してきている。中旬には卒業研究の中間審査の仮案を発表して教授からOK…]]></description><link>https://diary.superconsole.work/191114/</link><guid isPermaLink="false">https://diary.superconsole.work/191114/</guid><pubDate>Wed, 31 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;　一年があっという間に過ぎていく。もう上半期最初の月が終わる。暑い夏がやってきた。今月の上旬から新しくTwitterのアカウントを開設、おもにセキュリティ関連のことを呟いているがフォロワーも徐々に増えていって充実してきている。中旬には卒業研究の中間審査の仮案を発表して教授からOKサインももらって一段落したところ。下旬はサイトの新設ページ(技術ブログ)を開設したりハニーポットについて勉強したりした。&lt;/p&gt;
+&lt;p&gt;　新しくTwitterで開設した垢で多くのセキュリティ界隈の方々をフォローしているが、ハッキングの技術を実際に演習を通して取得しようとしている人、セキュリティエンジニアとして実績を積み重ねてきた人、セキュリティに興味を持ち始めた人、様々な志を持った人たちがTLに流れてきて自然とモチベーションが上がっている。開設してよかったなと。でもこれからはセキュリティの勉強会やイベントに参加してもっと視野を広げていきたいなと考えてる。&lt;/p&gt;
+&lt;p&gt;　勉強が楽しいと思える分野に出会えたと改めて実感した7月であった。&lt;/p&gt;
+&lt;p&gt;　ところでAWS登録するする詐欺をして何年たってるんだろう…。まずクレカ発行しなきゃというそこからの話だが…。以上。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[あせもと汗あれの違い]]></title><description><![CDATA[…]]></description><link>https://diary.superconsole.work/190729/</link><guid isPermaLink="false">https://diary.superconsole.work/190729/</guid><pubDate>Mon, 29 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;　今日初めて知って驚いた。自分の肌の荒れはあせもだからと勝手に思っていてあせもの薬ばかり塗っていて一向に治らないなーって、特に外出時や軽い運動をした後に肌荒れを起こすことが多かったので余計に勘違いしていたのかもしれない。今度からは汗あれの薬を処方してもらおうかなと考えています。夏嫌い！&lt;/p&gt;
+&lt;p&gt;　あせも&lt;/p&gt;
+&lt;p&gt;　　・汗をかく際にあせの出口が塞がれることで炎症を起こす&lt;/p&gt;
+&lt;p&gt;　汗あれ&lt;/p&gt;
+&lt;p&gt;　　・汗をかく際に汗そのものによる刺激により炎症を起こす &lt;a href=&quot;https://oggi.jp/193123&quot;&gt;https://oggi.jp/193123&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;　はい。かなり微妙な違いだけど汗あれは皮膚に傷が付いている場合に悪化するらしいのでこれっぽいなぁって思ってる。 適度な保湿と熱が籠らないような服装(襟元のしっかりしたやつとかGパンとか)を控えることが大事らしい。気を付けよう…。おわり&lt;/p&gt;</content:encoded></item><item><title><![CDATA[本『ぐでたまの資本論』]]></title><description><![CDATA[…]]></description><link>https://diary.superconsole.work/190409/</link><guid isPermaLink="false">https://diary.superconsole.work/190409/</guid><pubDate>Tue, 09 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;　「お金と上手につきあう人生哲学」。そのフレーズに一目ぼれして衝動買いしてしまいました。内容はマルクスの資本論をわかりやすくかみ砕いた解説とぐでたまのかわいらしいイラストを各ページごとに区切って載せている形です。下部に元となる資本論の原文が参考として記載されているところが個人的にポイント高かったです。&lt;/p&gt;
+&lt;p&gt;　フレーズからお金を主軸に展開していくのかなと予想していたのですが、仕事のありかたやワークライフバランス、本能的な欲求に触れていたり読みごたえがしっかりしている本でした。&lt;/p&gt;
+&lt;p&gt;　まだ読み終えてはいないんですけど空き時間にちょこっと摘まめるような、そんな感じの本でもあるのでいい買い物ができたなという所感です。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[粗挽きから抽出したコーヒーを飲んだ]]></title><description><![CDATA[…]]></description><link>https://diary.superconsole.work/190408/</link><guid isPermaLink="false">https://diary.superconsole.work/190408/</guid><pubDate>Mon, 08 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;　粗挽きした豆から抽出したコーヒーを初めて飲んだ。香りとか深みとかは細挽きより劣るがその分飲みやすいです。しかし、普段の細挽きでの抽出方法と全く同じ方法で抽出したので風味がコーヒーというよりは紅茶に近いような感じになってしまいました。深い味わいとコク, 余韻を求めている身としては物足りないような気がしました。粗挽きの抽出方法でオススメはないかと調べたらペーパードリップではなくフレンチプレスやパーコレーターを使うのがベストらしいです。ところで違いが気になったので調べました。&lt;/p&gt;
+&lt;p&gt;「ペーパードリップと比べた際のフレンチプレスの特徴」
+雑味が出やすい / 豆本来の味が楽しめる / 粉っぽさが残る / 複雑な風味が生まれる / 表面に油が浮かぶ / 欧米向き / etc…&lt;/p&gt;
+&lt;p&gt;　日本人の”ダシ文化”(おいしいとこだけ抽出する)が根付いていることからペーパードリップの方が好まれる傾向らしいです。ただ興味があるのでフレンチプレスをするための用具を用意して違いを楽しみたいなーって思います。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[知識と経験]]></title><description><![CDATA[4/01からセキュリティオンライン講座でケーススタディを通して勉強をしています。去年に情報処理安全確保支援士試験合格(以下、SC)をした自分ですが、実際にデモなどを通じて感染経路や対策を知るというのはとても大事だなと感じます。 　SC…]]></description><link>https://diary.superconsole.work/190403/</link><guid isPermaLink="false">https://diary.superconsole.work/190403/</guid><pubDate>Wed, 03 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;　4/01からセキュリティオンライン講座でケーススタディを通して勉強をしています。去年に情報処理安全確保支援士試験合格(以下、SC)をした自分ですが、実際にデモなどを通じて感染経路や対策を知るというのはとても大事だなと感じます。&lt;/p&gt;
+&lt;p&gt;　SCで得られるのはセキュリティ分野における専門用語の意味, 実際のネットワークへのウイルスの対策経路/防止など体系的な知識であり、即戦力はないですが、経験を積みそれを今後に生かしていくための土台であると考えていて、実際SCで得た知識がこの講座の内容をスムーズに理解するのにつながっていると感じる場面が多くあります。&lt;/p&gt;
+&lt;p&gt;　たくさんの講座が用意されていてとてもワクワクしています！たくさん学んで経験につなげていくぞ！おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[本『デザイン思考の先を行くもの』]]></title><description><![CDATA[…]]></description><link>https://diary.superconsole.work/190322/</link><guid isPermaLink="false">https://diary.superconsole.work/190322/</guid><pubDate>Fri, 22 Mar 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;　この本を読むきっかけはデザインという今まで漠然として受け取っていた概念に対して正面から向き合いたいと思っていたところにふとこの本が目に留まったことです。
+内容はデザインがどのようなものであり、何を実現・解決するのかを述べて実例や応用例を示しながら将来のあり方を問うといったものでした。読み終わるとデザインとアートの違いがわかるようになり、またこの二つのフィルターを交互に使い変えながら違ったオブジェクトの見方をすることができるようになりメタ思考のひとつを得たのかなと思います。&lt;/p&gt;
+&lt;p&gt;　特に新しいアイデア=既存のアイデアの新たな組み合わせという考え方やウォーリーを探せ法, 因数分解といったフレームワークもいくつか載っていて実際に活用する上で即戦力になるような情報も得られました、非常に興味深い本でした。おわり。&lt;/p&gt;
+&lt;p&gt;Keywords / Summary
+デザイン≠アート / デザインの根本は問題解決 / バックキャスティング思考 / 未来 ≠ こうあるべき-&gt;未来 = こうしたい / スペキュラティブデザイン: 未来はこうもありえるのではないか / 専門性ではなく「ビジョン」で組織を分ける / アイデア = 革新したいこと + 異分野領域の専門知識 / ウォーリーを探せ法: 情報をインプットする前にミッションを与える -&gt; 特定の「見立て」をサポート (ex. レシピ本から建築 / 関連性の低いもの同士に関連性を強制的に見つけ出すプロセスの中で発想が生まれることがある / 世界の広さは言葉の量で決まる / 「1」はゴールではない / 社会の潮流を加味する / スモールスタート (ex. 電通Bチーム, mercari R4D /&lt;/p&gt;</content:encoded></item><item><title><![CDATA[セキュリティオンライン講座を申し込んだ]]></title><description><![CDATA[先ほど、メールにてオンラインで受講可能なセキュリティの講座の申し込みを済ませてきた。最近作曲を中心とした生活を送っていたので全くコードも書いてないししばらくエンジニア面の勉強から離れていた(CpawCTFは全クリしたけど結局writeup…]]></description><link>https://diary.superconsole.work/190320/</link><guid isPermaLink="false">https://diary.superconsole.work/190320/</guid><pubDate>Wed, 20 Mar 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;　先ほど、メールにてオンラインで受講可能なセキュリティの講座の申し込みを済ませてきた。最近作曲を中心とした生活を送っていたので全くコードも書いてないししばらくエンジニア面の勉強から離れていた(CpawCTFは全クリしたけど結局writeupを写す作業が多くなってしまったな…)。&lt;/p&gt;
+&lt;p&gt;　もし申し込みが通れば(抽選制らしいので)4月から受講可能になる。主にインシデントレスポンスと安全設計など即戦力になりそうな内容を受講する予定。
+まぁ、実は申し込んだ所内定先のとこなんですけどね…。他の内定者より一歩先に進んで差を付けるぞ！！！的な意気込みも多少ありつつそれが後押しとなって 申し込むに至りました(その中で自分がはたらきたい業務分野を見つけてからのア○○○○ド採用を…)。&lt;/p&gt;
+&lt;p&gt;頑張るぞー！！！！！おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[「続けること」について]]></title><description><![CDATA[久しぶりの更新になってしまいました。もはや日記というか気が向いたら書こうかな的な落書きノートみたくなっていますね。
+日記を書く理由として以前に「Githubに毎日コミットして更新することを習慣づけるため」と謳っていましたがそもそもGithub…]]></description><link>https://diary.superconsole.work/190228/</link><guid isPermaLink="false">https://diary.superconsole.work/190228/</guid><pubDate>Thu, 28 Feb 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;　久しぶりの更新になってしまいました。もはや日記というか気が向いたら書こうかな的な落書きノートみたくなっていますね。
+日記を書く理由として以前に「Githubに毎日コミットして更新することを習慣づけるため」と謳っていましたがそもそもGithubに執着し続ける意味が見いだせない？と見切った結果なのでしょうか…。&lt;/p&gt;
+&lt;p&gt;常に勉強をし続けて日々探求していくという根本的な考えというか姿勢は完全に放棄したわけではありません。たぶん。&lt;/p&gt;
+&lt;p&gt;　前回の日記から今回に至るまでに「神・時間術」という本をはじめとしていくつか自己啓発本を購入して読んできたのですが、その中で人生にはプログラミングやWebデザイン, アイデア発案といった概念と同様、それの利便性, 効率を向上させる「フレームワーク」が存在していて人生も同じように”適用させる”ことが可能だという考えを感じていました。フレームワークがあるからにはそれを学習するコストと日々経験を積んで使いこなしていくことが必要なように、自己啓発本で得た知見やら考える姿勢も自身の生活に適用させて使いこなすことが必要です。&lt;/p&gt;
+&lt;p&gt;　自己啓発本をいくつか通してふと日記を書こうと思いついたのですが、やはり日記を書かなければいけないという義務感に襲われていたのかサボり始めてから存在が頭の中から消えていました…。“続けること”…、それは続かせるとかではなくて”目的のために続けることが前提である”みたいな先行条件を見出して無理なく進めることが必要だったんだと知りました。&lt;/p&gt;
+&lt;p&gt;日記はこの先行条件が整ってから自分のペースで気が向いたら更新するてきな感じにします。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CTFを始めるのでまずはDockerで環境を構築する]]></title><description><![CDATA[内定先でCTF(Capture The Flag)をしている人が多いとインターンや説明会で聞いていて前から興味を持っていたのですが、最近プログラムやIT…]]></description><link>https://diary.superconsole.work/190131/</link><guid isPermaLink="false">https://diary.superconsole.work/190131/</guid><pubDate>Thu, 31 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;　内定先でCTF(Capture The Flag)をしている人が多いとインターンや説明会で聞いていて前から興味を持っていたのですが、最近プログラムやIT技術とか触れてないなーって感じていたので今日から始めようと思ったわけです。
+まずは環境の構築ですね。&lt;/p&gt;
+&lt;p&gt;普段持ち歩くノパソのホストOSがWidows10proなのでHyper-V上にDockerを突っ込んでそこにKaliLinuxを積みます。
+KaliLinux上でいろいろ遊んだりするんですねー楽しみです。&lt;/p&gt;
+&lt;p&gt;現段階ではまだインストール終わってないので早く終わってくれい！おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello, VST3]]></title><description><![CDATA[FL Studio 12を使い続けている自分ですが、最近VSTプラグインのせいでFLが落ちる頻度が多くなってきて頭を抱えていた。 そこで、ある日有料で買ったプラグインの中に .vst3　という見慣れない拡張子のファイルがありVST…]]></description><link>https://diary.superconsole.work/181223/</link><guid isPermaLink="false">https://diary.superconsole.work/181223/</guid><pubDate>Sun, 23 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;FL Studio 12を使い続けている自分ですが、最近VSTプラグインのせいでFLが落ちる頻度が多くなってきて頭を抱えていた。&lt;/p&gt;
+&lt;p&gt;そこで、ある日有料で買ったプラグインの中に &lt;strong&gt;.vst3&lt;/strong&gt;　という見慣れない拡張子のファイルがありVST3プラグインというただの上位互換の存在を知ってしまったわけです。&lt;/p&gt;
+&lt;p&gt;実は自分が無知だっただけで今まで使い続けているVSTプラグインのいくつかにもVST3版が存在していて、それを知った自分は今日一日中そのVST3プラグインをインストールないし探索していたわけです。&lt;/p&gt;
+&lt;p&gt;もう安定性やらDAWとの機能互換性やら世界が変わりすぎて「もっと早くに気づいていれば…」と落ち込んでいた。&lt;/p&gt;
+&lt;p&gt;これからはFLの不本意な即落ちに悩むことは少なくなりそうだ…。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[自炊の仕方]]></title><description><![CDATA[…]]></description><link>https://diary.superconsole.work/181222/</link><guid isPermaLink="false">https://diary.superconsole.work/181222/</guid><pubDate>Sat, 22 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;代行で料理を作ろうかと思っていたが、いざ作るとなるとどうも気が入らなくて冷凍食品と適当なお惣菜で済ませてしまっているこの頃。&lt;/p&gt;
+&lt;p&gt;クックパッドとかで作り方とか調べても材料を調達するのが億劫になってしまう。&lt;/p&gt;
+&lt;p&gt;簡単なレシピはたくさんあれど食べきれる量を最低限の手間で作りたいものだ。&lt;/p&gt;
+&lt;p&gt;ここ何日か頭を悩ませて入るがなかなか気が進まない。&lt;/p&gt;
+&lt;p&gt;生活ハックがどこかにないか探しているほどだ。&lt;/p&gt;
+&lt;p&gt;愚痴？みたいなつながりのない散文だけになってしまったが終わりにしよう。以上。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[DQXを支える技術を読んで感じたこと]]></title><description><![CDATA[衝動買いしてしまった「ドラゴンクエストXを支える技術」。第…]]></description><link>https://diary.superconsole.work/181219/</link><guid isPermaLink="false">https://diary.superconsole.work/181219/</guid><pubDate>Wed, 19 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;衝動買いしてしまった「ドラゴンクエストXを支える技術」。第3章まで読み終えたが、すでに「リーダブルコード」に続くバイブルになることが確定してる。それくらいに内容が濃くて読んでいてタメになる。特に、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;工数のかかるプロジェクトの開発陣の構成が実例を元に理解できる。&lt;/li&gt;
+&lt;li&gt;開発のプロセスを具体的に知ることができる。&lt;/li&gt;
+&lt;li&gt;実際に仕事にしている人の観点で開発環境や言語の選定のしかたを見れる。&lt;/li&gt;
+&lt;li&gt;ともかくすべて実例に即していて実践的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;これらがこの本でしか得られないものだと思った。再来年就職してからも常に持ち歩くであろう名作です。以上。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[気合を入れていく]]></title><description><![CDATA[覚悟を決める。そう志した12月。それなのに、寒さからくる倦怠感に呑まれてしまい覚悟とか言えるほどの状態ではない。免疫力の低下か？と仮定してみてその改善策をまとめて自己評価してみる。 「免疫力をあげる方法 byI…]]></description><link>https://diary.superconsole.work/181217/</link><guid isPermaLink="false">https://diary.superconsole.work/181217/</guid><pubDate>Mon, 17 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;覚悟を決める。そう志した12月。それなのに、寒さからくる倦怠感に呑まれてしまい覚悟とか言えるほどの状態ではない。免疫力の低下か？と仮定してみてその改善策をまとめて自己評価してみる。&lt;/p&gt;
+&lt;p&gt;「免疫力をあげる方法 by&lt;a href=&quot;https://autobacs-kenpo.jp/%E4%B8%88%E5%A4%AB%E3%81%AA%E3%81%8B%E3%82%89%E3%81%A0%E3%81%A5%E3%81%8F%E3%82%8A/&quot;&gt;I❤️ドライブ&lt;/a&gt;」&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;質のいい睡眠 -&gt; 取れているはず&lt;/li&gt;
+&lt;li&gt;バランスの取れた食事 -&gt; ダイエットによる食事制限でやや危ういかも…。&lt;/li&gt;
+&lt;li&gt;適度な運動 -&gt; やってない…&lt;/li&gt;
+&lt;li&gt;笑う -&gt; とても大事なことだ…&lt;/li&gt;
+&lt;li&gt;体温の維持 -&gt; 常に心がけている！！&lt;/li&gt;
+&lt;li&gt;ストレス解消 -&gt; 最近フルに発揮できていないかも…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;何気ないところから倦怠感, 免疫力の低下に繋がっていく。ストレス解消しにヒトカラ行くか〜！！おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[たるんでいる]]></title><description><![CDATA[…]]></description><link>https://diary.superconsole.work/181214/</link><guid isPermaLink="false">https://diary.superconsole.work/181214/</guid><pubDate>Fri, 14 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;最近たるんでいないか？と空手の師範に注意されてしまった。&lt;/p&gt;
+&lt;p&gt;安心しきっているのが原因なのかわからないが少なくとも心当たりは多くある。&lt;/p&gt;
+&lt;p&gt;例えば、朝のストレッチが雑になった(そもそもやる頻度も著しく下がっている)し。 &lt;/p&gt;
+&lt;p&gt;脱力感に襲われる回数も増えている…。&lt;/p&gt;
+&lt;p&gt;年末だからなのか、なんだろうなぁって感じている。&lt;/p&gt;
+&lt;p&gt;起床時間さえ日によってバラバラになってしまった。&lt;/p&gt;
+&lt;p&gt;朝の習慣を変えなきゃなとは前々から考えていて、値段が高くて躊躇している光目覚し時計とか買ってみるのもありなのかなと思う。&lt;/p&gt;
+&lt;p&gt;朝の習慣を元に戻して日々の活気を取り戻して行かなきゃと心に決めてみる。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[デザインに関する知識を調べた]]></title><description><![CDATA[来年の春に向けて制作をしなきゃいけないのですが、まず何から取り掛かればいいのかわからないのので、基礎知識が得られるサイト無いかなーって調べたら出てきたので整理する。 「デザインの基礎知識 bycommte.net…]]></description><link>https://diary.superconsole.work/181213/</link><guid isPermaLink="false">https://diary.superconsole.work/181213/</guid><pubDate>Thu, 13 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;来年の春に向けて制作をしなきゃいけないのですが、まず何から取り掛かればいいのかわからないのので、基礎知識が得られるサイト無いかなーって調べたら出てきたので整理する。&lt;/p&gt;
+&lt;p&gt;「デザインの基礎知識 by&lt;a href=&quot;https://commte.net/4799&quot;&gt;commte.net&lt;/a&gt;」&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;分割, 対象, 軸 -&gt; レイアウトは黄金比や白銀比など美しいと思うものを適用するよう心掛ける&lt;/li&gt;
+&lt;li&gt;構図パターン -&gt; 実際の作品を見てどのようなパターンが存在するか、どう感じ取れるかを知る&lt;/li&gt;
+&lt;li&gt;ダイナミックシンメトリー -&gt; 三角形の構図を取り入れる。作品に安心感や緊張感を生み出す&lt;/li&gt;
+&lt;li&gt;ホワイトスペース -&gt; 余白を意図的に取り入れることで、高級感, 清潔感, 上品さを生み出す&lt;/li&gt;
+&lt;li&gt;造形性 -&gt; 信頼性, オブジェクトの整理, グルーピング, アクセントの付け方, 単純なオブジェクトのデザイン&lt;/li&gt;
+&lt;li&gt;フライヤーデザインから学ぶタイポグラフィー -&gt; 百聞は一見に如かず&lt;/li&gt;
+&lt;li&gt;和欧混植 -&gt; 日本語と外国語の混在, 書体の太さや筆法, フォントサイズを変えてベースラインを整える&lt;/li&gt;
+&lt;li&gt;スイススタイル -&gt; グリッドや黄金比に基づくタイポグラフィを中心としたデザイン&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;新しい用語が多くて何回も読み直したけど、デザインだって学問と同じく知識の積み重なっていくんだなと思ったので精進する。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[栄養食品について調べた]]></title><description><![CDATA[食生活改善を兼ねてバランス栄養食を日常的に摂取している自分ですが、カロリーメイトとかPOWER BALANCE…]]></description><link>https://diary.superconsole.work/181212/</link><guid isPermaLink="false">https://diary.superconsole.work/181212/</guid><pubDate>Wed, 12 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;食生活改善を兼ねてバランス栄養食を日常的に摂取している自分ですが、カロリーメイトとかPOWER BALANCEとかいろいろ種類があって選ぶのに困っているので日記のネタとして調べてみようかなと思いました。&lt;/p&gt;
+&lt;p&gt;「栄養食品とは」&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;栄養食品えいようしょくひん 脂肪，炭水化物，蛋白質，ビタミン，ミネラルなどの重要栄養素や，食生活の慣習や調理法など，いろいろの理由により比較的不足しがちな栄養素を十分に含んでいる食品 by&lt;a href=&quot;https://kotobank.jp/word/%E6%A0%84%E9%A4%8A%E9%A3%9F%E5%93%81-36011&quot;&gt;コトバンク&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;健康食品は、医薬品と違い、病気の治療・予防を目的とするものではありません。病気の治療や予防に役立つことを説明したりほのめかしたりする表示や広告を行っている製品は、「医薬品」と判断します。外国語で記載されていても取り扱いは同じです。疾病の治療や予防効果の表示・広告は、医薬品としての承認を取得して初めて可能になるものなのです。いわゆる健康食品には、栄養補給や健康の維持など一般的な食品の範囲の目的しか持たせることができません。 by&lt;a href=&quot;http://www.fukushihoken.metro.tokyo.jp/kenkou/kenko_shokuhin/ken_syoku/kanshi/kounou.html&quot;&gt;東京都福祉保健局&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;とのことらしい。医学的に栄養素を十分に取るためにはサプリメントとか医薬品を処方すべきだそう。&lt;/p&gt;
+&lt;p&gt;「個人的な好みとか」&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;カロリーメイト -&gt; 糖質が比較的多い割に食物繊維とか葉酸, ビタミン系の栄養素がBALANCE POWERより少なめ。満足感はすごい。&lt;/li&gt;
+&lt;li&gt;BALANCE POWER -&gt; 満足感がない。一食分が少なくて午後の時間帯におなかが減ってしまう。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;a href=&quot;https://gotan.club/2016/09/22/296/&quot;&gt;比較サイト&lt;/a&gt;を見た限りだと栄養素の豊富さや総合バランスでカロリーメイトがダントツなのでこれを食べ続けるかな？と言いたいがお高いのでBALANCE POWER:カロリーメイト:玄米ブランとか他 = 4:2:1 くらいで食べていこうかなって思う。結局はバランスだよね。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[GIMPで改めて黄金比を知った]]></title><description><![CDATA[GIMP…]]></description><link>https://diary.superconsole.work/181211/</link><guid isPermaLink="false">https://diary.superconsole.work/181211/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;GIMPでオブジェクトの大きさを乗除算で指定することができたので便利だと思い、黄金比ごとに大小の違うオブジェクトを作り、綺麗になるよう心がけて配置した。&lt;/p&gt;
+&lt;p&gt;黄金比の美しさに改めて魅了されたので、ここからこのスキルを画像加工やロゴデザインに使えたらなと思う。次は、図形の切り取りを勉強しようと思う。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[秋葉原放浪旅2]]></title><description><![CDATA[秋葉原を今日も放浪してきました。今日はノートPCを買いに来たので放浪ではなさそう。 …雑に今まで持っていたPC(実は紛失しました…)のスペックを紹介します。
+「NEC Lavieのとあるやつ」 CPU: Celeron RAM: 4GB OS: Windows8.1 home…]]></description><link>https://diary.superconsole.work/181210/</link><guid isPermaLink="false">https://diary.superconsole.work/181210/</guid><pubDate>Mon, 10 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;秋葉原を今日も放浪してきました。今日はノートPCを買いに来たので放浪ではなさそう。&lt;br&gt;
+…雑に今まで持っていたPC(実は紛失しました…)のスペックを紹介します。
+「NEC Lavieのとあるやつ」&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: Celeron&lt;/li&gt;
+&lt;li&gt;RAM: 4GB&lt;/li&gt;
+&lt;li&gt;OS: Windows8.1 home&lt;/li&gt;
+&lt;li&gt;HDD: 512GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;とまぁまぁ人権が破棄された仕様でした。&lt;br&gt;
+今日買った中古PCのスペック
+「東芝 dynabookのとあるやつ」&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: i5 4世代&lt;/li&gt;
+&lt;li&gt;RAM: 8GB&lt;/li&gt;
+&lt;li&gt;OS: Windows10 pro&lt;/li&gt;
+&lt;li&gt;SSD: 360GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以上。人権獲得ありがとうございます。これで4万円なのでコスパも最強ですね。店員も「もしこれよりコスパいいやつが他店であればいいに来てください。そこより安くしますから。」という程の価格, 品質。最高すぎます。本当にいい買い物でした。クリスマ, 正月の分を先払いって感じになる大きな買い物でしたがこれは文句のひとつもありません。いい一日になりました。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[久しぶりのDJ]]></title><description><![CDATA[昨日はOB・OG懇親会でいろいろな会社の説明を聞いて職の幅が広がったなーなんて思いながら、今日はDJをしました。 いつも通り自分が好きな曲だけを流して心地よくなっていたのですが、G-REXの曲がウーファーだとモンスターに変貌することを知りました…怖い…。おわり。]]></description><link>https://diary.superconsole.work/181208/</link><guid isPermaLink="false">https://diary.superconsole.work/181208/</guid><pubDate>Sat, 08 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;昨日はOB・OG懇親会でいろいろな会社の説明を聞いて職の幅が広がったなーなんて思いながら、今日はDJをしました。&lt;/p&gt;
+&lt;p&gt;いつも通り自分が好きな曲だけを流して心地よくなっていたのですが、G-REXの曲がウーファーだとモンスターに変貌することを知りました…怖い…。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[GIMPを使い始めた]]></title><description><![CDATA[画像の編集を始めようとGIMP…]]></description><link>https://diary.superconsole.work/181207/</link><guid isPermaLink="false">https://diary.superconsole.work/181207/</guid><pubDate>Fri, 07 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;画像の編集を始めようとGIMPを学習しています。&lt;/p&gt;
+&lt;p&gt;レイヤーとかその他複雑な処理はなかなか慣れないですが今の所、各オブジェクトを任意の場所に配置できるくらいに上達したので初日としては十分と思っています。&lt;/p&gt;
+&lt;p&gt;オブジェクトに対する部分的なオーバーレイとかオーベーレイのレイヤー範囲の選択とかまだよくわかってないところはあるけれどこれからも続けていこうかなと。&lt;/p&gt;
+&lt;p&gt;来年の2月末に作品を出すのでそれに間に合わせるぞ！！おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[秋葉原放浪旅]]></title><description><![CDATA[とある会社の説明会に参加した後、 結構な時間があったので帰路に通る駅だった秋葉原にて途中下車してしばし放浪していました。 いつも通りのジャンク屋を転々とした後、行ったことのない店もぶらりしようと思い「パソコン工房」というお店に入ると格安の中古PC…]]></description><link>https://diary.superconsole.work/181206/</link><guid isPermaLink="false">https://diary.superconsole.work/181206/</guid><pubDate>Thu, 06 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;とある会社の説明会に参加した後、&lt;/p&gt;
+&lt;p&gt;結構な時間があったので帰路に通る駅だった秋葉原にて途中下車してしばし放浪していました。&lt;/p&gt;
+&lt;p&gt;いつも通りのジャンク屋を転々とした後、行ったことのない店もぶらりしようと思い「パソコン工房」というお店に入ると格安の中古PCがたくさんありました！！&lt;/p&gt;
+&lt;p&gt;お正月になにかノートPCを買いたいなとマークしている店がいくつかあったのですが、やはり秋葉原、探せば探すほど穴場的？な店が見つかるものなんですね…&lt;/p&gt;
+&lt;p&gt;また一ついいところを見つけて気分が上がるのでした…。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[AIとかProcessingとか技術を駆使していく]]></title><description><![CDATA[デザイナーとして作品を出す覚悟をした。 気持ちに変わりはないが、今の自分に足りないものを補う… 使おうとしている技術は、ProcessingとGIMP, AIの学習済みモデルとかを使って足りない技術を補って行こうかと思います。おわり。]]></description><link>https://diary.superconsole.work/181205/</link><guid isPermaLink="false">https://diary.superconsole.work/181205/</guid><pubDate>Wed, 05 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;デザイナーとして作品を出す覚悟をした。&lt;/p&gt;
+&lt;p&gt;気持ちに変わりはないが、今の自分に足りないものを補う…&lt;/p&gt;
+&lt;p&gt;使おうとしている技術は、ProcessingとGIMP, AIの学習済みモデルとかを使って足りない技術を補って行こうかと思います。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[デザイナーとして企画に参加する...]]></title><description><![CDATA[Generative Arts…]]></description><link>https://diary.superconsole.work/181204/</link><guid isPermaLink="false">https://diary.superconsole.work/181204/</guid><pubDate>Tue, 04 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Generative Artsを勉強するうえでの目標を決めようと考えていたところに、ちょうど企画の話があがっていたので長考した末にデザイナーとして参加することにした。&lt;/p&gt;
+&lt;p&gt;今まで曲を作るだけだった自分がアートを制作して発表するのでかなり緊張する。&lt;/p&gt;
+&lt;p&gt;でも時期は来年の二月。&lt;/p&gt;
+&lt;p&gt;時間はたくさんあると思うので気を抜くことなく勉強して前衛的なアートをペア(曲制作)の人に提供できるよう努めていきたい。&lt;/p&gt;
+&lt;p&gt;やる気が出た。頑張る。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Generative Art]]></title><description><![CDATA[昨日からGenerative Artsを始めたのですがそれからというもの、毎日濃い時間を過ごしています。   ところで、Generative Arts…]]></description><link>https://diary.superconsole.work/181203/</link><guid isPermaLink="false">https://diary.superconsole.work/181203/</guid><pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;昨日からGenerative Artsを始めたのですがそれからというもの、毎日濃い時間を過ごしています。  &lt;/p&gt;
+&lt;p&gt;ところで、Generative Arts「ジェネラティブアート」はプログラミングなどの高度な技術を用いて予測不能な絵を生成する芸術手法を指します。&lt;/p&gt;
+&lt;p&gt;クリエイティブコーディングをしたいと思っていた自分にはうってつけでこの言葉を知った瞬間何のためらいもなく始めたというわけです。&lt;/p&gt;
+&lt;p&gt;今の段階では、まだサンプルをコピペしたり応用例を改変したりして「すげー」ってなってるだけですがここから精進してTwitterのbioに、「デザイナー」と書ける日が迎えられるようになろうと思います！  &lt;/p&gt;
+&lt;p&gt;あと本屋で見つけた1万円のやばい本が買いたい！おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2018年の終わりに向けて]]></title><description><![CDATA[さて、201…]]></description><link>https://diary.superconsole.work/181201/</link><guid isPermaLink="false">https://diary.superconsole.work/181201/</guid><pubDate>Sat, 01 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;さて、2018年も最後の月を迎えてしまいましたね。今月の目標は「覚悟を決める」。&lt;/p&gt;
+&lt;p&gt;来年から本格的に始まる就活にむけて気を改めないといけません。&lt;/p&gt;
+&lt;p&gt;新しいことに一歩踏み出す勇気を基礎から培っていき、社会人として常に刺激し続けることに耐性を身に着ける必要があります。&lt;/p&gt;
+&lt;p&gt;毎月意気込みを月の初めに記していくのですが、今月はいろいろなことがありそうで自分のメンタル面に関して強いとは言えない感じなので怖気付いていますね。&lt;/p&gt;
+&lt;p&gt;ともあれ、今年最後の月を有意義に過ごしていくことに変わりはないので。&lt;/p&gt;
+&lt;p&gt;この辺で終わりにしたいと思います。おわり&lt;/p&gt;</content:encoded></item><item><title><![CDATA[何を作れたのだろうか]]></title><description><![CDATA[1月を過ごして、何か形になったものはあるだろうか。 この日記を非同期通信でサイトに投げて描画される機能を追加して、その利点とかを勉強会で発表したり、就活で面接を受けたり「創る」を言われると曖昧なものではあるが形になるものは自分の身に付いていたと思う。 さて、1…]]></description><link>https://diary.superconsole.work/181130/</link><guid isPermaLink="false">https://diary.superconsole.work/181130/</guid><pubDate>Fri, 30 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;1月を過ごして、何か形になったものはあるだろうか。&lt;/p&gt;
+&lt;p&gt;この日記を非同期通信でサイトに投げて描画される機能を追加して、その利点とかを勉強会で発表したり、就活で面接を受けたり「創る」を言われると曖昧なものではあるが形になるものは自分の身に付いていたと思う。&lt;/p&gt;
+&lt;p&gt;さて、12月の目標を決めなければいけない。  &lt;/p&gt;
+&lt;p&gt;12月は今年最後になる。~来年からはようやく大殺界から逃れられる~ので、こう締めくくりに相応しい目標を考えた。  &lt;/p&gt;
+&lt;p&gt;「&lt;strong&gt;覚悟を決める&lt;/strong&gt;」  &lt;/p&gt;
+&lt;p&gt;なんか気合が入りそうな目標にした。&lt;/p&gt;
+&lt;p&gt;来年は就活が本格的に始まり、おそらく来年中に内定が決まる。&lt;/p&gt;
+&lt;p&gt;来年に人生の次のステージが明確になるのでその準備として「覚悟を決める」必要があるのだ。&lt;/p&gt;
+&lt;p&gt;頑張るぞ。いや、頑張るしかない。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[スマホカバーの衣替え]]></title><description><![CDATA[スマホのソフトカバーと背面のカバーをラッカースプレー(マッドブラック)で塗装、また今日届いた液晶フィルムを張り替えた。 所感、機種変更したときと同じような新鮮さに包まれた。 弟がiPhone…]]></description><link>https://diary.superconsole.work/181129/</link><guid isPermaLink="false">https://diary.superconsole.work/181129/</guid><pubDate>Thu, 29 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;スマホのソフトカバーと背面のカバーをラッカースプレー(マッドブラック)で塗装、また今日届いた液晶フィルムを張り替えた。&lt;/p&gt;
+&lt;p&gt;所感、機種変更したときと同じような新鮮さに包まれた。&lt;/p&gt;
+&lt;p&gt;弟がiPhoneに新しく乗り換えたのに感化されてやったことだが、見切り発車のわりには上出来な仕上がりになった。&lt;/p&gt;
+&lt;p&gt;課題として、色のムラが残っている箇所がいくつかあるのでそこを後日直していきたい。&lt;/p&gt;
+&lt;p&gt;スプレー塗装楽しい。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[衝動買い]]></title><description><![CDATA[この時期はTwitterとかで驚くほどのセールが開催されるのを知った瞬間に決済してることが度々ある。 今日も今日とて30…]]></description><link>https://diary.superconsole.work/181128/</link><guid isPermaLink="false">https://diary.superconsole.work/181128/</guid><pubDate>Wed, 28 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;この時期はTwitterとかで驚くほどのセールが開催されるのを知った瞬間に決済してることが度々ある。&lt;/p&gt;
+&lt;p&gt;今日も今日とて300円の効果素材を買ってしまった…。&lt;/p&gt;
+&lt;p&gt;後悔はしていないのだがおかげさまで今日の昼ごはんが無くなったのだ。&lt;/p&gt;
+&lt;p&gt;衝動買いはしてもいいのか？ネットの知見を参考に整理する。&lt;/p&gt;
+&lt;p&gt;「衝動買いの心理的効果」
+原因:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ストレスから&lt;/li&gt;
+&lt;li&gt;気分が上がりすぎた&lt;/li&gt;
+&lt;li&gt;店の戦略によって&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; 改善策:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;時間を置く&lt;/li&gt;
+&lt;li&gt;クレジットを封印&lt;/li&gt;
+&lt;li&gt;感情を抑える&lt;/li&gt;
+&lt;li&gt;バーゲン, 期間限定の文字に踊らされない。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;こんな感じですかね。&lt;/p&gt;
+&lt;p&gt;まぁ、本当に必要なものしか買ってないのでいいでしょう！大丈夫！！おわり。&lt;/p&gt;
+&lt;p&gt;-参考資料
+&lt;a href=&quot;http://xn--dck3bubs9v.net/%E8%A1%9D%E5%8B%95%E8%B2%B7%E3%81%84%E3%81%AE%E5%BF%83%E7%90%86%E3%81%A8%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E3%81%AE%E9%96%A2%E4%BF%82%E6%80%A7-5178&quot;&gt;Source&lt;/a&gt;, &lt;a href=&quot;http://www.chokin-ginko.com/syukan/shodogai.html&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[創作は楽しいぞ]]></title><description><![CDATA[…]]></description><link>https://diary.superconsole.work/181127/</link><guid isPermaLink="false">https://diary.superconsole.work/181127/</guid><pubDate>Tue, 27 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;~日記を書いてなかったという話はもうやめよう…~  &lt;/p&gt;
+&lt;p&gt;今大きな記事を書いている。&lt;/p&gt;
+&lt;p&gt;とある影響力のある人?と創作活動との関係からわかることを整理している。  &lt;/p&gt;
+&lt;p&gt;この記事は自分の経験を後の世代に伝えたいものをまとめたものでもある。&lt;/p&gt;
+&lt;p&gt;モチベーションをあげることがいかに重要なことかを理解したし、それが実際の作品にの質にも影響してくる。&lt;/p&gt;
+&lt;p&gt;創作活動はだらだらと行うものではないし、嫌いならやめても構わない。&lt;/p&gt;
+&lt;p&gt;でも、いつまでも孤独に作り続けるのは人間をやめている程の為す行為だ。&lt;/p&gt;
+&lt;p&gt;仲間なくして作品できず。覚えておこう。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[大学祭最終日に向けて]]></title><description><![CDATA[毎日が秒速で過ぎていく… もう明日で終わってしまうのか… いや、明日が本番だ！！ 頑張るぞ！！おわり！！]]></description><link>https://diary.superconsole.work/181124/</link><guid isPermaLink="false">https://diary.superconsole.work/181124/</guid><pubDate>Sat, 24 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;毎日が秒速で過ぎていく…&lt;/p&gt;
+&lt;p&gt;もう明日で終わってしまうのか…&lt;/p&gt;
+&lt;p&gt;いや、明日が本番だ！！&lt;/p&gt;
+&lt;p&gt;頑張るぞ！！おわり！！&lt;/p&gt;</content:encoded></item><item><title><![CDATA[BLACK FRIDAY終了しました。お疲れ様でしたの報告会]]></title><description><![CDATA[最高のお買い物をしてしまいました。 以下釣果(魚じゃなくてプラグイン, サンプル) Pumper / W.A Production ($29 -> $1) Puncher / W.A Production ($69 -> $1) SphereComp / W.A…]]></description><link>https://diary.superconsole.work/181123/</link><guid isPermaLink="false">https://diary.superconsole.work/181123/</guid><pubDate>Fri, 23 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;最高のお買い物をしてしまいました。&lt;/p&gt;
+&lt;p&gt;以下釣果(魚じゃなくてプラグイン, サンプル)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Pumper / W.A Production ($29 -&gt; $1)&lt;/li&gt;
+&lt;li&gt;Puncher / W.A Production ($69 -&gt; $1)&lt;/li&gt;
+&lt;li&gt;SphereComp / W.A Production ($59 -&gt; $1)&lt;/li&gt;
+&lt;li&gt;Hiku / soundspot ($32 -&gt; $2)&lt;/li&gt;
+&lt;li&gt;Halcyon / soundspot ($99 -&gt; $1)&lt;/li&gt;
+&lt;li&gt;The King / W.A Production ($149 -&gt; $4.9) //これが一番嬉しいかも&lt;/li&gt;
+&lt;li&gt;Vimana / Glitchmachines ($69 -&gt; $5)&lt;/li&gt;
+&lt;li&gt;Sibilance / WAVES (FREE)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;こんな感じです。出費は &lt;strong&gt;2000&lt;/strong&gt; 円に収まったが、これらを通常価格で買うと &lt;strong&gt;60000&lt;/strong&gt; 円になる…。&lt;/p&gt;
+&lt;p&gt;意味わかんなすぎる。&lt;/p&gt;
+&lt;p&gt;絶対に会社一銭も利益出てないと思う。&lt;/p&gt;
+&lt;p&gt;ありがとうございます。&lt;/p&gt;
+&lt;p&gt;本当に素晴らしい買い物ができました…。&lt;/p&gt;
+&lt;p&gt;最後のSibilanceはWAVESからのプレゼントでもらいました。&lt;/p&gt;
+&lt;p&gt;ボーカルのディエッサーですよ…無料で…。&lt;/p&gt;
+&lt;p&gt;使い心地は実際の制作過程の中で試していきたいと思います。&lt;/p&gt;
+&lt;p&gt;今のところ期待値が高いのは、Hiku, Halcyon, The King, Vimanaですかね。&lt;/p&gt;
+&lt;p&gt;震えが止まらないくらい良い買い物をしまくった(n回目)。&lt;/p&gt;
+&lt;p&gt;たぶんしばらくは作曲に関して困ることがなさそうなので、頑張っていこうかなと思います。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[BRACK FRIDAY!!!]]></title><description><![CDATA[…]]></description><link>https://diary.superconsole.work/181122/</link><guid isPermaLink="false">https://diary.superconsole.work/181122/</guid><pubDate>Thu, 22 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;結構前からなのですが、ブラックフライデーと呼ばれるいろんなものが破格の値段になる期間があってそれに便乗してあんなものやこんなものといったプラグイン(サンプルパック)を買いあさっているのですが、めちゃくちゃ楽しいです！&lt;/p&gt;
+&lt;p&gt;こんなに有意義なお金の使い方珍しいよ！&lt;/p&gt;
+&lt;p&gt;たくさん買っても昼食代くらいにしかならないので財布にやさしい。&lt;/p&gt;
+&lt;p&gt;この時のために前々から食費を削る生活をしていたので余計に心地いい…。&lt;/p&gt;
+&lt;p&gt;まだまだBrack Fridayはこれからだと思うので漁りますよ！！！(明日から大学祭なのはここだけの話)。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[エンジニアの情報収集法の見直し]]></title><description><![CDATA[エンジニアの情報収集法まとめの記事を見つけてふと思った。「自分の今やっている情報収集のやりかたでITの時勢を網羅しているか？」。なので見直しをしてみる。 「今追っているサイト」 GIGAZINE IT Media Gizmodo IT 速報 TechCrunch Computer…]]></description><link>https://diary.superconsole.work/181121/</link><guid isPermaLink="false">https://diary.superconsole.work/181121/</guid><pubDate>Wed, 21 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://qiita.com/nesheep5/items/e7196ba496e59bb2aa28&quot;&gt;エンジニアの情報収集法まとめ&lt;/a&gt;の記事を見つけてふと思った。「自分の今やっている情報収集のやりかたでITの時勢を網羅しているか？」。なので見直しをしてみる。&lt;/p&gt;
+&lt;p&gt;「今追っているサイト」&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GIGAZINE&lt;/li&gt;
+&lt;li&gt;IT Media&lt;/li&gt;
+&lt;li&gt;Gizmodo&lt;/li&gt;
+&lt;li&gt;IT 速報&lt;/li&gt;
+&lt;li&gt;TechCrunch&lt;/li&gt;
+&lt;li&gt;Computer Music(これは趣味)&lt;/li&gt;
+&lt;li&gt;Canva&lt;/li&gt;
+&lt;li&gt;Developers.IO&lt;/li&gt;
+&lt;li&gt;AWS, Google, Azure, などの公式ブログ&lt;/li&gt;
+&lt;li&gt;はてなブックマーク
+etc…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;こんな感じです。&lt;a href=&quot;https://qiita.com/nesheep5/items/e7196ba496e59bb2aa28&quot;&gt;Qiitaブログ内&lt;/a&gt;と比べると、ITニュース系は網羅できているがイベント系の収集サイト・技術系ブログらへんが足りてない気がする。情勢を把握していても実装の面に対するトピックやベストプラクティス・アンチパターンとかがあまり収集できていない。実装の面での情報不足…。常に開発をして臨時的に収集すればよいのだが、それが習慣づいていないのがネックだなって…。ここらへんはQiitaかなーって思っている節はあるが…。取りあえず比較して新しく追ってみようかなと&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC_HLK-ksslL-Z_2wiIZDlMg/videos&quot;&gt;雑食系エンジニアTV&lt;/a&gt;をチャンネル登録&lt;/li&gt;
+&lt;li&gt;自分の興味のある言語や環境を見直す&lt;/li&gt;
+&lt;li&gt;ベストプラクティス&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;あたりを実施して、随時Google先生からフォーカスを当てた情報収集をしていこうかなと。思いました。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[、、、]]></title><description><![CDATA[…nothing. I just wanna have a rest.so, all time I watch YouTube enjoyed entertainments!!
+there is a good day in my life like this…owari.]]></description><link>https://diary.superconsole.work/181119/</link><guid isPermaLink="false">https://diary.superconsole.work/181119/</guid><pubDate>Mon, 19 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;…nothing. I just wanna have a rest.so, all time I watch YouTube enjoyed entertainments!!
+there is a good day in my life like this…owari.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[キーボードを掃除した]]></title><description><![CDATA[昨日秋葉原にて購入したジャンクのキーボード。 値段が300円と言うのとレジで言われる安定の「ジャンク品なので返品・交換はできません」から、どこか壊れてるんだろうな…と覚悟しながら家で動作確認したら何も問題がなく、安心したのが昨日の学生LT…]]></description><link>https://diary.superconsole.work/181118/</link><guid isPermaLink="false">https://diary.superconsole.work/181118/</guid><pubDate>Sun, 18 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;昨日秋葉原にて購入したジャンクのキーボード。&lt;/p&gt;
+&lt;p&gt;値段が300円と言うのとレジで言われる安定の「ジャンク品なので返品・交換はできません」から、どこか壊れてるんだろうな…と覚悟しながら家で動作確認したら何も問題がなく、安心したのが昨日の学生LT後のハイライト。&lt;/p&gt;
+&lt;p&gt;今日はこのジャンクキーボードを祖父母の家で丸洗いしてきました。&lt;/p&gt;
+&lt;p&gt;二時間近くかかったのかな…。&lt;/p&gt;
+&lt;p&gt;基盤とシリコンなど水分に付けたらヤバイもの以外を全て洗剤にドップリ浸けて洗い流してからアルコール洗浄してサッパリ綺麗になった！  &lt;/p&gt;
+&lt;p&gt;一通り洗い終えたところで今この日記をそのジャンクキーボードで書いているのですが、打鍵感がやや重くて打つだけで疲れそうな印象。&lt;/p&gt;
+&lt;p&gt;メカニカルキーボードを書いたくなったけどお金が無いので諦めます(そもそもジャンクキーボードを買う経緯がお金が無いことから来ているので…)。&lt;/p&gt;
+&lt;p&gt;キーボードのストローク部分に何か埋め込んでメカニカルっぽく出来ないかなーってわけのわからないこと考えながら寝ますね。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[学生LTを終えて]]></title><description><![CDATA[学生LTにてと登壇してきました。 今までに何回か登壇してきたからか今回のLTは比較的落ち着いてこなせたのかなと思っています。 にしても、相変わらず学生LT…]]></description><link>https://diary.superconsole.work/181117/</link><guid isPermaLink="false">https://diary.superconsole.work/181117/</guid><pubDate>Sat, 17 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;学生LTにてと登壇してきました。&lt;/p&gt;
+&lt;p&gt;今までに何回か登壇してきたからか今回のLTは比較的落ち着いてこなせたのかなと思っています。&lt;/p&gt;
+&lt;p&gt;にしても、相変わらず学生LTに参加する人のレベルが高い…。&lt;/p&gt;
+&lt;p&gt;中学生でプログラム系のコンクールで賞を取ってきたり、会社がスポンサーに付いていたりラズパイを繋げて発表したり(!?)と個性豊かでもはや宇宙人かと思わせるくらいの技術と経験を兼ね備えた人が集っていました。&lt;/p&gt;
+&lt;p&gt;中でも個人的に面白かったのは「Webプロダクト開発のマネジメント視点からのLT」でした。&lt;/p&gt;
+&lt;p&gt;本当に16歳とは思えない(話し方や肝の座りようなど30代くらいに感じました…)くらいに人生経験豊富でアニメに出てくる幼き天才エンジニアが現実にやってきた。&lt;/p&gt;
+&lt;p&gt;そんな感じでした。&lt;/p&gt;
+&lt;p&gt;強い人を目の当たりにするとやる気がみなぎってくる私。&lt;/p&gt;
+&lt;p&gt;これから一肌脱いで創作活動を続けていきたく思いますので明日は帰りに買ってきたジャンクキーボードを洗いたいと思います。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[公募に出す曲ができた]]></title><description><![CDATA[DiverseSystemの「AD:PIANO VI…]]></description><link>https://diary.superconsole.work/181116/</link><guid isPermaLink="false">https://diary.superconsole.work/181116/</guid><pubDate>Fri, 16 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;DiverseSystemの「AD:PIANO VI」の公募に参加するための曲がとりあえず完成した。&lt;/p&gt;
+&lt;p&gt;ピアノを主体とした曲は普段作らないけれど、今回の出来はまずまずかもしれない。&lt;/p&gt;
+&lt;p&gt;友人に(こっそり)聞いてもらったら良い曲と言ってもらえたしこれで落ちても文句は言えない。  &lt;/p&gt;
+&lt;p&gt;生音系たくさん使ったなぁ…。&lt;/p&gt;
+&lt;p&gt;本当にストリングスとピアノに効果音まで自分らしさの抑制された曲調ですが、その分ちゃんとドロップはするので大丈夫です(?)。&lt;/p&gt;
+&lt;p&gt;あ、個人的な不安要素として、コード進行とかスケール, ミキシングとかがおかしいところが無いか心配になってきた。&lt;/p&gt;
+&lt;p&gt;まぁたぶん大丈夫でしょう。&lt;/p&gt;
+&lt;p&gt;明日は学生LTなので一日編曲とかは出来ないので今日のうちに見直しとかしておこうかな…。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[学生LTに向けて]]></title><description><![CDATA[日記、また更新し忘れた…。  明後日に東京で開催される学生LTですが、まだスライドに手を付けてないです…。   今やってる「Gitではじめる日記」を題材にいろいろ話を展開しようかなと思ってるので、ちゃちゃっと作りますか。  ところで、今までのLTの登壇は学生LTで…]]></description><link>https://diary.superconsole.work/181115/</link><guid isPermaLink="false">https://diary.superconsole.work/181115/</guid><pubDate>Thu, 15 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;日記、また更新し忘れた…。 &lt;/p&gt;
+&lt;p&gt;明後日に東京で開催される学生LTですが、まだスライドに手を付けてないです…。  &lt;/p&gt;
+&lt;p&gt;今やってる「Gitではじめる日記」を題材にいろいろ話を展開しようかなと思ってるので、ちゃちゃっと作りますか。 &lt;/p&gt;
+&lt;p&gt;ところで、今までのLTの登壇は学生LTで2回, CombDTMで1回の計3回に留まっていますが、これら全部が「何かの情報を伝えるだけ」のLTだった。  &lt;/p&gt;
+&lt;p&gt;他のLT登壇者が「自分が創ったのもを伝える」「自分が新しくはじめたことを伝える」LTをしていたので、なんか自分もやっと新しくはじめたことを題材にLTできるんだなって、強い人たちに追いつくスタート地点に立てたのかなと考えたりしてます &lt;del&gt;(終わった感がすごい)&lt;/del&gt; 。  &lt;/p&gt;
+&lt;p&gt;自分が日記としてGitHubに文章を残していく活動を続けて、考え方の変化や恩恵など、どう影響を受けたのか。&lt;/p&gt;
+&lt;p&gt;また、現状の日記に記す活動の発展に向けたアイデアとかをいろいろみんなと共有したいなと思います。楽しみ(スライド…)。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[IPアドレスを改めて一から習った]]></title><description><![CDATA[IPアドレスによるネットワークの分離とかあまり知らないことを講義を通じて学んだ。 クラスフルとかクラスレスとか使ったことなくてなんだこれ？あーネットマスクを使う25…]]></description><link>https://diary.superconsole.work/181113/</link><guid isPermaLink="false">https://diary.superconsole.work/181113/</guid><pubDate>Tue, 13 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;IPアドレスによるネットワークの分離とかあまり知らないことを講義を通じて学んだ。&lt;/p&gt;
+&lt;p&gt;クラスフルとかクラスレスとか使ったことなくてなんだこれ？あーネットマスクを使う255で埋め尽くされたあれね～的な感じで雑に覚えていたので、実際に演習でサブネットを構築したりサブネットマスクを用いて割り当て可能なIPアドレスの範囲を決められたりして、すごくタメになった。  &lt;/p&gt;
+&lt;p&gt;何事もちゃんと学ばないとなぁ～。&lt;/p&gt;
+&lt;p&gt;ところでAWSに登録するためのVプリカ買わないとじゃん。&lt;/p&gt;
+&lt;p&gt;まぁいいか。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ジャンルの壁を超えて]]></title><description><![CDATA[サークルの活動の中で、…]]></description><link>https://diary.superconsole.work/181112/</link><guid isPermaLink="false">https://diary.superconsole.work/181112/</guid><pubDate>Mon, 12 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;サークルの活動の中で、1年生の人が「ジャンルとかよくわからなくて、自分の好きな音楽しか作れない」と悩みを話していました。&lt;/p&gt;
+&lt;p&gt;それを聞いた上回生の人が「ジャンルにとらわれずに音楽をつくれることはすごいことだから自信を持ってほしい」と返してて、ふとジャンルという概念について考えてみようと思い、それを日記に記します。&lt;/p&gt;
+&lt;p&gt;音楽を作る人のこだわりをジャンルを主軸にして分けると、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「ある特定のジャンルの中でオリジナリティ・クオリティを追求する」&lt;/li&gt;
+&lt;li&gt;「ジャンルにこだわらずオリジナリティを追求する」
+の二つのタイプに大体が当てはまるのかなと思います。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;しかし実際のところ、DTMの学習支援サイトとかではジャンルごとに音作り, ミックス, マスタリングのやり方が分かれていたりするので自分の作風に合うジャンルを選ぶところから始まるのが多数派なのかなーって。&lt;/p&gt;
+&lt;p&gt;それに、ジャンルを決めてから曲を作るとプロとの完成度の差異が明確になるし他人に聞かせるときも基準に沿った評価が得られたりしてメリットが大きいのも事実。どのくらい成長したのかも身にしみてわかったりもする。&lt;/p&gt;
+&lt;p&gt;しかし、それでいいのかな。もしかしたら頭の中で浮かぶメロディとかフレーズもジャンルにしばられて発想の方向が縛られてないかな…って考える自分もいる。&lt;/p&gt;
+&lt;p&gt;自分が作りたい、表現したいものがジャンルという固定概念によって抑制されるのなら、それほど悲しいことはない。&lt;/p&gt;
+&lt;p&gt;自分は誰にも作れないような音楽を作りたいし、そこから音楽の新しい可能性を見いだして行きたい。&lt;/p&gt;
+&lt;p&gt;だからジャンルにとらわれずに好きな音楽を作れる人は尊敬するし、それを望んでいたいって思う。
+いいなぁ。&lt;/p&gt;
+&lt;p&gt;作曲に関していろんな知識や技術を身につけたが故に失われていくオリジナリティや創造性もあるのかな～。&lt;/p&gt;
+&lt;p&gt;話が錯乱してしまったが、今この瞬間でしか作れない音楽があるんだなって気づいた。今を大切にして作曲活動に励んでいきます。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[1カ月ぶりの空手...]]></title><description><![CDATA[昨日の日記すっぽかしました。すいませんでした…。本当にすいません(戒め)。 ここ最近いろいろとやることが多くて…(n回目)。 10月はなかなか出られなかったんですね。 1…]]></description><link>https://diary.superconsole.work/181111/</link><guid isPermaLink="false">https://diary.superconsole.work/181111/</guid><pubDate>Sun, 11 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;昨日の日記すっぽかしました。すいませんでした…。本当にすいません(戒め)。&lt;/p&gt;
+&lt;p&gt;ここ最近いろいろとやることが多くて…(n回目)。&lt;/p&gt;
+&lt;p&gt;10月はなかなか出られなかったんですね。&lt;/p&gt;
+&lt;p&gt;11月に入って最初の週もダメで今日やっと出られたわけですが、久しぶりすぎて体のなまりぐあいが笑えないくらいに進行していました…悲しい…。&lt;/p&gt;
+&lt;p&gt;やっぱ鍛錬は日々続けていかないと駄目だなぁって気づかされてばかり。&lt;/p&gt;
+&lt;p&gt;隙間時間に道場以外の場所でも訓練しなきゃと思った。&lt;/p&gt;
+&lt;p&gt;本当に。まとめよう出来そうなこと&lt;/p&gt;
+&lt;p&gt;「家でも出来そうな空手の鍛錬」&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ストレッチ全般&lt;/li&gt;
+&lt;li&gt;前屈後屈の低姿勢維持&lt;/li&gt;
+&lt;li&gt;腕の強化いろいろ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;これくらいでしょうか…続けていこうと思います…。&lt;/p&gt;
+&lt;p&gt;少しでもなまることのないように。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Diverse Systemの曲を作る]]></title><description><![CDATA[これを今日の目標として制作を進めていました。 現状報告。 「進捗」 5:3…]]></description><link>https://diary.superconsole.work/181109/</link><guid isPermaLink="false">https://diary.superconsole.work/181109/</guid><pubDate>Fri, 09 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;これを今日の目標として制作を進めていました。&lt;/p&gt;
+&lt;p&gt;現状報告。&lt;/p&gt;
+&lt;p&gt;「進捗」&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5:30まで尺は埋めた。尺だけです。&lt;/li&gt;
+&lt;li&gt;効果音とか雰囲気、世界観は想像できたがまだ再現しきれていない。&lt;/li&gt;
+&lt;li&gt;いままでで最高のメロディ、旋律かもしれない…&lt;/li&gt;
+&lt;li&gt;ドロップが行き詰っている最中…どんな感じで世界観表そうかな…。&lt;/li&gt;
+&lt;li&gt;Neutron Eements万歳！！！OTT万z(ry！！！  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;こんな感じ。&lt;/p&gt;
+&lt;p&gt;残されているのはこれから寝るまでの時間と月曜日のみ。&lt;/p&gt;
+&lt;p&gt;月曜日の23:59が締め切りなのでかなりしんどい…。&lt;/p&gt;
+&lt;p&gt;でも学校の三年間で成長したのでそれを証明できるほどのクオリティにしてやる！！おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Web開発の統合環境をAtom IDEからBracketsに移行するかも?]]></title><description><![CDATA[今まで家でも外出先でもAtom IDEを用いてWebの開発をしていたが、いくつか不便が生じた。 Atom IDEの不便さ 起動が重い 余計なプラグインが多くてなんかいや(主な用途がWebだけなのにJava…]]></description><link>https://diary.superconsole.work/181108/</link><guid isPermaLink="false">https://diary.superconsole.work/181108/</guid><pubDate>Thu, 08 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;今まで家でも外出先でも&lt;strong&gt;Atom IDE&lt;/strong&gt;を用いてWebの開発をしていたが、いくつか不便が生じた。&lt;/p&gt;
+&lt;p&gt;Atom IDEの不便さ&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;起動が重い&lt;/li&gt;
+&lt;li&gt;余計なプラグインが多くてなんかいや(主な用途がWebだけなのにJavaとかのパッケージが常駐してる。消すの怠い)&lt;/li&gt;
+&lt;li&gt;ウィンドウバーがなんかダサい&lt;/li&gt;
+&lt;li&gt;プロジェクトのディレクトリの依存がよくわからない&lt;/li&gt;
+&lt;li&gt;使える機能が多すぎる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;とかですね。&lt;/p&gt;
+&lt;p&gt;あと開発元がMSに買収されてなんか嫌悪感が生まれたのもあるのかな(関係ない)。  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://brackets.io/&quot;&gt;Brackets&lt;/a&gt;はAdobe(デザイン系だから強そう)がフロントエンド向けのWeb開発環境として開発したIDEらしい。  &lt;/p&gt;
+&lt;p&gt;早速使ってみたが起動がめっちゃ速い！、動作が軽い！、ミニマルなデザインで見やすい！、Web開発の環境がデフォルトで揃っている！、&lt;/p&gt;
+&lt;p&gt;すごい感じでした！。&lt;/p&gt;
+&lt;p&gt;徐々にこっちに移行していくのかな？。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[UVERworld]]></title><description><![CDATA[発売されましたね「UVERworld - Good and Evil」。 早速買いたいところですが、金欠な僕はストリーミングサービス(Spotify)での配布を待っている最中ですね。 買う予定だったけど思わぬ出費が生じてしまい…。 25…]]></description><link>https://diary.superconsole.work/181107/</link><guid isPermaLink="false">https://diary.superconsole.work/181107/</guid><pubDate>Wed, 07 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;発売されましたね「UVERworld - Good and Evil」。&lt;/p&gt;
+&lt;p&gt;早速買いたいところですが、金欠な僕はストリーミングサービス(Spotify)での配布を待っている最中ですね。&lt;/p&gt;
+&lt;p&gt;買う予定だったけど思わぬ出費が生じてしまい…。&lt;/p&gt;
+&lt;p&gt;250円安いんだけどね…。&lt;/p&gt;
+&lt;p&gt;やっぱ買うか…どうしよ…。&lt;/p&gt;
+&lt;p&gt;と葛藤しております。&lt;/p&gt;
+&lt;p&gt;以上。おわり。  &lt;/p&gt;
+&lt;p&gt;※追記・・・Spotifyで配信されてました！！！！うれしい！！！&lt;/p&gt;</content:encoded></item><item><title><![CDATA[究極の睡眠術を読みます]]></title><description><![CDATA[睡眠時間が少ない中でより質を高めるためにこの本を読み進めているのですが、早速今までの常識をいくつか覆されています。 「睡眠時間は8時間がベストとは限らない」 「体内時計に忠実に従う」 「アラームを音ではなく光に変える」 「睡眠の9…]]></description><link>https://diary.superconsole.work/181105/</link><guid isPermaLink="false">https://diary.superconsole.work/181105/</guid><pubDate>Mon, 05 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;睡眠時間が少ない中でより質を高めるためにこの本を読み進めているのですが、早速今までの常識をいくつか覆されています。&lt;/p&gt;
+&lt;p&gt;「睡眠時間は8時間がベストとは限らない」&lt;/p&gt;
+&lt;p&gt;「体内時計に忠実に従う」&lt;/p&gt;
+&lt;p&gt;「アラームを音ではなく光に変える」&lt;/p&gt;
+&lt;p&gt;「睡眠の90分サイクル」&lt;/p&gt;
+&lt;p&gt;など、タメになって面白い内容ばかりです。&lt;/p&gt;
+&lt;p&gt;実践できそうなものはどんどん活用していこうと思います。&lt;/p&gt;
+&lt;p&gt;作業してバイトに行くのでここで。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[曲をたくさん(二曲)つくった]]></title><description><![CDATA[昨日、日記を書き終えてから曲を作りはじめ、個人の方だけでなく合作のほうも曲を作る予定だったなぁなんて他人事のように思いながらとりあえず個人の曲を午前中に完成させて、半日でもう一曲頑張っていました。 二曲目は、合作相手からプロジェクトが送られてきて、なぜかGlitch Hop…]]></description><link>https://diary.superconsole.work/181104/</link><guid isPermaLink="false">https://diary.superconsole.work/181104/</guid><pubDate>Sun, 04 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;昨日、日記を書き終えてから曲を作りはじめ、個人の方だけでなく合作のほうも曲を作る予定だったなぁなんて他人事のように思いながらとりあえず個人の曲を午前中に完成させて、半日でもう一曲頑張っていました。&lt;/p&gt;
+&lt;p&gt;二曲目は、合作相手からプロジェクトが送られてきて、なぜかGlitch Hopが似合いそうだなって思い、作ったこともないジャンルで作っていました(時間が無い時に限って新しいジャンルを作りたくなる現象is何?)。&lt;/p&gt;
+&lt;p&gt;悪戦苦闘しながらもなんとか夜の9時ごろに完成…。&lt;/p&gt;
+&lt;p&gt;一日で二曲仕上げたのは初めてかもしれない(一曲目は前日の夜にある程度完成してたので実質1.5曲?それでもこんな経験は初めてだ…)と思い、それと同時に曲を作るスピードの速さ(自身の成長ぶり)に驚きました。&lt;/p&gt;
+&lt;p&gt;成長したなぁ自分…?&lt;/p&gt;
+&lt;p&gt;この速度で曲を作れるのなら今月中にEPを出せるのでは?…頑張るか…。おわり。&lt;/p&gt;
+&lt;p&gt;P.S 日記で昨日の振り返りを書くのビミョいのでは?笑&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ambientの新境地を開いた]]></title><description><![CDATA[昨日コミットするのを忘れてしまった…。 まぁ多少コミットし忘れたところがあっても日々芝生を耕す活動を続けていれば何も問題はないと思う。 思う。   なので昨日の話()。 いつもお世話になっている99Sounds…]]></description><link>https://diary.superconsole.work/181102/</link><guid isPermaLink="false">https://diary.superconsole.work/181102/</guid><pubDate>Fri, 02 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;昨日コミットするのを忘れてしまった…。&lt;/p&gt;
+&lt;p&gt;まぁ多少コミットし忘れたところがあっても日々芝生を耕す活動を続けていれば何も問題はないと思う。&lt;/p&gt;
+&lt;p&gt;思う。  &lt;/p&gt;
+&lt;p&gt;なので昨日の話()。&lt;/p&gt;
+&lt;p&gt;いつもお世話になっている99Sounds(無料エフェクト音源専門のサイト)に久々に訪れると新作が上がっていることに気づき、早速チェックしていると、&lt;/p&gt;
+&lt;p&gt;そのプレビュー動画として挙げられていた曲&lt;a href=&quot;https://www.youtube.com/watch?v=DKoTZiPy39k&quot;&gt;&lt;strong&gt;EXIMIA - Abyss feat Lukas Tvrdon&lt;/strong&gt;&lt;/a&gt;に形容しがたい衝撃を受けた。&lt;/p&gt;
+&lt;p&gt;Ambientの中でも”宇宙空間を漂っているような、映画内の雰囲気描写(音だけど)のような”曲調のものを”Soundscapes”というらしい。&lt;/p&gt;
+&lt;p&gt;Ambientはメロディとコードがうっすらと聞こえることがあるけどこのSoundscapesは本当に効果音だけかな…。&lt;/p&gt;
+&lt;p&gt;パッドが聞こえるものもあるけど。&lt;/p&gt;
+&lt;p&gt;Soundscapesは、重みというか聞いた後の余韻とかはEpic Musicに似ているがホラー映画のようなテイストに近いかと思う。&lt;/p&gt;
+&lt;p&gt;新しい領域に踏み込めて嬉しい。以上。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[11月の意気込み]]></title><description><![CDATA[11月になりました。 寒さが近づいている感じがします。 毎日適当に書き連ねている日記も…]]></description><link>https://diary.superconsole.work/181101/</link><guid isPermaLink="false">https://diary.superconsole.work/181101/</guid><pubDate>Thu, 01 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;11月になりました。&lt;/p&gt;
+&lt;p&gt;寒さが近づいている感じがします。&lt;/p&gt;
+&lt;p&gt;毎日適当に書き連ねている日記も1ヶ月半近く続いていますね。&lt;/p&gt;
+&lt;p&gt;いい調子。  &lt;/p&gt;
+&lt;p&gt;しかし、もう日記を作ることが目標ではありません。&lt;/p&gt;
+&lt;p&gt;毎日新しく覚えたこと、学ぼうとしていること、興味があること、これらは何か「かたち」にしないとつまらないです。&lt;/p&gt;
+&lt;p&gt;なので、今月は「何かを創る」。&lt;/p&gt;
+&lt;p&gt;この姿勢を持ちながら日記を書いていこうかと思います。  &lt;/p&gt;
+&lt;p&gt;今はAWSをはじめる準備(Vプリカの購入とか云々)を進めていて、サーバレスなサービスを開発したいと考えていたり、音楽活動としても何かEP制作?公募に参加?したりして実績を創ろうかと考えている最中です(なんなら全部やるか！！)。 &lt;/p&gt;
+&lt;p&gt;あとこの日記をGit submoduleを活用して&lt;a href=&quot;https://superconsole.work/&quot;&gt;公式サイト&lt;/a&gt;に取り込んだり学生LTに登壇する予定だったり、これからもいろいろと頑張っていくので頑張ります！！！。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[10月を終えて]]></title><description><![CDATA[きっかけから先へ進めたのかは正直わからない…。   でもきっかけを延長して先に進もうとする姿勢は取っていたので少なからず見返りは目に見えない形で受けられたのだろうと信じている。   さて、1…]]></description><link>https://diary.superconsole.work/181031_2/</link><guid isPermaLink="false">https://diary.superconsole.work/181031_2/</guid><pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;きっかけから先へ進めたのかは正直わからない…。  &lt;/p&gt;
+&lt;p&gt;でもきっかけを延長して先に進もうとする姿勢は取っていたので少なからず見返りは目に見えない形で受けられたのだろうと信じている。  &lt;/p&gt;
+&lt;p&gt;さて、11月の目標は「何かを創る」。&lt;/p&gt;
+&lt;p&gt;ここまで日記にしてきて、そろそろ就職活動に向けて何か創っていこうかなと思う。 &lt;/p&gt;
+&lt;p&gt;Webサービス, アプリケーション, 個人EP(フリーで出すか…), Massiveのサンプルパックを作る?…etc。  &lt;/p&gt;
+&lt;p&gt;なんでもいいから形にしたい欲が高まってきたので、11月から一皮脱ぎますか~。頑張る。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Google Search Consoleを使ってみる]]></title><description><![CDATA[🎃だね…。いつも通りの日々だけど…。   source   ポートフォリオサイトを制作してGitHub Pagesにプッシュしてドメインもそれらしいのを購入してネームサーバに登録して…etc…]]></description><link>https://diary.superconsole.work/181031/</link><guid isPermaLink="false">https://diary.superconsole.work/181031/</guid><pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;🎃だね…。いつも通りの日々だけど…。  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://wacul-ai.com/blog/seo/internal-seo/google-crawler-request/&quot;&gt;source&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;ポートフォリオサイトを制作してGitHub Pagesにプッシュしてドメインもそれらしいのを購入してネームサーバに登録して…etc、サイト運用が本格的になってきたこの頃。&lt;/p&gt;
+&lt;p&gt;何か足りない気がするんだよなぁと勘ぐっていたら思い出した。&lt;/p&gt;
+&lt;p&gt;「SEO」…!!!。&lt;/p&gt;
+&lt;p&gt;サイトを色んな人に見てもらうための工夫を何もしていなかった…。&lt;/p&gt;
+&lt;p&gt;ということでまずスタートラインに立つために、Google Search Console経由でクローラに探索申請をしてみる。&lt;/p&gt;
+&lt;p&gt;今からサイトマップを制作して、それをアップロードする予定。&lt;/p&gt;
+&lt;p&gt;自分のサイトの構造における癖が強くてジェネレータとかじゃ作れないっぽいので頑張ります…。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[倦怠感...]]></title><description><![CDATA[最近倦怠感がすごくて日中の活動量が減っている気がするので活気づけるためまずどのくらい疲れているかをself doctor.netで診断しました。結果は 慢性的な疲労(7…]]></description><link>https://diary.superconsole.work/181030/</link><guid isPermaLink="false">https://diary.superconsole.work/181030/</guid><pubDate>Tue, 30 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;最近倦怠感がすごくて日中の活動量が減っている気がするので活気づけるためまずどのくらい疲れているかを&lt;a href=&quot;https://www.selfdoctor.net/&quot;&gt;self doctor.net&lt;/a&gt;で診断しました。結果は &lt;strong&gt;慢性的な疲労(75%)&lt;/strong&gt; とのこと…。&lt;br&gt;
+大学一年の時に比べて家で作業することが多くなり、運動は元からしていないので体力とかはいつも通り皆無なのですが、疲れが抜けない感じがいつにもましている感じです。活力が無くなった…。&lt;br&gt;
+そこで次に記事をいくつかピックアップして活力をあげる懸け橋にしようと思いました。&lt;br&gt;
+自己満です。整理しましょう…。  &lt;/p&gt;
+&lt;p&gt;「診断結果」・・・ 疲労度75% -&gt; 専門家に要相談!
+あなたの疲れは慢性化していると考えられます。休養しても疲れがとれない、休みの日は出かける気がしないなどと感じておられるのではないでしょうか。
+日ごろから運動していれば、筋肉が運動による負荷に耐えられる状態になっているので、多少動いても疲れを感じることはありません。しかし、運動不足だと、ちょっとしたことに筋肉が対応できずに疲労を起こします。また、精神的なトラブルによって情緒が不安定になり、不眠や肩こり、意欲の低下、吐き気などの症状が出ることがあります。これは、仮性うつ病やパニック症候群などの兆候か、内科的な問題です。&lt;/p&gt;
+&lt;p&gt;「先生からのアドバイス」
+疲労が内科的な問題なら、顔色が悪い、めまいがする、動悸を感じる、微熱があるなどの疲労以外の症状を伴います。貧血や甲状腺機能低下、肝機能障害などが考えられますから、早めに内科医に相談することをおすすめします。身体的には健康なのに疲れが続くときは、精神的なことが原因とも考えられます。気楽な気持ちで心療内科や精神神経科などで診てもらうといいでしょう。専門医に相談しないでいると、かえって悪い状態になることもあるので注意してください。
+“引用 by &lt;a href=&quot;https://www.selfdoctor.net/&quot;&gt;self doctor.net&lt;/a&gt;”&lt;/p&gt;
+&lt;p&gt;「疲労に関する現状」&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;日本人の約56%が日常生活において疲労を感じている。&lt;/li&gt;
+&lt;li&gt;疲労は長期間にわたるケースが多い(半年が約40%)&lt;/li&gt;
+&lt;li&gt;全国の男女20代以上に行った別のアンケートでは8割が疲労を感じている(n=2535)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;「疲労の原因」&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不規則な生活&lt;/li&gt;
+&lt;li&gt;ストレスを溜め込むことで体の筋肉が強張り、緊張から疲労につながる。&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;自立神経の活動レベルが低い -&gt; 交感神経と副交感神経の働き方のバランスが悪い&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;交感神経が高く、副交感神経が低い : 活動的ですがストレスを溜めやすく、病気になりやすい&lt;/li&gt;
+&lt;li&gt;交感神経が低く、副交感神経が高い : この傾向が極端になると、うつ病の傾向になる&lt;/li&gt;
+&lt;li&gt;交感神経が低く、副交感神経も低い : この傾向が極端になると、やる気も起きず、疲れやすくなる&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;「回復方法」&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;自律神経を整える&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;基本姿勢 -&gt; 「気持ちが落ち着いている」状態と暗示してでリラックスする(気持ちが大切)&lt;/li&gt;
+&lt;li&gt;重感 -&gt; 体の末端に意識を集中させる。場所を変えて繰り返す。&lt;/li&gt;
+&lt;li&gt;温感 -&gt; 体の末端に暖かさを感じる?これは意味わからんので重感と一緒でいいや
+さいごに. 深呼吸して解除&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;日常に疲労解消メソッドを取り入れる&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;十分な睡眠 &amp;#x26; 睡眠前にストレッチをする&lt;/li&gt;
+&lt;li&gt;疲れに効く栄養素を取る -&gt; ビタミンB/C, アミノ酸, クエン酸, コエンザイムQ10&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ストレス解消&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;体を動かす&lt;/li&gt;
+&lt;li&gt;趣味を持つ&lt;/li&gt;
+&lt;li&gt;森林浴をする&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;十分に休む -&gt; これに限るなぁ…。&lt;/li&gt;
+&lt;li&gt;思考の偏りを見直す -&gt; ネガティブ思考や完璧主義, 極度の慎重さなどから離れる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;整理したので、おわり。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rules-of-success.jp/mental/feel-tired/&quot;&gt;source1&lt;/a&gt;, &lt;a href=&quot;https://takeda-kenko.jp/navi/navi.php?key=darusa&quot;&gt;source2&lt;/a&gt;, &lt;a href=&quot;https://style.nikkei.com/article/DGXMZO14156220W7A310C1000000&quot;&gt;source&lt;/a&gt;  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[M3お疲れ様でした]]></title><description><![CDATA[M…]]></description><link>https://diary.superconsole.work/181028/</link><guid isPermaLink="false">https://diary.superconsole.work/181028/</guid><pubDate>Sun, 28 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;M3お疲れ様でした。&lt;/p&gt;
+&lt;p&gt;本当にかけがえのない思い出になりました。&lt;/p&gt;
+&lt;p&gt;いろんな人との出会いや新しい音楽の発見、探求心が刺激されてモチベーションが最高値まで達しています。&lt;/p&gt;
+&lt;p&gt;やっぱり同じ「音楽に携わる人」が同じ場所に集って同じ時間を共有しあい価値観を分け合う。&lt;/p&gt;
+&lt;p&gt;こんなに最高なことは無いと心から感じられる一日でした。&lt;/p&gt;
+&lt;p&gt;明日からはサークルの現役生最後の曲の制作に入ります。&lt;/p&gt;
+&lt;p&gt;全力を尽くします。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[眠っていた古いPCに軽量Linuxをいれた]]></title><description><![CDATA[家の奥底に眠っている CPU:celeron,
+RAM:4GB を誇る超低性能PCをただのWebクライアントにするため、軽量ディストリビューションをインストールする戦いが始まった。 日記に書く前から Ubuntu -> WattOS -> TinyCore(Live…]]></description><link>https://diary.superconsole.work/181027/</link><guid isPermaLink="false">https://diary.superconsole.work/181027/</guid><pubDate>Sat, 27 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;家の奥底に眠っている&lt;/p&gt;
+&lt;p&gt;CPU:celeron,
+RAM:4GB&lt;/p&gt;
+&lt;p&gt;を誇る超低性能PCをただのWebクライアントにするため、軽量ディストリビューションをインストールする戦いが始まった。&lt;/p&gt;
+&lt;p&gt;日記に書く前から&lt;/p&gt;
+&lt;p&gt;Ubuntu -&gt; WattOS -&gt; TinyCore(Live起動の段階で不便すぎてやめた) -&gt; Chromium OS -&gt; Kali Linux -&gt; Xubuntu&lt;em&gt;&amp;#x3C;-いまここ&lt;/em&gt;  &lt;/p&gt;
+&lt;p&gt;といった流れで何度も乗り換えてきた。&lt;/p&gt;
+&lt;p&gt;自分が飽き性だからだろう。&lt;/p&gt;
+&lt;p&gt;パッケージの使いにくさや記事の少なさなど相性的に合わないディストリビューションがあったのは事実。&lt;/p&gt;
+&lt;p&gt;今回のXubuntuは比較的有名なディストリビューションかつプリインストールパーッケージが最低限といった利点から選んだ。  &lt;/p&gt;
+&lt;p&gt;今後時間がある(やる気がある)時がくればArchLinuxで最小構成をゼロから構築しようと考えているがそれまではXubuntuを使っていこうと思う。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[M3の仕事を全て終えた]]></title><description><![CDATA[ここ最近忙しすぎて自発的なアクションがあまり取れなかった(もっともM…]]></description><link>https://diary.superconsole.work/181026/</link><guid isPermaLink="false">https://diary.superconsole.work/181026/</guid><pubDate>Fri, 26 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;ここ最近忙しすぎて自発的なアクションがあまり取れなかった(もっともM3自体の活動が自発的だけど)。&lt;/p&gt;
+&lt;p&gt;その分仕事を全て終えたときの達成感は計り知れない。&lt;/p&gt;
+&lt;p&gt;多くの学生がしないような特別な経験を自分は経ているんだなって心からそう思える。  &lt;/p&gt;
+&lt;p&gt;特別な経験はサークルに入ってから何度も味わってきたけれど、何度味わってもこの達成感は新鮮な心地よさだ。  &lt;/p&gt;
+&lt;p&gt;楽しかった。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Reactを学びなおすか別のフレームワークにするか]]></title><description><![CDATA[Reactを使って作成したポートフォリオサイトがあまりにもひどい…。 Reactの特徴であるpropsやstateを全く生かしていないし、ただオーバーヘッドを生み出しているだけである。   実際Reactの仮想DOM…]]></description><link>https://diary.superconsole.work/181025/</link><guid isPermaLink="false">https://diary.superconsole.work/181025/</guid><pubDate>Thu, 25 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Reactを使って作成したポートフォリオサイトがあまりにもひどい…。&lt;/p&gt;
+&lt;p&gt;Reactの特徴であるpropsやstateを全く生かしていないし、ただオーバーヘッドを生み出しているだけである。  &lt;/p&gt;
+&lt;p&gt;実際Reactの仮想DOMでコンテンツを抽象化したかったのが目的であったがサイトの速度が著しく低下しているので元に戻したい。  &lt;/p&gt;
+&lt;p&gt;何より、Reactの記述をJSXで行ってからBabelでトランスパイルしてjsを生成するのが余計なことしてる感がすごい。  &lt;/p&gt;
+&lt;p&gt;気づいたのがサイトの構造を見ると真ん中のwrap部分だけ再描画できる静的サイトをつくればいいのだから&lt;iframe&gt;タグでwrap部分を隔離して、jQueryとかで部分的再描画をするよう制御すればいいだけということだ。&lt;/p&gt;
+&lt;p&gt;Reactの利点をいかすまでのフロントエンド側の実装はそこまで必要とされていない。&lt;/p&gt;
+&lt;p&gt;設計段階でもっと考えておけばよかったと全体を通して後悔しています。  &lt;/p&gt;
+&lt;p&gt;JavaScriptのライブラリをもっと吟味して改装していこうかなと思っている所存ですね。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[SoundCloud-API叩くときのクラッカーしてる感がすごくてテンション上がった]]></title><description><![CDATA[サイトの制作をしているときにSoundCloudのAPIを組み込む機会があったのでいろいろいじっていたが、その中の指定するオプション内にpro機能限定のものがいくつかあり、広告みたいなのも付くため、いやだなぁと思っていた。 しかし、オプションを指定した後に生成されたiframe…]]></description><link>https://diary.superconsole.work/181024/</link><guid isPermaLink="false">https://diary.superconsole.work/181024/</guid><pubDate>Wed, 24 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;サイトの制作をしているときにSoundCloudのAPIを組み込む機会があったのでいろいろいじっていたが、その中の指定するオプション内にpro機能限定のものがいくつかあり、広告みたいなのも付くため、いやだなぁと思っていた。&lt;/p&gt;
+&lt;p&gt;しかし、オプションを指定した後に生成されたiframeタグを眺めていると、指定したオプションが「APIのパラメータ」として記述されていることに気づいた。&lt;/p&gt;
+&lt;p&gt;そこで公式のAPIドキュメントにこのiframe内のパラメータを検索にかけたらパラメータの仕様書に引っ掛かったのだ。&lt;/p&gt;
+&lt;p&gt;面白くてニヤけてしまった。&lt;/p&gt;
+&lt;p&gt;デベロッパーを選定してるのか…。&lt;/p&gt;
+&lt;p&gt;情弱は金払えってか…笑。&lt;/p&gt;
+&lt;p&gt;そうウキウキした気分で仕様書に目を通して広告みたいなのを消すオプションをはじめとした邪魔なものを消すオプションたちをパラメータで指定していき、ちゃんと反映された。 &lt;/p&gt;
+&lt;p&gt;なんかグレーな事したのかななんてクラッカーな気分に浸りながらサイトを完成させたのであった。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gitlabもちゃんと活用したい]]></title><description><![CDATA[最近、GitHubの芝を耕すことが目的になりがちで、Gitlabのリポジトリが何も使いこなせていないことに気づいた。   せっかくGitlab PagesっていうPaaS(heroku…]]></description><link>https://diary.superconsole.work/181023/</link><guid isPermaLink="false">https://diary.superconsole.work/181023/</guid><pubDate>Tue, 23 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;最近、GitHubの芝を耕すことが目的になりがちで、Gitlabのリポジトリが何も使いこなせていないことに気づいた。  &lt;/p&gt;
+&lt;p&gt;せっかくGitlab PagesっていうPaaS(herokuみたいな?)が提供されていることだし、何か新しいサイトを立ち上げたいなぁって思ったりしてる。  &lt;/p&gt;
+&lt;p&gt;でも&lt;a href=&quot;https://superconsole.work&quot;&gt;公式サイト&lt;/a&gt;の付け足しとかもしっかりしたいし、どっちつかずな状態になっている。  &lt;/p&gt;
+&lt;p&gt;てかなんで今日バイト入れちゃったんだろう後悔しかしてない。だっる。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Google Developer Toolがすごい]]></title><description><![CDATA[Google Developer Toolがすごい!!! 今日1日技術書典で買ったGDTの本を読みながらWeb開発をしてそう感じた。 特に「Elements」タブ(機能)の豊富さと便利さだ。 Inspect…]]></description><link>https://diary.superconsole.work/181022/</link><guid isPermaLink="false">https://diary.superconsole.work/181022/</guid><pubDate>Mon, 22 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Google Developer Toolがすごい!!!&lt;/p&gt;
+&lt;p&gt;今日1日技術書典で買ったGDTの本を読みながらWeb開発をしてそう感じた。&lt;/p&gt;
+&lt;p&gt;特に「Elements」タブ(機能)の豊富さと便利さだ。&lt;/p&gt;
+&lt;p&gt;Inspectツールで目的の要素をピックアップして、右側に表示されたプロパティを編集するとリアルタイムで表示結果に反映されるのでスムーズに開発が進められる。&lt;/p&gt;
+&lt;p&gt;今までは何回も「編集-&gt;保存-&gt;リロード」を繰り返していたため、要素の位置や大きさを細かく調整する時間が確保できなかったが、それが嘘だったかのようにスムーズにレイアウトの微調整ができる！  &lt;/p&gt;
+&lt;p&gt;むしろ今までのやり方がひどすぎた。&lt;/p&gt;
+&lt;p&gt;Web開発はこうあるべきなんだ。もう戻ることなんてできない。&lt;/p&gt;
+&lt;p&gt;Google Developer Toolが開発環境だ!!!&lt;/p&gt;
+&lt;p&gt;昔はパソコンでの表示とスマホの表示を区別するのでいっぱいだったが、GDTでの開発を通してからiPhone 5/SE/6/7/8/Plusシリーズ, 比較的古い(解像度が低い)スマホ, ノートPC~FHDのPCなど細かいデバイスに応じたレイアウトの変更が短時間で可能になった(デバッグの効率化の恩恵もある)。  &lt;/p&gt;
+&lt;p&gt;余談: 副作用として、CSSをいじりすぎて化け物みたいなコードと化してしまった。CSSの自動リファクタリングツールとかあったら使いたいな…おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[試験を終えて]]></title><description><![CDATA[無事に試験を終えました。 朝の倦怠感が重くのしかかってきて試験会場にたどり着くのが最大の難関でした。 午前2, 午後12と試験時間はとても長かったのですが、終わった後の解放感は心地よかった笑   さて、IPA…]]></description><link>https://diary.superconsole.work/181021/</link><guid isPermaLink="false">https://diary.superconsole.work/181021/</guid><pubDate>Sun, 21 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;無事に試験を終えました。&lt;/p&gt;
+&lt;p&gt;朝の倦怠感が重くのしかかってきて試験会場にたどり着くのが最大の難関でした。&lt;/p&gt;
+&lt;p&gt;午前2, 午後12と試験時間はとても長かったのですが、終わった後の解放感は心地よかった笑  &lt;/p&gt;
+&lt;p&gt;さて、IPA公式から午前の解答が公開されたのですが、  &lt;/p&gt;
+&lt;p&gt;答え合わせの結果、、、  &lt;/p&gt;
+&lt;p&gt;21/25問 = 結果: 84点 合格！！  &lt;/p&gt;
+&lt;p&gt;でしたね。&lt;/p&gt;
+&lt;p&gt;昨日とは手の平を返す用に午前突破を喜ぶのでした。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[明日はネスペの試験]]></title><description><![CDATA[実感がない。全く勉強していない。 前から思っていたのがIPAの国家資格に時間を割きたくないという感情が湧き上がってきていることだ。 試験勉強をする時間をもっと有効なことに使いたいと言っていた友人の考えに今更ながら賛成してしまう。  マスタリングTCP/IP…]]></description><link>https://diary.superconsole.work/181020/</link><guid isPermaLink="false">https://diary.superconsole.work/181020/</guid><pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;実感がない。全く勉強していない。&lt;/p&gt;
+&lt;p&gt;前から思っていたのがIPAの国家資格に時間を割きたくないという感情が湧き上がってきていることだ。&lt;/p&gt;
+&lt;p&gt;試験勉強をする時間をもっと有効なことに使いたいと言っていた友人の考えに今更ながら賛成してしまう。 &lt;/p&gt;
+&lt;p&gt;マスタリングTCP/IPシリーズを読むのは楽しいけどネスペは覚える内容が多すぎて追いつかない、自分の無知さに劣等感を抱くことがこう考えてしまう要因なのかなって。  &lt;/p&gt;
+&lt;p&gt;ここで資格を取ることについて整理してみる。  &lt;/p&gt;
+&lt;p&gt;IPA資格を取るメリット:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;履歴書に書ける&lt;/li&gt;
+&lt;li&gt;情報系以外でも知っている人が多く、有名な資格なので自慢できる(レベルによるが) -&gt; Twitterでセスペの合格報告をしたら史上最高レベルのリアクションがあったのですごいことではあるのかな？って思ったりした。&lt;/li&gt;
+&lt;li&gt;情報系なら学校で勉強している内容がちゃんと身についていることの証明にもなる。&lt;/li&gt;
+&lt;li&gt;単純に合格した時の喜びと優越感が気持ちいい(セスペ合格の時は余韻が二週間くらい続いた)&lt;/li&gt;
+&lt;li&gt;うまくいかない時に励ますことができる(俺はこの資格を持ってるからそのくらいの技術や知識はあるはずだ…)&lt;/li&gt;
+&lt;li&gt;専門的な内容を扱う場面(IT系のインターン, 勉強会, 講義など)&lt;/li&gt;
+&lt;li&gt;学校の授業で有用な授業と無意味な授業が区別できるようになる(感覚が研ぎ澄まされる?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;IPA資格を取るデメリット:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;大事な時間が勉強によってなくなる&lt;/li&gt;
+&lt;li&gt;受験料&lt;/li&gt;
+&lt;li&gt;内容が抽象的すぎて持っていても使えない知識が多く、手に職を付けるといった面では役に立たない  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ざっとこんな感じになった。&lt;/p&gt;
+&lt;p&gt;ここで気づいたことはデメリットは資格を取った以降の自分によってほとんど(受験料以外)拭いされることである。 &lt;/p&gt;
+&lt;p&gt;IPAの資格で抽象的に得た知識からワンステップ踏めば実務に則した内容だって理解できるし、それによって失った時間が無駄じゃなくなるのも確かだ。  &lt;/p&gt;
+&lt;p&gt;資格を自分のメッキ塗装のために取るのではなく自己啓発,セレンディピティーのトリガーたるものとして体系的な知識を得るよう目的を変えてそれに沿った姿勢を意識的に行えばいい話だと自分は考える。 &lt;/p&gt;
+&lt;p&gt;ところで実務に沿った知識が得られるベンダー資格というのがあるけど、正直あれは受験料が高いし、学習するための環境とかを考えれば容易に手が出せるような資格ではない。  &lt;/p&gt;
+&lt;p&gt;それにこの意見は個人の見解だが、取ったところで内容が(IPAとは逆に)具体的すぎて体系的に学んでそこから自分の好きな分野を極めていく姿勢の自分には興味が湧かない。  &lt;/p&gt;
+&lt;p&gt;自分の主観を羅列しただけになったがこれは記事じゃなくて日記だから許してください。&lt;/p&gt;
+&lt;p&gt;明日のネスペ試験全然勉強しないのはなんでかなーって考えてたら、最近サークル活動やらで曲制作にハマっていたり勉強会に参加してそっち方面に集中した時期があったり、充実していて本腰が入らなかったのかなと結論づけますね。ただの言い訳です。  &lt;/p&gt;
+&lt;p&gt;明日の試験は今持てる知識や経験がどのくらい通用するか確かめるものになりそう。全力を尽くします。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[曲作るの難しい]]></title><description><![CDATA[…]]></description><link>https://diary.superconsole.work/181019/</link><guid isPermaLink="false">https://diary.superconsole.work/181019/</guid><pubDate>Fri, 19 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;曲って作るのが難しいと今までに幾度となく感じてきました。今日は具体的にどこが難しいのか整理しようと思います。自分用(いつもだけど)  &lt;/p&gt;
+&lt;p&gt;問題点:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;音が細い, しょぼい, 音の迫力が出ない  &lt;/li&gt;
+&lt;li&gt;ミックスが難しい, 音同士の干渉が起こり住み分けができない&lt;/li&gt;
+&lt;li&gt;完成品をプロの楽曲と比べると強い劣等感を抱いてしまう  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;主にこれらですね。たぶん一般DTMerの悩みと被るのかなぁなんて思ったり。&lt;br&gt;
+そこで考えたのが以下、  &lt;/p&gt;
+&lt;p&gt;自分なりの解決策(試験中):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;音が細い, しょぼい, 音の迫力が出ない&lt;/del&gt; -&gt; OTTでどうにかする, 音量の大小を考慮する, コンプのアタックリリースを見直す  &lt;/li&gt;
+&lt;li&gt;&lt;del&gt;ミックスが難しい, 音同士の干渉が起こり住み分けができない&lt;/del&gt; -&gt; マスター出力をモノラルにしてからEQによる住み分けを行う。そしてステレオにしてパンニングやS/M処理を行って住み分けをさせる。パンニングはしっかりと、S/M処理はOzone Imagerを使って行う。&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;完成品をプロの楽曲と比べると強い劣等感を抱いてしまう&lt;/del&gt; -&gt; プロの曲を解析する。マスタリングのやり方や音のバランス, 楽器ごとの左右の広がり具合などを可能な限りで真似する。また、ジャンルごとに解析する参考曲を用意して多彩なミックス,マスタリングができるようにする。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;こうあるべきなんだ。まとめた。あとは実行するだけ。頑張ります。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CEATEC ~ 量子コンピュータ勉強会]]></title><description><![CDATA[今日は1日何かと忙しかった〜〜 でも楽しかった。
+午前中は講義、午後5時までCEATECでいろんな企業をまわった後に表参道まで行き量子コンピュータの勉強会という流れで、動きっぱなし。 余韻に強く浸っているときは大体内容が薄くなるよね。   詳細(CEATEC…]]></description><link>https://diary.superconsole.work/181018/</link><guid isPermaLink="false">https://diary.superconsole.work/181018/</guid><pubDate>Thu, 18 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;今日は1日何かと忙しかった〜〜&lt;br&gt;
+でも楽しかった。
+午前中は講義、午後5時までCEATECでいろんな企業をまわった後に表参道まで行き量子コンピュータの勉強会という流れで、動きっぱなし。&lt;br&gt;
+余韻に強く浸っているときは大体内容が薄くなるよね。  &lt;/p&gt;
+&lt;p&gt;詳細(CEATEC):  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;様々な企業が独自の最先端技術を披露し合うイベント。名だたる企業からダークホースなところまであるので見ごたえ抜群だった。  &lt;/li&gt;
+&lt;li&gt;ノベルティーが多くて嬉しかった。  &lt;/li&gt;
+&lt;li&gt;残念なのはコミュ障を発揮してしまい企業の人に思うように話しかけられなかったことだった。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;詳細(量子コンピュータ勉強会):  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;予習はしたものの途中から何いってるのかわからなかった。  &lt;/li&gt;
+&lt;li&gt;ただ、Googleが古典ビット用のゲートを量子ゲートに変える &lt;a href=&quot;https://github.com/quantumlib/OpenFermion&quot;&gt;OpenFermion&lt;/a&gt; があることを知れた。  &lt;/li&gt;
+&lt;li&gt;他にも主催企業の強みとなるサービス(Python3ライブラリ)やIBM, D-wave関連のPaaSに関する情報を知れた。  &lt;/li&gt;
+&lt;li&gt;登壇者が強い人で聞いていてモチベが上がった(ただ分野が分野だけに取り組むのに勇気がいる?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;所感:&lt;br&gt;
+足が痛い。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ダイエット途中報告]]></title><description><![CDATA[こっそりと8月の下旬からダイエットを始めていたのですが、体重が4kg減ったので今までのダイエット方法とどれが自分に効果があったのかをまとめて次に活かしていこうかと思います。…]]></description><link>https://diary.superconsole.work/181017/</link><guid isPermaLink="false">https://diary.superconsole.work/181017/</guid><pubDate>Wed, 17 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;こっそりと8月の下旬からダイエットを始めていたのですが、体重が4kg減ったので今までのダイエット方法とどれが自分に効果があったのかをまとめて次に活かしていこうかと思います。  &lt;/p&gt;
+&lt;p&gt;0.実行したダイエット  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;寝る前ダイエット(筋トレ, ストレッチ)  &lt;/li&gt;
+&lt;li&gt;朝食後ダイエット(筋トレ, 有酸素運動)  &lt;/li&gt;
+&lt;li&gt;糖質制限(昼と夜)  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.寝る前ダイエット  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;正直一番効果が無かったと感じた。特にバイト終わりやイベントなどで疲れ切ったときに無理に運動しても余計に栄養が必要になって太ったり、生活に支障を及ぼしかねないほどに体力を消耗したり散々な結果になった。  &lt;/li&gt;
+&lt;li&gt;しかし、余裕があるときは楽しかったので筋トレはやめてストレッチだけにしようと思う。ただそれはダイエットとは違う趣旨になるので「寝る前ダイエット」はやめることになる。    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2.朝食後ダイエット  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一番長く続いているダイエット。朝は体を動かさないと怠い感じが抜けないので最高の運動になる。朝食前だと朝食をがっつり食べてしまって逆効果らしいので朝食後に行っているが苦しさを感じなくて続けやすい。無理がないダイエットが最高だと思う。しかし、なかなか痩せないのが現実。そこで最終手段として三つめが本領を発揮した。    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;3.糖質制限(昼と夜)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ダイエットは続けることが何よりも大事。そのためにはモチベを保つことが必要になる。モチベを保つには体重減という結果がものをいう。正直体重より見た目の変化が大事だが今の日本は体重がすべてみたいなゴミに等しい文化があるので(これは言い訳。自分はダイエット前の体重が77kg。現実を見なきゃいけない)、体重減に結びつきやすい糖質制限を昼と夜に行っている。朝ご飯はがっつり食べないと一日の生活に支障をきたす体質なので行わない。昼はサラダチキンかチョコレート(空腹を満たす効果があるだけで糖質制限ではないけど一応)のどちらかに抑え、夜はなるべく糖質の多いラーメンやご飯を避けるよう心掛けている。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;4.結果&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;最初にも載せたが、Avg:77kg(Max:79kg) - Avg:73kgの減量に成功。目標は69kgまで減量してそれを維持していくこと。しかし、無理しすぎは良くないので休日にはラーメンとかを食べたりしてメンタルを維持している。この調子で頑張るぞ！おわり&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[PaaSの勉強会に参加した]]></title><description><![CDATA[東京駅の近くで開催されていたpaasjp…]]></description><link>https://diary.superconsole.work/181016/</link><guid isPermaLink="false">https://diary.superconsole.work/181016/</guid><pubDate>Tue, 16 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;東京駅の近くで開催されていたpaasjpっていう勉強会に参加してきました。  &lt;/p&gt;
+&lt;p&gt;会場に入った途端おじさんしかいなくて明らかに来る場所間違えた感を抱きながら持ち前のメンタルを保ちつつ平然と座っていたのですが、本当におっさんしかいなくて帰りたくなりました…。  &lt;/p&gt;
+&lt;p&gt;しかし、講義が始まってからのPaaSの話は意外と簡単で身近な内容から入っていったのですんなりと理解でき、PaaSの動向を掴めたのかなと思います。  &lt;/p&gt;
+&lt;p&gt;以下内容をざっくりとまとめる(こういうの久しぶりでは？笑)  &lt;/p&gt;
+&lt;p&gt;Session.1「HelmとService Brokerで始める検証用環境自動構築」&lt;br&gt;
+・Helmとは・・・複数のコンテナを管理するKubernetestのパッケージマネージャ(Ubuntuでいうapt)&lt;br&gt;
+-&gt; 簡単なコマンド($helm install)でk8s上にデプロイができる。&lt;br&gt;
+・Service Broker・・・AWS等の外部サービスとの連携を行う仲介役にあたる仕組み&lt;br&gt;
+・ Helmのメリット・・・検証用環境を共有すると生じる”待ち”や”競合”などの問題を解決する&lt;br&gt;
+-&gt; 自分の環境で簡単に検証用環境が構築できるようになる。&lt;br&gt;
+・Service Brokerのメリット・・・外部サービスのプロビジョニングを統合されたインターフェースで利用可能になる、インターフェース間が疎結合になる&lt;br&gt;
+=&gt; Helm + Service Brokerでクラウドリソースを用いた検証用環境が自動で構築できるようになる(しかも独立に)  &lt;/p&gt;
+&lt;p&gt;Session.2「Cloud Native Buildpacksで面倒なコンテナイメージの作成を自動化する」&lt;br&gt;
+・従来のDockerイメージの作成・・・Dockerfileをポチポチ打ち込んでビルド -&gt; 手間がかかる&lt;br&gt;
+・HerokuやCloud FoundryはpushされたリソースからPaaS上で動作可能なコンテナを生成し、実行する”Build Pack”という仕組みを持っている&lt;br&gt;
+・この技術をDockerイメージ生成に応用させたのが”Cloud Native Buildpacks”というサービス
+　-&gt; pushされたリソースをもとにDockerイメージを作成、提供する&lt;br&gt;
+-&gt; packコマンドで多彩な言語を自動判定して実行環境を構築する機能も(複合するアプリの対応もしている)  &lt;/p&gt;
+&lt;p&gt;はい。すごい技術を知ることができました。&lt;/p&gt;
+&lt;p&gt;このセッションの中で実務中に生じた課題やその解決プロセスを述べていたりしてとても濃い内容のお話が聞けたと思います。&lt;/p&gt;
+&lt;p&gt;この勉強会は人気の勉強会で平日の夜なのに70人近く参加する規模なので期待値も高かったのですがそれを超えるくらいの内容だったので次回も参加できたらなと思います！おわり&lt;/p&gt;</content:encoded></item><item><title><![CDATA[GitHub Pagesをカスタムドメイン化した]]></title><description><![CDATA[以前に superconsole.work というドメインを購入してネームサーバ(Cloudflare)に登録したのですが、なかなか反映されないなーなんて思っていて、原因究明したら単純にAレコードの設定がミスってたらしいです(GitHubPagesは二つのIP…]]></description><link>https://diary.superconsole.work/181015/</link><guid isPermaLink="false">https://diary.superconsole.work/181015/</guid><pubDate>Mon, 15 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;以前に superconsole.work というドメインを購入してネームサーバ(Cloudflare)に登録したのですが、なかなか反映されないなーなんて思っていて、原因究明したら単純にAレコードの設定がミスってたらしいです(GitHubPagesは二つのIPアドレスを登録する必要があった)。  &lt;/p&gt;
+&lt;p&gt;凡ミスというか仕様に目を通さなかった自分が悪いのですが設定しなおしたら無事に動きました(ただ、ネームサーバが無料枠なので時々522が発生するっぽい？)。  &lt;/p&gt;
+&lt;p&gt;SSL証明書も発行してHTTPS化も終わらせたのでよかったなと思いますねー。  &lt;/p&gt;
+&lt;p&gt;ちなみに取得したドメインは初回69円で更新料999円(/年)なので安いなーって今の時代すごいよね。&lt;/p&gt;
+&lt;p&gt;いずれはネームサーバもちゃんとしたのに変えたいですね…。  &lt;/p&gt;
+&lt;p&gt;※追記:CloudFlareが522エラーを返す頻度があまりにも高いためネームサーバーを移行している最中です。&lt;br&gt;
+おわり&lt;/p&gt;</content:encoded></item><item><title><![CDATA[DTM x Multi 合同企画2018秋を通して]]></title><description><![CDATA[今日が制作した作品の発表会でした。   計30組近くに及ぶグループはどこもクオリティが高くてとてもいい刺激になりました。   自分のペアはイラスト担当がなんと歌を歌ってくれるという話になり、DTM…]]></description><link>https://diary.superconsole.work/181014/</link><guid isPermaLink="false">https://diary.superconsole.work/181014/</guid><pubDate>Sun, 14 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;今日が制作した作品の発表会でした。  &lt;/p&gt;
+&lt;p&gt;計30組近くに及ぶグループはどこもクオリティが高くてとてもいい刺激になりました。  &lt;/p&gt;
+&lt;p&gt;自分のペアはイラスト担当がなんと歌を歌ってくれるという話になり、DTM班としては珍しいボーカル付きの曲を発表したのですがなかなか好評でよかったです。  &lt;/p&gt;
+&lt;p&gt;打ち上げのロゼがとても身に染みたのでいい日だったなぁなんて笑  &lt;/p&gt;
+&lt;p&gt;今は余韻に浸っています。&lt;/p&gt;
+&lt;p&gt;おわり。最近雑だけどこんなんでいいかな。おわり。  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[四つ打ちの曲ができた]]></title><description><![CDATA[二か月くらい前からゆっっｋ…]]></description><link>https://diary.superconsole.work/181013/</link><guid isPermaLink="false">https://diary.superconsole.work/181013/</guid><pubDate>Sat, 13 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;二か月くらい前からゆっっｋくりと作っていた歌モノが今さっきようやく完成しました。　　&lt;/p&gt;
+&lt;p&gt;明日が公開日なので、それに合わせて最終調整をしていてつらかったです。&lt;/p&gt;
+&lt;p&gt;いやー人生初のポップスですよ。慣れないミックスと音作りでなかなか先にすすまないこともあったけど頑張ったかいがあった。&lt;/p&gt;
+&lt;p&gt;本当に心からそう思える曲になりました。&lt;/p&gt;
+&lt;p&gt;よし！おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[めちゃ忙しいごめんよ自分]]></title><description><![CDATA[忙しくて日記書けんかった… 死に物狂いでコミットはしてるけど、文章を書く余裕がない… 今は明後日の企画合同発表会に向けて曲を仕上げているところだ。 あと、なんか知らんけどドメイン買った。終わり。]]></description><link>https://diary.superconsole.work/181011/</link><guid isPermaLink="false">https://diary.superconsole.work/181011/</guid><pubDate>Thu, 11 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;忙しくて日記書けんかった…&lt;/p&gt;
+&lt;p&gt;死に物狂いでコミットはしてるけど、文章を書く余裕がない…&lt;/p&gt;
+&lt;p&gt;今は明後日の企画合同発表会に向けて曲を仕上げているところだ。&lt;/p&gt;
+&lt;p&gt;あと、なんか知らんけどドメイン買った。終わり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[なぜエンジニアはオブジェクト志向でプログラミングするのか]]></title><description><![CDATA[…]]></description><link>https://diary.superconsole.work/181010/</link><guid isPermaLink="false">https://diary.superconsole.work/181010/</guid><pubDate>Wed, 10 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;技術書典で購入した本(オブジェクト志向とはなんなのかなんとなく伝えたい本)を読んで、なぜエンジニアがオブジェクト指向でプログラミングするのかがわかった気がするので、記したいと思います。&lt;/p&gt;
+&lt;p&gt;プログラミングでの開発は、まず「解決する課題・問題」を洗い出し、それをもとにソリューションを「設計」し、それを「実装」することですすんでいきます。  そこで、構造化言語(オブジェクト志向が使えない言語)で実装するとどのようなデメリットが生じるでしょうか。
+コードの複雑化、それに伴うチーム開発でのメンバーの負担増加、設計の構造が無視される可能性…などさまざまです。&lt;/p&gt;
+&lt;p&gt;結論から言うと、主に設計~実装間でのプロセスに対して, またチーム開発における重要なメリットがあるためにオブジェクト志向は使われています。&lt;/p&gt;
+&lt;p&gt;オブジェクト指向とは、オブジェクト(対象, 目的, 振る舞い…これらを持つ同系統の存在/事象を一括りにした概念)をプログラミングに取り入れるための考えです。クラス(概念)とインスタンス(実体), 振る舞い(メソッド)やプロパティ(状態)から構成されるいくつかのオブジェクトが相互に作用しあうことで一つのシステムを成していて、設計における各物体, 状態, 作用などの現実的な関係性を崩すことなく誠実(ここではコードからこれらの設計が想像可能であることを指す)に実現できるというメリットがあり、これがプログラミング開発において生じた上記の問題を解決する手段になりうるです。&lt;/p&gt;
+&lt;p&gt;また、オブジェクトはいくつかの似たような問題を集約したり、大きい問題を似たような小さい問題に分割することが可能でチーム開発をするうえでの役割分担あるいは各オブジェクトの責任を明確にできます。デバッグも容易になりますね。&lt;/p&gt;
+&lt;p&gt;この理由がなぜエンジニアはオブジェクト志向でプログラミングするのかに対する答えになると思いました。&lt;/p&gt;
+&lt;p&gt;本の内容をわかりにくくしただけですが、アウトプットすることで自己を満たすのがこの日記の役割なのでいいでしょう(適当かつ無責任)
+おわり&lt;/p&gt;
+&lt;p&gt;参考: &lt;a href=&quot;https://kamazunimarunomi.booth.pm/items/666660&quot;&gt;book&lt;/a&gt;, &lt;a href=&quot;http://tdak.hateblo.jp/entry/20140406/1396773476&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Node.jsとNuxt.js, Next.jsについて]]></title><description><![CDATA[突然ですが、昨日の技術書店にて「Nuxt.js, Next.js」という二つのフレームワークが熱いことを知り、今まで名前すら聞いたことが無かった自分を蔑みながら調べようと思ったわけです。 まずはざっと概要
+ Nuxt.js:
+  ・「Vue.js…]]></description><link>https://diary.superconsole.work/181009/</link><guid isPermaLink="false">https://diary.superconsole.work/181009/</guid><pubDate>Tue, 09 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;突然ですが、昨日の技術書店にて「Nuxt.js, Next.js」という二つのフレームワークが熱いことを知り、今まで名前すら聞いたことが無かった自分を蔑みながら調べようと思ったわけです。&lt;/p&gt;
+&lt;p&gt;まずはざっと概要
+Nuxt.js:
+・「Vue.js」でサーバサイドのレンダリング(SSR)を実現するためのフレームワーク&lt;/p&gt;
+&lt;p&gt; Next.js:
+・「React」でサーバサイドのレンダリング(SSR)を実現するためのフレームワーク&lt;/p&gt;
+&lt;p&gt;Nuxt.jsもNext.jsも言語はJavaScript(当然)なのでNode.js(npm)から構築されている。&lt;/p&gt;
+&lt;p&gt;今のご時世JavaScriptを生のまま使う機会が減ったので勢いに任せてこういったイケイケなフレームワークに乗り換える必要があるのかなと思ったりします。&lt;/p&gt;
+&lt;p&gt;Vue.jsはまだ触れたことが無いので使うとしたらReact側(Next.js)になります。&lt;/p&gt;
+&lt;p&gt;現在制作中のポーカーゲームの進捗が2%くらいなので乗り換えるなら今のうちですよね…&lt;/p&gt;
+&lt;p&gt;好奇心・探求心がとても沸いているのでどうしようかバイトしながら悩むことにします。おわり&lt;/p&gt;</content:encoded></item><item><title><![CDATA[技術書典に行ってきた]]></title><description><![CDATA[今日は池袋サンシャインシティにて技術書典がありました。 このイベント自体は今回で5回目になるのですが 自分は人生初でした!!貴重な経験になりました 所感ですが、まず人の多さに圧倒されましたね。自分が定期的に参加してる「* M…]]></description><link>https://diary.superconsole.work/181008/</link><guid isPermaLink="false">https://diary.superconsole.work/181008/</guid><pubDate>Mon, 08 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;今日は池袋サンシャインシティにて技術書典がありました。&lt;/p&gt;
+&lt;p&gt;このイベント自体は今回で5回目になるのですが&lt;/p&gt;
+&lt;p&gt;自分は人生初でした!!貴重な経験になりました&lt;/p&gt;
+&lt;p&gt;所感ですが、まず人の多さに圧倒されましたね。自分が定期的に参加してる「* M3 同人即売会 * 」とはまた違った類のオタクが夥しいほどに同空間上に位置していて通路が全く通れなかったり、人酔いしたりで大変でした。&lt;/p&gt;
+&lt;p&gt;そして、技術書の専門性の高さにも驚きました。本格的に実務に使えるような内容の濃い本からネタもの、実務ですら使えないような本当にマイナーな分野を深掘りした本まで個人が全力を尽くした多様性に飛んだものがズラリと並んでいて形容しがたい空間に入ってしまったなと感じました。&lt;/p&gt;
+&lt;p&gt;ところで前日に書いたい本をある程度絞って予算は2500円前後になるように計画を立てたのですが、当日は張り切りすぎてしまい4000円近くまで出費してしまいました…。&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;後悔はしていません。&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;次の技術書典がすごく楽しみです(気が早い)。&lt;/p&gt;
+&lt;p&gt;学校の講義と被って欲しくないので強く願いつつ余韻に浸りたいので今日はこの辺で。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[GitHubの(普段使わない所の)使い方を学んだ]]></title><description><![CDATA[この日記を含めて普段からGitHubをよく使っているけれど、
+それでも使わない機能が多々あるなぁって思ってその使い方を
+学ぼうと思ったわけです。 そう、
+Projects, Wiki Insights…]]></description><link>https://diary.superconsole.work/181006/</link><guid isPermaLink="false">https://diary.superconsole.work/181006/</guid><pubDate>Sat, 06 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;この日記を含めて普段からGitHubをよく使っているけれど、
+それでも使わない機能が多々あるなぁって思ってその使い方を
+学ぼうと思ったわけです。&lt;/p&gt;
+&lt;p&gt;そう、
+Projects, Wiki Insights &amp;#x3C;-これらですね&lt;/p&gt;
+&lt;p&gt;今まで使ったことないけど、その理由は「どういう機能かわ
+からない」に集約されると思うのでこれを機会に学びます。&lt;/p&gt;
+&lt;p&gt;Project・・・
+ホワイトボードに付箋を貼る感覚でタスク管理ができる。
+洗練されたUIでかなり使いやすいのでチーム開発などにも
+使えそうな感じ。&lt;/p&gt;
+&lt;p&gt;Wiki・・・
+GitHubのリポジトリ内に公式ドキュメントを設ける時とかに
+使えそうだけど、READMEに書けるくらいのプロダクトしか
+作ったことないので当分は使い道が無さそう。&lt;/p&gt;
+&lt;p&gt;Insights・・・
+言葉の通り「洞察」、リポジトリにおける詳細情報を表示する
+機能。コミットログや日毎,コミッターごとのコミット状況など
+が可視化でき、開発の進捗等を把握する上で重要になりそう。&lt;/p&gt;
+&lt;p&gt;以上。今回はGitHubの一般的な(General)仕様よりかは
+1リポジトリ内のタブ部分を理解しただけですね笑。まぁ良いでしょう
+おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Node.js+Express+cURLでjsonAPIサーバを実装・検証した]]></title><description><![CDATA[今日は、Node.js+Express+cURLでjsonAPIサーバを実装・検証した。 index.jsがPOSTでパラメータ(マークとナンバー)を受け取って、それをもとに、該当するデータ(学校の課題を元に実装するためトランプカード)のパスを返すものである。 最初はPOST…]]></description><link>https://diary.superconsole.work/181005/</link><guid isPermaLink="false">https://diary.superconsole.work/181005/</guid><pubDate>Fri, 05 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;今日は、Node.js+Express+cURLでjsonAPIサーバを実装・検証した。&lt;/p&gt;
+&lt;p&gt;index.jsがPOSTでパラメータ(マークとナンバー)を受け取って、それをもとに、該当するデータ(学校の課題を元に実装するためトランプカード)のパスを返すものである。&lt;/p&gt;
+&lt;p&gt;最初はPOSTで受け取ったパラメータにアクセスする方法がわからなかったり、JSON形式での応答になれずに404エラーが多発したり変なところで苦戦したが、なんとかcURLでのリクエストに答えるjsonAPIサーバが実装できた。&lt;/p&gt;
+&lt;p&gt;また、cURLでの検証のところで、cURLのオプションの使い方に慣れなかったり、失敗の原因がcURLのオプションとは関係がないリクエストの受信側のミスだったり、いろいろと時間と労力をつかったので、検証もまた大変だった。&lt;/p&gt;
+&lt;p&gt;話は変わるが、現段階でrouteとview, app.jsなどに別れたファイルのどこでMVCを分担して行くのかが徐々に理解できているきがするので、このまま頑張っていこうと思う。&lt;/p&gt;
+&lt;p&gt;ちなみに、jsonAPIサーバの実装は学校の最終課題の実装とは大きく外れているので直接の進捗は出ていないですね。&lt;/p&gt;
+&lt;p&gt;でもだんだんとNode.jsが楽しくなってきた！おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[第1回 Lecture-2「サバイバルのための殺人」を視聴した]]></title><description><![CDATA[今日、ハーバード白熱教室の第一回講義「殺人に正義はあるか」のLecture-…]]></description><link>https://diary.superconsole.work/181004/</link><guid isPermaLink="false">https://diary.superconsole.work/181004/</guid><pubDate>Thu, 04 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;今日、ハーバード白熱教室の第一回講義「殺人に正義はあるか」のLecture-2「サバイバルのための殺人」を視聴した。&lt;/p&gt;
+&lt;p&gt;前回の講義で表面上理解した気でいた「帰結主義者の道徳的原理」と「無条件的道徳的原理」がお互いどのように干渉しているかがわかった気がする。&lt;/p&gt;
+&lt;p&gt;理解する元となった今回のテーマ、「ミニョネット号事件」(詳細は割愛)人間は危惧している状態では、通常の動物同様に弱いものを襲うんだなと感じた(違う)。&lt;/p&gt;
+&lt;p&gt;この事件の道徳心を考慮すると、当時は無罪の考えを持つ人々が多かったのに対して現在では有罪を求める派が多数になっている。&lt;/p&gt;
+&lt;p&gt;自分は当時の人々と同じ考えを持っていて、事件時に本能的にそうせざるを得なかった当人に対し、高尚(法律や憲法, 道徳心など)な規則で判断するのに違和感を覚えたり？するがそれが道徳の役割なのだろうと思った。&lt;/p&gt;
+&lt;p&gt;よくわかんないね&lt;/p&gt;
+&lt;p&gt;今日は勉強会があるので、これくらいに。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Wi-fiの仕組みを完全に理解してますか?]]></title><description><![CDATA[*Wi-fiというか無線の仕組みかもしれない 講義中に「Wi-fiの仕組みを完全に理解してますか?」と教授が問いかけてきた。 Wi-fiという存在が当たり前すぎて意識すらしていなかったが、ふと問われると探求心が抑えきれなかったので今日はWi-fi…]]></description><link>https://diary.superconsole.work/181003/</link><guid isPermaLink="false">https://diary.superconsole.work/181003/</guid><pubDate>Wed, 03 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;*Wi-fiというか無線の仕組みかもしれない&lt;/p&gt;
+&lt;p&gt;講義中に「Wi-fiの仕組みを完全に理解してますか?」と教授が問いかけてきた。&lt;/p&gt;
+&lt;p&gt;Wi-fiという存在が当たり前すぎて意識すらしていなかったが、ふと問われると探求心が抑えきれなかったので今日はWi-fiについて初心にかえって調べてみようと思う。&lt;/p&gt;
+&lt;p&gt;Wi-fiって何? -&gt; 無線LANに関する登録商標。IEEE 802.11規格を使用したDevice間相互接続をさす名称。&lt;/p&gt;
+&lt;p&gt;すなわち無線LANの技術の一つですよってことだ。(実際には無線LANを構築する上での標準という位置付けであり、異なるメーカの機器同士の接続を可能にしている。)&lt;/p&gt;
+&lt;p&gt;IEEE 802.11に準拠したLAN(ネットワーク)を無線LANというので、Wi-fiを知るには、このIEEE 802.11を理解することが重要だ(正直ここまでは当然な気もするが)。ということで、ここからはIEEE 802.11を説明していく。&lt;/p&gt;
+&lt;p&gt;さて、まずIEEE 802.11は無線通信をするための規格(USBの差し込み口とかの規格と似たような意味合い)ですが、細かく分類することができ具体的には、IEEE 802.11 b/a/g/n/ac/adなどに分かれ、それぞれ変調方式や伝送帯, 伝送速度などが違います。&lt;/p&gt;
+&lt;p&gt;ここまでは規格の概要とおさらい。大事なのはこの規格を用いて実際どのように通信を実現しているのかを整理していきます。&lt;/p&gt;
+&lt;p&gt;まず、無線=電波です。トランシーバーとかガラケーの赤外線通信とかと全く同じ通信路です。この電波に情報を乗せて通信をしていく。これを変調という。イメージとしては伝えたい言葉を声にだして相手に届ける感覚と同じ。(だとするとプロトコルは言語という感じになるのだろう…。)&lt;/p&gt;
+&lt;p&gt;そうして伝わっていくのかな…。&lt;/p&gt;
+&lt;p&gt;受信する技術とか受信した電波から情報を抽出したり、電波が混在する空間での衝突回避やら云々やら別の講義でやったので割愛。おわり&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.gate02.ne.jp/column/41/&quot;&gt;Source&lt;/a&gt;
+&lt;a href=&quot;https://ja.wikipedia.org/wiki/Wi-Fi&quot;&gt;Source2&lt;/a&gt;
+&lt;a href=&quot;https://www.allied-telesis.co.jp/products/list/wireless/knowl.html&quot;&gt;Source3&lt;/a&gt;
+&lt;a href=&quot;https://tech.nikkeibp.co.jp/it/members/NBY/Security/20040410/1/&quot;&gt;Source4&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[曲を公開したい欲がすごい]]></title><description><![CDATA[最近、曲が公開できていない。しかし、夏休みの間に4~5曲作っている。 すべてイベント用の曲だったり著作権の帰属先の関係上の問題で簡単に公開できないのである。 正直、夏休みの間でものすごく曲を作る能力が向上したと思う。 それなのに、サンクラにあがっている最新曲は…]]></description><link>https://diary.superconsole.work/181002/</link><guid isPermaLink="false">https://diary.superconsole.work/181002/</guid><pubDate>Tue, 02 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;最近、曲が公開できていない。しかし、夏休みの間に4~5曲作っている。&lt;/p&gt;
+&lt;p&gt;すべてイベント用の曲だったり著作権の帰属先の関係上の問題で簡単に公開できないのである。&lt;/p&gt;
+&lt;p&gt;正直、夏休みの間でものすごく曲を作る能力が向上したと思う。&lt;/p&gt;
+&lt;p&gt;それなのに、サンクラにあがっている最新曲は3か月も前のものなのでいい加減新曲をあげて上書きしたい。(いつか1年以上前の曲の全消去を行うかも?)&lt;/p&gt;
+&lt;p&gt;まぁ、今日の内に参加している外部のコンピにあげた曲の試聴版をサンクラにあげるので公開したい欲も満たされるだろう…&lt;/p&gt;
+&lt;p&gt;頑張る。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[10月の意気込みとか]]></title><description><![CDATA[さて、10月になりましたが、暑いですね。昨日くらいまでは寒かったのですが夏が抜けきっていなくて微妙な気分です…。 ところで、目標である「きっかけから先へ」ですが、…]]></description><link>https://diary.superconsole.work/181001/</link><guid isPermaLink="false">https://diary.superconsole.work/181001/</guid><pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;さて、10月になりましたが、暑いですね。昨日くらいまでは寒かったのですが夏が抜けきっていなくて微妙な気分です…。&lt;/p&gt;
+&lt;p&gt;ところで、目標である「きっかけから先へ」ですが、9月の「日々の歴史を作る」という目標に比べて一段階レベルが上がった気がします。&lt;/p&gt;
+&lt;p&gt;目標にレベル。&lt;/p&gt;
+&lt;p&gt;なんておかしい話ですが、9月の目標はとりあえず毎日のできごとを日記に記して振り返るだけで全うできましたが、10月の目標を実現するには自分から一歩すすんで何かを極めて行くことが必要です。&lt;/p&gt;
+&lt;p&gt;ただ日記にして行くだけではダメで、自分のためになるようなことをしてそれを今後に生かして行くプロセスが問われます。&lt;/p&gt;
+&lt;p&gt;なので、今月は一歩先へ進む原動力を鍛えていきたいと思います。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[9月を終えて]]></title><description><![CDATA[日記をはじめて最初の月が今日で終わります、今月の目標は「日々の歴史を作る」 さりげないことや学んだことを日記に記すことで日々を積み重ねていこうと思い、ニーチェのこの言葉を選びました。 9月…最初は某IT企業の1weekインターンから始まり、 大学生活で初めての全休2日(週休…]]></description><link>https://diary.superconsole.work/180930/</link><guid isPermaLink="false">https://diary.superconsole.work/180930/</guid><pubDate>Sun, 30 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;日記をはじめて最初の月が今日で終わります、今月の目標は「日々の歴史を作る」&lt;/p&gt;
+&lt;p&gt;さりげないことや学んだことを日記に記すことで日々を積み重ねていこうと思い、ニーチェのこの言葉を選びました。&lt;/p&gt;
+&lt;p&gt;9月…最初は某IT企業の1weekインターンから始まり、&lt;/p&gt;
+&lt;p&gt;大学生活で初めての全休2日(週休4日)を得て(今までの自分頑張ってくれてありがとう！！)、&lt;/p&gt;
+&lt;p&gt;そして新しいこと(日記とか)を始めたり、&lt;/p&gt;
+&lt;p&gt;オリジナル曲の質がすごく向上したり…&lt;/p&gt;
+&lt;p&gt;念願の第一志望だった研究室にも配属…&lt;/p&gt;
+&lt;p&gt;振り返るとあっという間だが、こうして事柄を一つ一つ記して行くと充実した、かけがえのない月だったなと改めて感じます。&lt;/p&gt;
+&lt;p&gt;さいごに、10月の主題は…&lt;/p&gt;
+&lt;p&gt;「きっかけから先へ」&lt;/p&gt;
+&lt;p&gt;勉強会や講義、ネットなどでの偶然の発見やきっかけが自分に多く訪れます。&lt;/p&gt;
+&lt;p&gt;そのきっかけから先へ、自分自身が進んで行けば自身の向上につながると考えています。&lt;/p&gt;
+&lt;p&gt;もちろん、「日々の歴史を作る」ということも終わることなく続けて行く方針です。&lt;/p&gt;
+&lt;p&gt;以上、9月でした。おしまい。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[「勉強会に行ったら人生変わったwww」を読んだ]]></title><description><![CDATA[Source 大学…]]></description><link>https://diary.superconsole.work/180929/</link><guid isPermaLink="false">https://diary.superconsole.work/180929/</guid><pubDate>Sat, 29 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://qiita.com/suthio/items/26aebea0c3bac9400bbe&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大学2年のころから勉強会に時折参加していたが、今頃になって勉強会にいく意味を問うてみたくなったので偶然見つけたこの記事を読みつつ、考えてみる。&lt;/p&gt;
+&lt;p&gt;まず「得られるもの」と「得られないもの」を記事の内容と自分の経験を重ねてみる。&lt;/p&gt;
+&lt;p&gt;行って得られるもの:
+・各社のステッカー&lt;br&gt;
+-&gt;  会場だったり主催である会社のステッカー
+　　  が手に入る。普通に嬉しい
+　　&lt;br&gt;
+・モチベーション
+-&gt;  自分の中ではこれが一番得られるものであり
+これのために勉強会に参加している
+と行っても過言ではない&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;・トレンド/ホットワード
+        -&amp;gt;  そもそも勉強会だけでなく人が集まる場所
+              であれば必ず話題に上がる。
+              勉強会では専門の切り口から学んでいくので
+              深く知ることができる点が良い
+
+・エンジニアの空気感
+        -&amp;gt;  わかる。エンジニアにもいろいろなタイプの
+              人がいて、それぞれに感化されてそれが結果
+              としてモチベに繋がっていくのだろうと思う
+
+・技術のとっかかり
+        -&amp;gt; 大学である講師に言われたのが
+             &amp;quot;講義は学問の入り口であり、深めるのは君自身&amp;quot;
+             という言葉。講義に限らず、勉強会にも同じ
+             ことが言えて、先に進んでいくのは自分なんだと。
+             勉強会はキッカケや機会を与えてくれるにすぎない。&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;行って得られないもの
+・技術力
+　-&gt; 当たり前だ。勉強会に行っただけで満足して
+終わってしまっては半人前だ&lt;/p&gt;
+&lt;p&gt;その他に響いた内容:
+・オフィスに行くことが楽しい！わかる！
+・行って無駄になるのは時間だけということ&lt;/p&gt;
+&lt;p&gt;今までの勉強会を振り返って:
+勉強会を通して知った技術や動向など、今の自分にとって欠かせないものを構成しているのが勉強会の存在である。&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    強いエンジニアはどんな技術を使っているのか、我々には理解が及ばない宇宙人と遭遇することだってよくある。
+    
+    学校の中だけじゃ得られない外の世界に触れられる大事なものであることは間違いない。&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Node.js+Expressでサーバを構築した]]></title><description><![CDATA[今日は何日ぶりかわからない、1日フリーの日だったので、ポケモンセンターに行ってカイオーガのぬいぐるみを買おうと思っていたが、大人しくNode.js+Expressで動的にページを生成するサーバを立てることにした。 学校でApache Tomcatを用いてサーバ側をJava…]]></description><link>https://diary.superconsole.work/180928/</link><guid isPermaLink="false">https://diary.superconsole.work/180928/</guid><pubDate>Fri, 28 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;今日は何日ぶりかわからない、1日フリーの日だったので、ポケモンセンターに行ってカイオーガのぬいぐるみを買おうと思っていたが、大人しくNode.js+Expressで動的にページを生成するサーバを立てることにした。&lt;/p&gt;
+&lt;p&gt;学校でApache Tomcatを用いてサーバ側をJavaに走らせるサーバを構築した経験をもとに。&lt;/p&gt;
+&lt;p&gt;なので、Node.js+Expressで学校の最終課題を実現するのが目標だ。&lt;/p&gt;
+&lt;p&gt;目標という言い方は、たぶん達成できないのでやめる。&lt;/p&gt;
+&lt;p&gt;ところで、ルーティングとかはApache Tomcatと若干違いはあるものの、Railsをかじった時に今回の構造に慣れてはいたのでつまづくことはなかった。&lt;/p&gt;
+&lt;p&gt;フローとしては、GETパラメータを複数受け取ってrender内の引数に渡し、それに応じたページをPUGで生成するという感じ。&lt;/p&gt;
+&lt;p&gt;学校の演習でいえば第1回のガイダンスの時間で行う段階だ。&lt;/p&gt;
+&lt;p&gt;コーディング自体はとても簡単でApache Tomcatと使っていた時より高速に構築できた。&lt;/p&gt;
+&lt;p&gt;所要時間は2時間くらい?(それもドキュメントを読む時間がほとんどだった)&lt;/p&gt;
+&lt;p&gt;所感:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;サーバ側の関連スクリプトは更新するたびにサーバを再起動する必要がある。
+
+当たり前だが環境が簡易すぎてそれを意識するのを忘れててあれ？ってなる場面はいくつかあった。
+
+プログラミング初心者あるあるだ。
+
+ただ、自分は探究心のありあまる初心者でありつづけたい。&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[ハーバード白熱教室 第1回を視聴した]]></title><description><![CDATA[Source 今日の講義内で講師がこの講義について取り上げていて、実際に第1回を視聴した。 ハーバード白熱教室は小学校の頃にNHKで視聴したことがあり、当時はただ”大学の授業ってすげえ”くらいの気持ちしか抱かなかった記憶が残っている。 今は大学生。授業内容の…]]></description><link>https://diary.superconsole.work/180927/</link><guid isPermaLink="false">https://diary.superconsole.work/180927/</guid><pubDate>Thu, 27 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;http://d.hatena.ne.jp/gule/20100424/1272117149&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日の講義内で講師がこの講義について取り上げていて、実際に第1回を視聴した。&lt;/p&gt;
+&lt;p&gt;ハーバード白熱教室は小学校の頃にNHKで視聴したことがあり、当時はただ”大学の授業ってすげえ”くらいの気持ちしか抱かなかった記憶が残っている。&lt;/p&gt;
+&lt;p&gt;今は大学生。授業内容の7割くらいはすんなり理解し、動画視聴後の講師の総括を通じて内容をほぼほぼ完全に理解できた。&lt;/p&gt;
+&lt;p&gt;改めて視聴すると、講義を進めていくうえで取り上げた例え(ジョーク交じり)であったり、ハーバード大生の民度の高さ(1000人も受講しているのにほとんど寝てる人がいない)だったり、教授の伏線の回収の気持ちよさだったり、本当に授業の質が違うなぁとため息が出るほどの光景だった。&lt;/p&gt;
+&lt;p&gt;動画内で引っ掛かったのが”帰結主義と定言的道徳原理の対立”と”懐疑主義”というワードである。&lt;/p&gt;
+&lt;p&gt;簡単にまとめると、以下のようになる。&lt;/p&gt;
+&lt;p&gt;帰結主義(結果が道徳の原理に関与する)　&amp;#x3C;=&gt;　定言的道徳原理(ある条件下で義務, 同意, 権利が道徳の原理に関与する)懐疑主義・・・各自が独自の原理を持てばよく、議論は無駄という考え&lt;/p&gt;
+&lt;p&gt;懐疑主義はマイケル・サンデルは否定的な観点を持っていて、哲学を修める。現実社会に活用していくためには「ある程度決まった考えを持つべき」という方針でこの授業が進行していくらしい。&lt;/p&gt;
+&lt;p&gt;自分が通っている大学の教養科目は眠くなる授業ばかりで退屈だったが、久しぶりにまじめに取り組もうと思う講義に出会えたと思う。来週の木曜日が楽しみだ。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[オブジェクト指向が5000%理解できる記事]]></title><description><![CDATA[Source…]]></description><link>https://diary.superconsole.work/180926/</link><guid isPermaLink="false">https://diary.superconsole.work/180926/</guid><pubDate>Wed, 26 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;http://d.hatena.ne.jp/gule/20100424/1272117149&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;当たり前だけど大事なこと&lt;/p&gt;
+&lt;p&gt;・オブジェクト指向は”現実世界を正しく捉えること”&lt;/p&gt;
+&lt;p&gt;・オブジェクトは”物”である&lt;/p&gt;
+&lt;p&gt;現実世界を正しく捉えられていないからオブジェクト志向につまづく&lt;/p&gt;
+&lt;p&gt;-&gt; 整理&lt;/p&gt;
+&lt;p&gt;・まず、どんなオブジェクトがあるか整理する&lt;/p&gt;
+&lt;p&gt;・各オブジェクトのプロパティを洗い出す&lt;/p&gt;
+&lt;p&gt;・各オブジェクトのメソッドを洗い出す&lt;/p&gt;
+&lt;p&gt;・オブジェクト間のメッセージを洗い出す&lt;/p&gt;
+&lt;p&gt;感想:&lt;/p&gt;
+&lt;p&gt;学校でもOOPは耳が痛いくらいに聞いたが、こんなにも身近なものがOOPとして構成できることをしり、OOPに対するなんとなく抱えていた敷居の高い感じ？が拭えた気がする。&lt;/p&gt;
+&lt;p&gt;記事内の「オブジェクト指向が出来ない人のプログラムを見ると、電子レンジが勝手に食べ物を温めだしたり、人間が凍っているものを解凍していたりします。そんなこと現実世界ではありえませんよね？」&lt;/p&gt;
+&lt;p&gt;この言葉に焦りを感じた。自分が初めて触ったオブジェクト志向言語はC#だが当時はOOPとは程遠いコーディングをしていたと思う。&lt;/p&gt;
+&lt;p&gt;今でもOOPが出来ているか自身がミリも無いが…。&lt;/p&gt;
+&lt;p&gt;電卓を作っていたが”人が操作する”, “電卓が計算をする”が自分の設計から抜けていたと反省したりした。&lt;/p&gt;
+&lt;p&gt;おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[PythonでWebAPIを叩いた]]></title><description><![CDATA[Source 使ったライブラリ: Requests(Python), json(Python3) 復習した技術: RESTful API, JSON, KVS, GET/POST かなり前に「データを集める技術 最速で作るスクレイピング&クローラー (Informatics…]]></description><link>https://diary.superconsole.work/180925/</link><guid isPermaLink="false">https://diary.superconsole.work/180925/</guid><pubDate>Tue, 25 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://qiita.com/shunyooo/items/b408b8d61f9f73b21da7&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;使ったライブラリ: Requests(Python), json(Python3)&lt;/p&gt;
+&lt;p&gt;復習した技術: RESTful API, JSON, KVS, GET/POST&lt;/p&gt;
+&lt;p&gt;かなり前に「データを集める技術 最速で作るスクレイピング&amp;#x26;クローラー (Informatics&amp;#x26;IDEA) / 佐々木 拓郎」を本屋で立ち読みした時からWebスクレイピングに興味があり、なかなか一歩踏み出せない状況下にいた。&lt;/p&gt;
+&lt;p&gt;そして今日、スクレイピングをし…てはいないがWeb APIを叩いた。&lt;/p&gt;
+&lt;p&gt;WebAPIを叩くコードはAtomではなくサクッと書けるVS Codeを使って適当に実装。&lt;/p&gt;
+&lt;p&gt;もちろん[Source]のコードを丸写しはせずに、apiサーバに向けてRequestをGETメソッドで送る流れや、取得したデータをJSON形式でPythonに受け渡すところまで理解したのち、ロケーションや取得するKeyを変えたりなどして遊んだ。なんか5歳くらい若返った気分だった笑&lt;/p&gt;
+&lt;p&gt;つまり、楽しかった。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[社会人になって6年たった自分が後悔していること・良かったことまとめ]]></title><description><![CDATA[Source…]]></description><link>https://diary.superconsole.work/180924/</link><guid isPermaLink="false">https://diary.superconsole.work/180924/</guid><pubDate>Mon, 24 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://qiita.com/hirossyi73/items/3ceee03a82d66a35b9c1&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日は二日酔いの状態で日記を書きます。&lt;/p&gt;
+&lt;p&gt;後悔:&lt;/p&gt;
+&lt;p&gt;・人と話すのがどんどん恐くなってしまった&lt;/p&gt;
+&lt;p&gt;-&gt;コーディングがために引きこもりがちに。学生のうちに外との交流をもとう！&lt;/p&gt;
+&lt;p&gt;・自分の欠点を埋めようと脇道に逸れてしまった&lt;/p&gt;
+&lt;p&gt;-&gt;ネガティブ思考から「無い物ねだり」で脇道に反れていた。”欠点と不安を埋めるための行動は必要ない”&lt;/p&gt;
+&lt;p&gt;・世界を見据えて勉強や行動をしていなかった&lt;/p&gt;
+&lt;p&gt;-&gt;エンジニアなら英語は必須。公式のドキュメントとかは英語オンリーがほとんど。&lt;/p&gt;
+&lt;p&gt;・『自分がやった方が早い』という呪縛から逃れられていない&lt;/p&gt;
+&lt;p&gt;-&gt;自分がやったほうが効率的と若者の成長を阻害してはいけない。「人に依頼する・任せる・振る」ことの経験を積むべき&lt;/p&gt;
+&lt;p&gt;良かったこと
+・どこでも活躍できる自信がついた&lt;/p&gt;
+&lt;p&gt;-&gt;能力が高くても環境との相性が悪ければ適応できない。だからイヤと思ったらすぐ離れる。自分自身でどうにかできる力をつける。そのためにどこでも活躍できるような武器を磨き続けていくべき。&lt;/p&gt;
+&lt;p&gt;・「どうせ失敗するときはする」ということを学んだ&lt;/p&gt;
+&lt;p&gt;-&gt;必ず「どうあっても失敗するときは失敗する」要因は、自分, 相手, 環境などいろいろあるけど避けられない失敗は必ず訪れる。“分岐点に立ったとき「どうせ失敗するから、やってみよう」“ぐらいの気持ちでチャレンジしてみたらいい。&lt;/p&gt;
+&lt;p&gt;感想:&lt;/p&gt;
+&lt;p&gt;インターンで感じたことや気づいたことと重なる部分がいくつかあった。&lt;/p&gt;
+&lt;p&gt;しかし、言葉として明確な形で書かれていると重ねた際に初めて知る部分も&lt;/p&gt;
+&lt;p&gt;多々あったので、見直すことが出来たと思う。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[週末の総括]]></title><description><![CDATA[GitHubで日記を書き始めてから初めての日曜日を迎えた。 今のところ薄っぺらい情報が大半だが今後は時間を取って内容を充実させていこうと思う。 なぜかgitのmergeと自信のmasterに対するPRを送ったのはこのリポジトリが初めてで、git…]]></description><link>https://diary.superconsole.work/180923/</link><guid isPermaLink="false">https://diary.superconsole.work/180923/</guid><pubDate>Sun, 23 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;GitHubで日記を書き始めてから初めての日曜日を迎えた。&lt;/p&gt;
+&lt;p&gt;今のところ薄っぺらい情報が大半だが今後は時間を取って内容を充実させていこうと思う。&lt;/p&gt;
+&lt;p&gt;なぜかgitのmergeと自信のmasterに対するPRを送ったのはこのリポジトリが初めてで、gitによるバージョン管理の便利さを知ることができた(なんというセレンディピティ笑)&lt;/p&gt;
+&lt;p&gt;この調子で芝生を豊かにさせていくぞ！！これが本音であり本当の目的です笑&lt;/p&gt;
+&lt;p&gt;もし、何ヶ月か何年か、この日記が続くとしたら記事を分ける必要もあるので今の内に考えとくか…。&lt;/p&gt;
+&lt;p&gt;おわり&lt;/p&gt;</content:encoded></item><item><title><![CDATA[サークルメンバー4人で制作するEPの特設サイト制作開始]]></title><description><![CDATA[サークル現役生最後の秋M3で何かしようとメンバー4人で始動したEP制作。 曲を一通り書き終えて、今日からは特設サイトの制作に取り掛かった。 納期は1…]]></description><link>https://diary.superconsole.work/180922/</link><guid isPermaLink="false">https://diary.superconsole.work/180922/</guid><pubDate>Sat, 22 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;サークル現役生最後の秋M3で何かしようとメンバー4人で始動したEP制作。&lt;/p&gt;
+&lt;p&gt;曲を一通り書き終えて、今日からは特設サイトの制作に取り掛かった。&lt;/p&gt;
+&lt;p&gt;納期は10月中旬なので時間はたくさんあるが、いかんせんフロント周りの技術が衰えているだろうと思ったので、記憶を取り戻すのも兼ねて今日開始した。&lt;/p&gt;
+&lt;p&gt;しかし、一から作るのは体力が持たないので、最低限のレスポンシブルデザインが出来上がっているテンプレを改変していく形になるので今日はテンプレの仕様と全体の構図を練り上げて完成形をイメージ。&lt;/p&gt;
+&lt;p&gt;コンテンツなどは仮置きで済ませて曖昧にではあるが完成形が見えるところまで出来たのでここまで。&lt;/p&gt;
+&lt;p&gt;ジャケットやアルバム名, 他のトラックがまだ出来上がっていないので焦りすぎは禁物ということで切り上げます&lt;/p&gt;
+&lt;p&gt;明日は1日予定で埋まっているので明後日あたりから続きをやろうかな。&lt;/p&gt;
+&lt;p&gt;サイトの問題点:&lt;/p&gt;
+&lt;p&gt;・BootStrapのcolが12で埋まっているはずなのにコンテンツの右側にスペースが空いている&lt;/p&gt;
+&lt;p&gt;・ジャケットの初期位置が決まっていない&lt;/p&gt;
+&lt;p&gt;・SoundCloudのiframeが若干小さい&lt;/p&gt;</content:encoded></item><item><title><![CDATA[iPhone XS/XS Maxとかが発売]]></title><description><![CDATA[Source 今日発売しましたね。 雨なのに表参道では朝早くから250人ものApple信者が並んでいたらしいです。こわい さて自分はAndroid信者なので買うことは今後一切無いと思いますが、今持っているスマホがそろそろ古くなってきました。スペックは、 機種: SHV3…]]></description><link>https://diary.superconsole.work/180921/</link><guid isPermaLink="false">https://diary.superconsole.work/180921/</guid><pubDate>Fri, 21 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/09/20/iphone-xs-xs-max-apple-watch-series-4-apple-250/&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今日発売しましたね。&lt;/p&gt;
+&lt;p&gt;雨なのに表参道では朝早くから250人ものApple信者が並んでいたらしいです。こわい&lt;/p&gt;
+&lt;p&gt;さて自分はAndroid信者なので買うことは今後一切無いと思いますが、今持っているスマホがそろそろ古くなってきました。スペックは、&lt;/p&gt;
+&lt;p&gt;機種: SHV35&lt;/p&gt;
+&lt;p&gt;Android: 8.0.0, RAM: 2GB, ROM: 8GB&lt;/p&gt;
+&lt;p&gt;2018年夏モデルですが、限界を感じています…。&lt;/p&gt;
+&lt;p&gt;機種変しないとな…。&lt;/p&gt;
+&lt;p&gt;でも正規販売店だと異様なまでに高いしSIMフリー製のスマホにしようかな。&lt;/p&gt;
+&lt;p&gt;てかデータの移行かったるいな。&lt;/p&gt;
+&lt;p&gt;とかいろいろ葛藤していました。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Convolutional Neural Networkとは何なのか]]></title><description><![CDATA[Source 昨日(正確には23時間前くらい)の自分マジで許さない。 Convolution Neural Networkとは・・・NNに「畳み込み」を追加したもの。 畳み込みの適用の流れ -> (例:) 32x32x3の画像に対して、5x5x3のフィルタを適用すると、28x…]]></description><link>https://diary.superconsole.work/180920/</link><guid isPermaLink="false">https://diary.superconsole.work/180920/</guid><pubDate>Thu, 20 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://qiita.com/icoxfog417/items/5fd55fad152231d706c2&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;昨日(正確には23時間前くらい)の自分マジで許さない。&lt;/p&gt;
+&lt;p&gt;Convolution Neural Networkとは・・・NNに「畳み込み」を追加したもの。&lt;/p&gt;
+&lt;p&gt;畳み込みの適用の流れ&lt;/p&gt;
+&lt;p&gt;-&gt; (例:) 32x32x3の画像に対して、5x5x3のフィルタを適用すると、28x28x1の層が作成される。&lt;/p&gt;
+&lt;p&gt;フィルタを増やして重ねてそれらを活性化関数(主にReLUなど)で接続して構築。&lt;/p&gt;
+&lt;p&gt;これにより、点としてではなく領域ベースの特徴抽出が実現可能。&lt;/p&gt;
+&lt;p&gt;フィルタの設定&lt;/p&gt;
+&lt;p&gt;フィルタにおけるパラメータ:&lt;/p&gt;
+&lt;p&gt;・数, 大きさ, 移動幅, パディング(端の情報の畳み込み回数調整のため)&lt;/p&gt;
+&lt;p&gt;レイヤ構成&lt;/p&gt;
+&lt;p&gt;・Convolutional Layer: 特徴量の畳み込みを行う層&lt;/p&gt;
+&lt;p&gt;・Pooling Layer: レイヤの縮小を行い、扱いやすくするための層&lt;/p&gt;
+&lt;p&gt;・Fully Connected Layer: 特徴量から、最終的な判定を行う層&lt;/p&gt;
+&lt;p&gt;感想:&lt;/p&gt;
+&lt;p&gt;TensorFlowで実装できるようになりたい。実際に物体認識できるようになりたい。&lt;/p&gt;
+&lt;p&gt;しかし、scikit-learnに慣れてしまったのでよくわからないとこが多い…。&lt;/p&gt;
+&lt;p&gt;出来たとしてもパソコンじゃそこまで膨大な処理出来ない…。&lt;/p&gt;
+&lt;p&gt;頑張るか…。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[アボガド6 - うつろ]]></title><description><![CDATA[Source アボガド6さんの作品は奥が深すぎて込められたすべてを理解するのは難しい。 でも、朝起きれないのはこんな感じなんだねと思った。 今日は酔ってるので適当になった。おわり。]]></description><link>https://diary.superconsole.work/180918/</link><guid isPermaLink="false">https://diary.superconsole.work/180918/</guid><pubDate>Tue, 18 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://twitter.com/avogado6/status/1042045762102812674&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;アボガド6さんの作品は奥が深すぎて込められたすべてを理解するのは難しい。&lt;/p&gt;
+&lt;p&gt;でも、朝起きれないのはこんな感じなんだねと思った。&lt;/p&gt;
+&lt;p&gt;今日は酔ってるので適当になった。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[フリーランスエンジニアに対する5つの誤解]]></title><description><![CDATA[Source   1.×自分で顧客や案件を探す -> ○フリーランスエンジニア専門のエージェント会社が増加、フリーランスになりやすい 2.×納品するまでお金を貰えない -> ○準委任契約の顧客が多い…]]></description><link>https://diary.superconsole.work/180917/</link><guid isPermaLink="false">https://diary.superconsole.work/180917/</guid><pubDate>Mon, 17 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://qiita.com/poly_soft/items/c494f3df80738a3daf1c?utm_campaign=popular_items&amp;#x26;utm_medium=twitter&amp;#x26;utm_source=dlvr.it&quot;&gt;Source&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;1.×自分で顧客や案件を探す&lt;/p&gt;
+&lt;p&gt;-&gt; ○フリーランスエンジニア専門のエージェント会社が増加、フリーランスになりやすい&lt;/p&gt;
+&lt;p&gt;2.×納品するまでお金を貰えない&lt;/p&gt;
+&lt;p&gt;-&gt; ○準委任契約の顧客が多い&lt;/p&gt;
+&lt;p&gt;3.×正社員に戻ってはいけないか戻られない&lt;/p&gt;
+&lt;p&gt;-&gt; ○自身に沿ってワークスタイルを選択できる時代になっている&lt;/p&gt;
+&lt;p&gt;4.×正社員エンジニアより稼がなければならない&lt;/p&gt;
+&lt;p&gt;-&gt; ○エンジニアの年収130%で同程度の生活水準が保証される&lt;/p&gt;
+&lt;p&gt;5.×リモートワークこそフリーランス&lt;/p&gt;
+&lt;p&gt;-&gt; ○今のご時世正社員でもフルリモートワークは存在するのでリモートワークだからというのは誤り&lt;/p&gt;
+&lt;p&gt;豆知識:&lt;/p&gt;
+&lt;p&gt;・技術書の購入費や仕事関係の接待交際費は経費として控除出来る&lt;/p&gt;
+&lt;p&gt;・個人事業税課税なし&lt;/p&gt;
+&lt;p&gt;・2017年に発足した「フリーランス協会」に年会費を払って加盟すれば、「所得補償」の保険に数割引きで加入することが可能&lt;/p&gt;
+&lt;p&gt;感想:&lt;/p&gt;
+&lt;p&gt;請負契約が主流だと勝手に思い込んでいて、フリーランスになることを一度も考えたことがないが、会社に入ってから思い通りにならなかったり価値観の違いでやめることがあった際に備えて考えてみるのもありかなと感じた。&lt;/p&gt;
+&lt;p&gt;さて、日記いつまで続くかなぁ…。&lt;/p&gt;</content:encoded></item></channel></rss>
