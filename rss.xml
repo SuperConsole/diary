@@ -1,4 +1,253 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SpCn-Diary]]></title><description><![CDATA[just diary.]]></description><link>https://diary.superconsole.work</link><generator>RSS for Node</generator><lastBuildDate>Fri, 27 Dec 2019 08:18:48 GMT</lastBuildDate><item><title><![CDATA[早いうちに2019年の懺悔でもしておくか]]></title><description><![CDATA[2019年は濃い一年だった。 あっという間だった。 たぶん人生で最も速く過ぎた一年だったと思う。 懺悔する前に、Googleカレンダー見ながら一年を振り返ってみることにする。…]]></description><link>https://diary.superconsole.work/191227/</link><guid isPermaLink="false">https://diary.superconsole.work/191227/</guid><pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;2019年は濃い一年だった。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SpCn-Diary]]></title><description><![CDATA[just diary.]]></description><link>https://diary.superconsole.work</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Sep 2020 15:42:03 GMT</lastBuildDate><item><title><![CDATA[朝、目を開けたら社会人になっていた＆九月の四連休]]></title><description><![CDATA[お久しぶりです。 卒業研究だったり入社→新人研修→配属/OJTと…荒波に揉まれていたり、PCをMacからWindowsに乗り換えて日記の環境を再構築したり面倒くさいなぁと…怠惰が募っていたら、気づけば、…]]></description><link>https://diary.superconsole.work/200921/</link><guid isPermaLink="false">https://diary.superconsole.work/200921/</guid><pubDate>Mon, 21 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;お久しぶりです。&lt;/p&gt;
+&lt;p&gt;卒業研究だったり入社→新人研修→配属/OJTと…荒波に揉まれていたり、PCをMacからWindowsに乗り換えて日記の環境を再構築したり面倒くさいなぁと…怠惰が募っていたら、気づけば、9カ月も更新が途絶えていました…&lt;/p&gt;
+&lt;p&gt;まぁ、それにしても。社会人になっても思いのほか自由だな…むしろ、金銭的な余裕を考慮すれば今のほうが自由かもしれない。&lt;/p&gt;
+&lt;p&gt;学生の頃は、社会人は学生の時よりも遊べなくて、虚ろな目で毎日を過ごすだけかと思っていたけど要は気の持ちようなんだなと思う。見た目は社会人、中身は学生です。いつまでも。そうでいたいですね。&lt;/p&gt;
+&lt;p&gt;ところで今(9月19日(土)～9月22日(火))は四連休ですが、友達と飲みに行ったり旨い飯食ったり遊んだり人並みに満喫しています。&lt;/p&gt;
+&lt;p&gt;一日目は、池尻大橋の八雲という名店のワンタン(肉/エビ)入り醤油ラーメンを食べて…
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/183c3bbb836023cf7cd8dc5a7768ee13/c08c5/2020092101.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 76.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAHCnJmolRT/xAAXEAEBAQEAAAAAAAAAAAAAAAACAwES/9oACAEBAAEFApTmRhnQqfKXMybTzFNbv//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPwE1f//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAAhExAyEiQVH/2gAIAQEABj8CD8kS6lQRb4g3KKoqG8lJ72v/xAAaEAEBAQEAAwAAAAAAAAAAAAABEQAxQWFx/9oACAEBAAE/IfZYBQz9SOUI4XnrGzDg8av/AICa7i6//9oADAMBAAIAAwAAABB4L//EABcRAAMBAAAAAAAAAAAAAAAAAAEQEUH/2gAIAQMBAT8QE1f/xAAWEQEBAQAAAAAAAAAAAAAAAAAAIRH/2gAIAQIBAT8QpGv/xAAdEAEAAgEFAQAAAAAAAAAAAAABABFRITFBYXGB/9oACAEBAAE/ELlQKKgdcsailAflUJAqF5xKJ1U11dxMQGhXY0Pq8eRi5rE7n//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;&amp;quot;01&amp;quot;&quot;
+        title=&quot;&amp;quot;01&amp;quot;&quot;
+        src=&quot;/static/183c3bbb836023cf7cd8dc5a7768ee13/c08c5/2020092101.jpg&quot;
+        srcset=&quot;/static/183c3bbb836023cf7cd8dc5a7768ee13/0913d/2020092101.jpg 160w,
+/static/183c3bbb836023cf7cd8dc5a7768ee13/cb69c/2020092101.jpg 320w,
+/static/183c3bbb836023cf7cd8dc5a7768ee13/c08c5/2020092101.jpg 640w&quot;
+        sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;六本木のカフェでまったり…&lt;/p&gt;
+&lt;p&gt;東京駅で北海道の海の幸をぜいたくに使った海鮮丼を食べて…
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a3c50b85905881fbbca6337feb8a385f/c08c5/2020092102.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/2gAMAwEAAhADEAAAAWnJRTDnNz//xAAcEAEAAQQDAAAAAAAAAAAAAAABAgADERIhIiP/2gAIAQEAAQUCz02NfFLsuWJUxk//xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAwEBPwFX/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EAB4QAAIBBAMBAAAAAAAAAAAAAAABEQISUXEDIjFS/9oACAEBAAY/AvnCQ7oTWDtyVUvRT4yb1dolwf/EABoQAQEAAwEBAAAAAAAAAAAAAAERACExcUH/2gAIAQEAAT8huFJuoOsudhF+vMIJXUcqWaHTV9yIkTeoZRlc1n//2gAMAwEAAgADAAAAEMff/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERYf/aAAgBAwEBPxDBqj//xAAYEQEAAwEAAAAAAAAAAAAAAAABABEhMf/aAAgBAgEBPxBT2FVs/8QAHhAAAgMAAQUAAAAAAAAAAAAAAREAITFRQWFxgaH/2gAIAQEAAT8QKVlwn0N2Y2Sr4YHF2GnlZ00aO8Rj6hRoqnPiCMAP6AdpTCDAr7P/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;&amp;quot;02&amp;quot;&quot;
+        title=&quot;&amp;quot;02&amp;quot;&quot;
+        src=&quot;/static/a3c50b85905881fbbca6337feb8a385f/c08c5/2020092102.jpg&quot;
+        srcset=&quot;/static/a3c50b85905881fbbca6337feb8a385f/0913d/2020092102.jpg 160w,
+/static/a3c50b85905881fbbca6337feb8a385f/cb69c/2020092102.jpg 320w,
+/static/a3c50b85905881fbbca6337feb8a385f/c08c5/2020092102.jpg 640w&quot;
+        sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;ジャパニーズウィスキーの余市のロックと鳳のストレートを堪能。&lt;/p&gt;
+&lt;p&gt;二日目は、渋谷の山下本気うどんというSNSで話題になった店の看板メニュー(?)であるチーズクリーム明太うどんを食べて…
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3cb7c948f6c5ccc31d86d3d1d71ecb94/c08c5/2020092103.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAakvXAXxAzr/xAAZEAEBAQEBAQAAAAAAAAAAAAACAQMRABL/2gAIAQEAAQUCzEQ2hy0zUZF4b8G8nv/EABURAQEAAAAAAAAAAAAAAAAAAAAS/9oACAEDAQE/AVP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAIAQIBAT8BjL//xAAaEAACAwEBAAAAAAAAAAAAAAAAAQIRQXEz/9oACAEBAAY/Arlo1dLhZ7yjxDqTles0/8QAGxAAAgIDAQAAAAAAAAAAAAAAABEBITFRcWH/2gAIAQEAAT8hhNmhbFW4ZdMJVQ8fhYRdXmEJpeH/2gAMAwEAAgADAAAAENA//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAwEBPxBYWcv/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EFEHvGf/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhQVExgXGhsf/aAAgBAQABPxC3LNQoB1DD4uC1cfrCyWpS6s5nxMki7qRPYzJS6boqes8s7NC/ef/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;&amp;quot;03&amp;quot;&quot;
+        title=&quot;&amp;quot;03&amp;quot;&quot;
+        src=&quot;/static/3cb7c948f6c5ccc31d86d3d1d71ecb94/c08c5/2020092103.jpg&quot;
+        srcset=&quot;/static/3cb7c948f6c5ccc31d86d3d1d71ecb94/0913d/2020092103.jpg 160w,
+/static/3cb7c948f6c5ccc31d86d3d1d71ecb94/cb69c/2020092103.jpg 320w,
+/static/3cb7c948f6c5ccc31d86d3d1d71ecb94/c08c5/2020092103.jpg 640w&quot;
+        sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;渋谷SCRAMBLE SQUAREにあるスターバックスコーヒー SHIBUYA TSUTAYA店で栗モンブランとコールドブリューコーヒーを堪能し…
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/932c92fa5f850158c5fde81604cebde1/c08c5/2020092104.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBA//EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAAB47bGEQNv/8QAGxAAAwACAwAAAAAAAAAAAAAAAQIDABMREiH/2gAIAQEAAQUCca6U7zdX8OqxvK1G5Iz/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIREiEDMWH/2gAIAQEABj8Cp8j9FHUrNozxbZlJKNdbKs//xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAhMUGR/9oACAEBAAE/Ie3P2DhnCS0ZLlIUf3Igb+eXSCuAeN1hG//aAAwDAQACAAMAAAAQ6M//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEXH/2gAIAQMBAT8QxX//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8QjH//xAAdEAEAAgMAAwEAAAAAAAAAAAABABEhMUFRYXGx/9oACAEBAAE/EN4hUNV9O4QwVe8+VvkdBC4H9TUXS1KYzbUFFLIkfTsH0Atg9n//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;&amp;quot;04&amp;quot;&quot;
+        title=&quot;&amp;quot;04&amp;quot;&quot;
+        src=&quot;/static/932c92fa5f850158c5fde81604cebde1/c08c5/2020092104.jpg&quot;
+        srcset=&quot;/static/932c92fa5f850158c5fde81604cebde1/0913d/2020092104.jpg 160w,
+/static/932c92fa5f850158c5fde81604cebde1/cb69c/2020092104.jpg 320w,
+/static/932c92fa5f850158c5fde81604cebde1/c08c5/2020092104.jpg 640w&quot;
+        sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;いつも通り秋葉原へ繰り出して平和ムーブ。&lt;/p&gt;
+&lt;p&gt;三日目は、午前中から夕方くらいにかけてこの日記ブログの構築環境を整えた。Macからスムーズに移行できるようにackage.jsonとかを流用したものの、記載のパッケージのバージョンがいくつか古いものがあってエラーを大量に吐き出していた。原因がPackage.jsonにあるというのも知らずにトラシューしていたので時間がかかってしまった…。&lt;/p&gt;
+&lt;p&gt;夜には、北海道のおいしい海鮮料理や地酒を…
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/861832324bb4e2f594e8f505ebb7ec10/c08c5/2020092105.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBv/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/aAAwDAQACEAMQAAABpUqYU0Ysy//EABsQAAIDAAMAAAAAAAAAAAAAAAECABESAxMj/9oACAEBAAEFAqzBzetRynYMGLYX/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BZ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB4QAQABAgcAAAAAAAAAAAAAAAEAAhEhIzEyQVGB/9oACAEBAAY/AoUFF/ZxM3HqIiLthfWf/8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERQSExUf/aAAgBAQABPyFQvfNJSFuUT8Fl0iXOELcqyxYSD1F1n//aAAwDAQACAAMAAAAQSy//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFR/9oACAEDAQE/EGdI9P/EABcRAQADAAAAAAAAAAAAAAAAAAEQETH/2gAIAQIBAT8QArI//8QAHRABAQACAgMBAAAAAAAAAAAAAREAITFRQWGBof/aAAgBAQABPxAIo2lcvWR9BZlL66MJ7/RwUJjsQedd3GUrKVhoN19zS/pTlm3P/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;&amp;quot;05&amp;quot;&quot;
+        title=&quot;&amp;quot;05&amp;quot;&quot;
+        src=&quot;/static/861832324bb4e2f594e8f505ebb7ec10/c08c5/2020092105.jpg&quot;
+        srcset=&quot;/static/861832324bb4e2f594e8f505ebb7ec10/0913d/2020092105.jpg 160w,
+/static/861832324bb4e2f594e8f505ebb7ec10/cb69c/2020092105.jpg 320w,
+/static/861832324bb4e2f594e8f505ebb7ec10/c08c5/2020092105.jpg 640w&quot;
+        sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cc73f44d5b1e32d80f71019c9a067f95/c08c5/2020092106.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAXLLycTsIv/EABsQAAMAAgMAAAAAAAAAAAAAAAECAwAREhMi/9oACAEBAAEFAusLgmrBpndKUcKvnhn/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABwQAAMAAgMBAAAAAAAAAAAAAAABERIhMTJBUf/aAAgBAQAGPwJpvynXZyYxX6Y2s3T/xAAcEAEAAwACAwAAAAAAAAAAAAABABExIWFBUYH/2gAIAQEAAT8hbsj5Mi9PY1Ftp9ie3jsQrFLyuVKO7dT/2gAMAwEAAgADAAAAEBcf/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EMWP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/ELGH/8QAHRABAQACAwADAAAAAAAAAAAAAREAIUFRYTFxgf/aAAgBAQABPxAM8gTPG+7g+UVlK9nH5lCN3tEyWd0+DTXlwCLQbCDjlx3XHW8J9Z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;&amp;quot;06&amp;quot;&quot;
+        title=&quot;&amp;quot;06&amp;quot;&quot;
+        src=&quot;/static/cc73f44d5b1e32d80f71019c9a067f95/c08c5/2020092106.jpg&quot;
+        srcset=&quot;/static/cc73f44d5b1e32d80f71019c9a067f95/0913d/2020092106.jpg 160w,
+/static/cc73f44d5b1e32d80f71019c9a067f95/cb69c/2020092106.jpg 320w,
+/static/cc73f44d5b1e32d80f71019c9a067f95/c08c5/2020092106.jpg 640w&quot;
+        sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;じらい屋の鉄なべ餃子…
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5a4f74b33e6fa8a25df7f6afe9c6a81c/c08c5/2020092107.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAABmXJ83GOKf//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBH/2gAIAQEAAQUCWgeNSkdcsLysPSIF1P/EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAgBAwEBPwHEf//EABURAQEAAAAAAAAAAAAAAAAAABAh/9oACAECAQE/Aaf/xAAbEAACAQUAAAAAAAAAAAAAAAAAEQIBECEiMf/aAAgBAQAGPwLay6KdGYiM/8QAGxAAAwACAwAAAAAAAAAAAAAAAAERMVFBYZH/2gAIAQEAAT8hy1t8I0It0qIo2MMB2UX2Y1Lcp//aAAwDAQACAAMAAAAQpO//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEWH/2gAIAQMBAT8Qrh//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEVH/2gAIAQIBAT8Qjdf/xAAcEAEBAQACAwEAAAAAAAAAAAABEQAhQTFhgZH/2gAIAQEAAT8QLKDsgfmiY5SE/ZqweQHNMHh8BIw7PIj2U3pxg3//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;&amp;quot;07&amp;quot;&quot;
+        title=&quot;&amp;quot;07&amp;quot;&quot;
+        src=&quot;/static/5a4f74b33e6fa8a25df7f6afe9c6a81c/c08c5/2020092107.jpg&quot;
+        srcset=&quot;/static/5a4f74b33e6fa8a25df7f6afe9c6a81c/0913d/2020092107.jpg 160w,
+/static/5a4f74b33e6fa8a25df7f6afe9c6a81c/cb69c/2020092107.jpg 320w,
+/static/5a4f74b33e6fa8a25df7f6afe9c6a81c/c08c5/2020092107.jpg 640w&quot;
+        sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;築地 日本海の高級寿司を食べたりして…
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/564356dfae259563df84fafbea4d470e/c08c5/2020092108.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/2gAMAwEAAhADEAAAAdE12waxJb//xAAaEAEAAgMBAAAAAAAAAAAAAAABAAIDEhMh/9oACAEBAAEFArhqZEyblYUWciqeT//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAgBAwEBPwHUf//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPwHAtL//xAAdEAACAgEFAAAAAAAAAAAAAAAAEQEhAhAiMVFy/9oACAEBAAY/AngpkWfHZsS86XLKo//EABsQAQADAQADAAAAAAAAAAAAAAEAESFBUWFx/9oACAEBAAE/IRBvggjbviWkSve2jmFHlYhFEOZMKw9T/9oADAMBAAIAAwAAABAgD//EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAIAQMBAT8QrYWf/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEhMWH/2gAIAQIBAT8QVyTI/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARIUHBUWGh/9oACAEBAAE/EAVTbpzzkoE4J0ViPUH+lGjfdkLLo50yO1wDEv7LHT4MT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;&amp;quot;08&amp;quot;&quot;
+        title=&quot;&amp;quot;08&amp;quot;&quot;
+        src=&quot;/static/564356dfae259563df84fafbea4d470e/c08c5/2020092108.jpg&quot;
+        srcset=&quot;/static/564356dfae259563df84fafbea4d470e/0913d/2020092108.jpg 160w,
+/static/564356dfae259563df84fafbea4d470e/cb69c/2020092108.jpg 320w,
+/static/564356dfae259563df84fafbea4d470e/c08c5/2020092108.jpg 640w&quot;
+        sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;QoLが限界値を振り切っていた。&lt;/p&gt;
+&lt;p&gt;四日目はどんな一日になるかなー。今日はしっかり寝て明日に備えます！&lt;/p&gt;</content:encoded></item><item><title><![CDATA[早いうちに2019年の懺悔でもしておくか]]></title><description><![CDATA[2019年は濃い一年だった。 あっという間だった。 たぶん人生で最も速く過ぎた一年だったと思う。 懺悔する前に、Googleカレンダー見ながら一年を振り返ってみることにする。…]]></description><link>https://diary.superconsole.work/191227/</link><guid isPermaLink="false">https://diary.superconsole.work/191227/</guid><pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;2019年は濃い一年だった。&lt;/p&gt;
 &lt;p&gt;あっという間だった。&lt;/p&gt;
 &lt;p&gt;たぶん人生で最も速く過ぎた一年だったと思う。&lt;/p&gt;
 &lt;p&gt;懺悔する前に、Googleカレンダー見ながら一年を振り返ってみることにする。&lt;/p&gt;
@@ -39,28 +288,29 @@
 &lt;p&gt;牛タンチャーハンを食べた。&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 640px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/fc6b4048c002a02fe0c2219ff6d89d2a/e2288/19122101.jpg&quot;
+    href=&quot;/static/fc6b4048c002a02fe0c2219ff6d89d2a/c08c5/19122101.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFTW5FTCkJ//8QAHBAAAQMFAAAAAAAAAAAAAAAAAgABAxESEzFB/9oACAEBAAEFAoWqhK95oSycHbr/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAABBQEAAAAAAAAAAAAAAAAAAQIRIDEi/9oACAEBAAY/AlcZBzlP/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAEhETH/2gAIAQEAAT8h02aThq7PgwzWqOQXZ0f/2gAMAwEAAgADAAAAEPsv/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAwEBPxBYRH//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QR21v/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARMSFBUf/aAAgBAQABPxAE2oE4IHk7iDNbEHOa8fSNPFVCGAS/k6c//9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFTW5FTCkJ//8QAHBAAAQMFAAAAAAAAAAAAAAAAAgABAxESEzJB/9oACAEBAAEFAoWqhK95oSycHZ1//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAQUBAAAAAAAAAAAAAAAAAAECESAxIv/aAAgBAQAGPwJXGQc5T//EABgQAAMBAQAAAAAAAAAAAAAAAAABIREx/9oACAEBAAE/IdNmk4auz4MM1qjkF0dH/9oADAMBAAIAAwAAABD7L//EABcRAQADAAAAAAAAAAAAAAAAAAABETH/2gAIAQMBAT8QjFP/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QR21v/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARMSFBUf/aAAgBAQABPxAE2oE4IHk7iDNbEHOa8fSNPFBCEAS/k6c//9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;gyutan&quot;
         title=&quot;gyutan&quot;
-        src=&quot;/static/fc6b4048c002a02fe0c2219ff6d89d2a/e2288/19122101.jpg&quot;
-        srcset=&quot;/static/fc6b4048c002a02fe0c2219ff6d89d2a/264cc/19122101.jpg 160w,
-/static/fc6b4048c002a02fe0c2219ff6d89d2a/f562b/19122101.jpg 320w,
-/static/fc6b4048c002a02fe0c2219ff6d89d2a/e2288/19122101.jpg 640w&quot;
+        src=&quot;/static/fc6b4048c002a02fe0c2219ff6d89d2a/c08c5/19122101.jpg&quot;
+        srcset=&quot;/static/fc6b4048c002a02fe0c2219ff6d89d2a/0913d/19122101.jpg 160w,
+/static/fc6b4048c002a02fe0c2219ff6d89d2a/cb69c/19122101.jpg 320w,
+/static/fc6b4048c002a02fe0c2219ff6d89d2a/c08c5/19122101.jpg 640w&quot;
         sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -68,28 +318,29 @@
 &lt;p&gt;肉の旨味が余すとこなく閉じ込められていて最高だった。&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 640px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/cd7ec794f5517960d97f12496a738c7d/e2288/19122102.jpg&quot;
+    href=&quot;/static/cd7ec794f5517960d97f12496a738c7d/c08c5/19122102.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFBAb/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABn7kozfNiCP8A/8QAGhAAAwADAQAAAAAAAAAAAAAAAAECAwQREv/aAAgBAQABBQLAy7XLr3WukMZ//8QAFREBAQAAAAAAAAAAAAAAAAAAEBL/2gAIAQMBAT8Bg//EABYRAAMAAAAAAAAAAAAAAAAAABAREv/aAAgBAgEBPwG0P//EAB0QAAEDBQEAAAAAAAAAAAAAAAABESEDEBIiQXH/2gAIAQEABj8CWEbprTkyZhPL/wD/xAAZEAEAAwEBAAAAAAAAAAAAAAABABExIUH/2gAIAQEAAT8hcOqwpmfU75LnR4QnBt4SsJpn/9oADAMBAAIAAwAAABB7P//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAgBAwEBPxBCi7Lf/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxAegjl//8QAHBABAAICAwEAAAAAAAAAAAAAAQAhETFBUWFx/9oACAEBAAE/EPZ7GwOjiJqWCoNXx8hYYrthmGMbF65LiwOrqUI7Z//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFBAb/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABn7kozfNiCP8A/8QAGhAAAwADAQAAAAAAAAAAAAAAAAECAwQREv/aAAgBAQABBQLAy7XLr3WukMZ//8QAFREBAQAAAAAAAAAAAAAAAAAAEBL/2gAIAQMBAT8Bg//EABYRAAMAAAAAAAAAAAAAAAAAABAREv/aAAgBAgEBPwG0P//EAB0QAAEDBQEAAAAAAAAAAAAAAAABESEDEBIiQXH/2gAIAQEABj8CWEbprTkyZhPL/wD/xAAZEAEAAwEBAAAAAAAAAAAAAAABABExIUH/2gAIAQEAAT8hYOqwpmfU75LnR4QnBt4SsJpn/9oADAMBAAIAAwAAABB7P//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAgBAwEBPxBCi7Lf/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxAWgjl//8QAHBABAAICAwEAAAAAAAAAAAAAAQAhETFBUWFx/9oACAEBAAE/EPdbGwOjiJqWCoNXx8hYYrthmGMbF65LiwOrqUI7Z//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;laptop&quot;
         title=&quot;laptop&quot;
-        src=&quot;/static/cd7ec794f5517960d97f12496a738c7d/e2288/19122102.jpg&quot;
-        srcset=&quot;/static/cd7ec794f5517960d97f12496a738c7d/264cc/19122102.jpg 160w,
-/static/cd7ec794f5517960d97f12496a738c7d/f562b/19122102.jpg 320w,
-/static/cd7ec794f5517960d97f12496a738c7d/e2288/19122102.jpg 640w&quot;
+        src=&quot;/static/cd7ec794f5517960d97f12496a738c7d/c08c5/19122102.jpg&quot;
+        srcset=&quot;/static/cd7ec794f5517960d97f12496a738c7d/0913d/19122102.jpg 160w,
+/static/cd7ec794f5517960d97f12496a738c7d/cb69c/19122102.jpg 320w,
+/static/cd7ec794f5517960d97f12496a738c7d/c08c5/19122102.jpg 640w&quot;
         sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -99,30 +350,31 @@
 &lt;p&gt;一軒目は&lt;a href=&quot;https://tabelog.com/tokyo/A1310/A131001/13191419/&quot;&gt;魚蔵 ねむろ&lt;/a&gt;、&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 640px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a9626eebb3bc4ff8f1388ee1541874c0/3377c/19122103.jpg&quot;
+    href=&quot;/static/a9626eebb3bc4ff8f1388ee1541874c0/e8a7f/19122103.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.239015817223205%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACBP/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAFElUCazclY/wD/xAAaEAACAgMAAAAAAAAAAAAAAAABAxAhABES/9oACAEBAAEFAtU4YOYdUf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEv/aAAgBAwEBPwGtP//EABYRAQEBAAAAAAAAAAAAAAAAAAABEv/aAAgBAgEBPwGMP//EABsQAAIBBQAAAAAAAAAAAAAAAAABEBESMVFx/9oACAEBAAY/AtlLmkjMPsf/xAAbEAEAAgIDAAAAAAAAAAAAAAABABEhQRAxUf/aAAgBAQABPyGyq0yQbua3UBOjAsrUJg9nH//aAAwDAQACAAMAAAAQbN//xAAWEQEBAQAAAAAAAAAAAAAAAAAAIXH/2gAIAQMBAT8Qll//xAAYEQEBAAMAAAAAAAAAAAAAAAABABEhQf/aAAgBAgEBPxBqmLft/8QAHBABAAIDAAMAAAAAAAAAAAAAAQARMUFRIWGh/9oACAEBAAE/EEg6CEO79xRYtVIs0GcyrgOtQFWR5OwgEPg5DE//2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACBP/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAFElUCazclY/wD/xAAaEAACAgMAAAAAAAAAAAAAAAABAxAhABES/9oACAEBAAEFAtU4YOYdUf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEv/aAAgBAwEBPwGtP//EABYRAQEBAAAAAAAAAAAAAAAAAAABEv/aAAgBAgEBPwGMP//EABsQAAIBBQAAAAAAAAAAAAAAAAABEBESMVFx/9oACAEBAAY/AtlLmkjMPsf/xAAbEAEAAgIDAAAAAAAAAAAAAAABABEhQRAxUf/aAAgBAQABPyGyq0yQbua3UBOjAsrUJg9nH//aAAwDAQACAAMAAAAQbN//xAAWEQEBAQAAAAAAAAAAAAAAAAAAIXH/2gAIAQMBAT8Qll//xAAYEQEBAAMAAAAAAAAAAAAAAAABABEhQf/aAAgBAgEBPxBqmLft/8QAHBABAAIDAAMAAAAAAAAAAAAAAQARMUFRIWGh/9oACAEBAAE/EEg6CEO79xRYtVIs0GcyrgOtQFWR5OwgEPg5DE//2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;sake_todokura&quot;
         title=&quot;sake_todokura&quot;
-        src=&quot;/static/a9626eebb3bc4ff8f1388ee1541874c0/e2288/19122103.jpg&quot;
-        srcset=&quot;/static/a9626eebb3bc4ff8f1388ee1541874c0/264cc/19122103.jpg 160w,
-/static/a9626eebb3bc4ff8f1388ee1541874c0/f562b/19122103.jpg 320w,
-/static/a9626eebb3bc4ff8f1388ee1541874c0/e2288/19122103.jpg 640w,
-/static/a9626eebb3bc4ff8f1388ee1541874c0/b3ee8/19122103.jpg 960w,
-/static/a9626eebb3bc4ff8f1388ee1541874c0/3377c/19122103.jpg 1138w&quot;
+        src=&quot;/static/a9626eebb3bc4ff8f1388ee1541874c0/c08c5/19122103.jpg&quot;
+        srcset=&quot;/static/a9626eebb3bc4ff8f1388ee1541874c0/0913d/19122103.jpg 160w,
+/static/a9626eebb3bc4ff8f1388ee1541874c0/cb69c/19122103.jpg 320w,
+/static/a9626eebb3bc4ff8f1388ee1541874c0/c08c5/19122103.jpg 640w,
+/static/a9626eebb3bc4ff8f1388ee1541874c0/6a068/19122103.jpg 960w,
+/static/a9626eebb3bc4ff8f1388ee1541874c0/e8a7f/19122103.jpg 1138w&quot;
         sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -143,28 +395,29 @@
 &lt;p&gt;窓際のスペースがやや低かったので、棚を移動して高さを合わせた(ちょうどよくなった)&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 640px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e5fdf02d13b2352ddd08b2c3cea9fb0f/e2288/19121701.jpg&quot;
+    href=&quot;/static/e5fdf02d13b2352ddd08b2c3cea9fb0f/c08c5/19121701.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABTs5thdIgv//EABoQAAEFAQAAAAAAAAAAAAAAAAEAAgMQFAT/2gAIAQEAAQUCh6AItoC2sppr/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bh//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABETICIGH/2gAIAQEABj8Ch5Q0Vb6Uen//xAAcEAEAAgEFAAAAAAAAAAAAAAABABEhMUFRofD/2gAIAQEAAT8hF6SGLuGEm7T0ktN4nMZ//9oADAMBAAIAAwAAABA7z//EABYRAQEBAAAAAAAAAAAAAAAAAAARMf/aAAgBAwEBPxDSP//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QbyFP/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARMSFxQVFh/9oACAEBAAE/EEaho4hd+odX+FCnXiLOHy4MCOo+yE3s/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABTs5thdIgv//EABoQAAEFAQAAAAAAAAAAAAAAAAEAAgMQFAT/2gAIAQEAAQUCh6AItoC2sppr/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bh//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABETICIGH/2gAIAQEABj8Ch5Q0Vb6Uen//xAAcEAEAAgEFAAAAAAAAAAAAAAABABEhMUFRofD/2gAIAQEAAT8hB6SGLuGEm7T0ktN4nMZ//9oADAMBAAIAAwAAABA7z//EABYRAQEBAAAAAAAAAAAAAAAAAAARMf/aAAgBAwEBPxDSP//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8Qbwp//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARMSFxQVFh/9oACAEBAAE/EFahp4hd+odX+FCnXiLOHy4MiOo+xhN7P//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;wind&quot;
         title=&quot;wind&quot;
-        src=&quot;/static/e5fdf02d13b2352ddd08b2c3cea9fb0f/e2288/19121701.jpg&quot;
-        srcset=&quot;/static/e5fdf02d13b2352ddd08b2c3cea9fb0f/264cc/19121701.jpg 160w,
-/static/e5fdf02d13b2352ddd08b2c3cea9fb0f/f562b/19121701.jpg 320w,
-/static/e5fdf02d13b2352ddd08b2c3cea9fb0f/e2288/19121701.jpg 640w&quot;
+        src=&quot;/static/e5fdf02d13b2352ddd08b2c3cea9fb0f/c08c5/19121701.jpg&quot;
+        srcset=&quot;/static/e5fdf02d13b2352ddd08b2c3cea9fb0f/0913d/19121701.jpg 160w,
+/static/e5fdf02d13b2352ddd08b2c3cea9fb0f/cb69c/19121701.jpg 320w,
+/static/e5fdf02d13b2352ddd08b2c3cea9fb0f/c08c5/19121701.jpg 640w&quot;
         sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -177,28 +430,29 @@
 &lt;p&gt;ちなみに、ディスプレイの位置も変えたりした。&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 640px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/0eed6ec52d1fc22b746fe7845ca6dd0b/e2288/19121702.jpg&quot;
+    href=&quot;/static/0eed6ec52d1fc22b746fe7845ca6dd0b/c08c5/19121702.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAGY3NfjZMQr/8QAGRABAQEAAwAAAAAAAAAAAAAAAgMBBBMx/9oACAEBAAEFAo00bxz33tEhn2a0Us1r/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERMUH/2gAIAQMBAT8BjRUf/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bp//EABwQAAEEAwEAAAAAAAAAAAAAAAABESEiAhBBUf/aAAgBAQAGPwJWL98Gx1WCV4f/xAAaEAADAQADAAAAAAAAAAAAAAAAAREhMUFx/9oACAEBAAE/IWJD9VKupTfA11J2zZtnos9IP//aAAwDAQACAAMAAAAQKy//xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhMf/aAAgBAwEBPxCWGPQ//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERQf/aAAgBAgEBPxB4Haf/xAAcEAEBAAMAAwEAAAAAAAAAAAABEQAhMVGRobH/2gAIAQEAAT8Qo3Tpx7yhICJFnzDHBrsbXCCJRwxqk4PTw4Qarhr8z//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAGY3NfjZMQr/8QAGRABAQEAAwAAAAAAAAAAAAAAAgMBBBMx/9oACAEBAAEFAo00bxz33tEhn2a0Us1r/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERMUH/2gAIAQMBAT8BjRUf/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bp//EABwQAAEEAwEAAAAAAAAAAAAAAAABESEiAhBBUf/aAAgBAQAGPwJWL98Gx1WCV4f/xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhQTH/2gAIAQEAAT8hYkPOqlXUpvwa6k6zZtnos9IP/9oADAMBAAIAAwAAABArL//EABgRAAIDAAAAAAAAAAAAAAAAAAABESEx/9oACAEDAQE/EJYY9D//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oACAECAQE/EHgdp//EABwQAQEAAgIDAAAAAAAAAAAAAAERADEhUZGhsf/aAAgBAQABPxCjd0485QkBEiz1hjQ15G1wgiUcMcUmh2dOEGq0cfM//9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;display&quot;
         title=&quot;display&quot;
-        src=&quot;/static/0eed6ec52d1fc22b746fe7845ca6dd0b/e2288/19121702.jpg&quot;
-        srcset=&quot;/static/0eed6ec52d1fc22b746fe7845ca6dd0b/264cc/19121702.jpg 160w,
-/static/0eed6ec52d1fc22b746fe7845ca6dd0b/f562b/19121702.jpg 320w,
-/static/0eed6ec52d1fc22b746fe7845ca6dd0b/e2288/19121702.jpg 640w&quot;
+        src=&quot;/static/0eed6ec52d1fc22b746fe7845ca6dd0b/c08c5/19121702.jpg&quot;
+        srcset=&quot;/static/0eed6ec52d1fc22b746fe7845ca6dd0b/0913d/19121702.jpg 160w,
+/static/0eed6ec52d1fc22b746fe7845ca6dd0b/cb69c/19121702.jpg 320w,
+/static/0eed6ec52d1fc22b746fe7845ca6dd0b/c08c5/19121702.jpg 640w&quot;
         sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -574,12 +828,7 @@ there is a good day in my life like this…owari.&lt;/p&gt;</content:encoded></i
 &lt;p&gt;なので、今月は「何かを創る」。&lt;/p&gt;
 &lt;p&gt;この姿勢を持ちながら日記を書いていこうかと思います。  &lt;/p&gt;
 &lt;p&gt;今はAWSをはじめる準備(Vプリカの購入とか云々)を進めていて、サーバレスなサービスを開発したいと考えていたり、音楽活動としても何かEP制作?公募に参加?したりして実績を創ろうかと考えている最中です(なんなら全部やるか！！)。 &lt;/p&gt;
-&lt;p&gt;あとこの日記をGit submoduleを活用して&lt;a href=&quot;https://superconsole.work/&quot;&gt;公式サイト&lt;/a&gt;に取り込んだり学生LTに登壇する予定だったり、これからもいろいろと頑張っていくので頑張ります！！！。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[10月を終えて]]></title><description><![CDATA[きっかけから先へ進めたのかは正直わからない…。   でもきっかけを延長して先に進もうとする姿勢は取っていたので少なからず見返りは目に見えない形で受けられたのだろうと信じている。   さて、1…]]></description><link>https://diary.superconsole.work/181031_2/</link><guid isPermaLink="false">https://diary.superconsole.work/181031_2/</guid><pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;きっかけから先へ進めたのかは正直わからない…。  &lt;/p&gt;
-&lt;p&gt;でもきっかけを延長して先に進もうとする姿勢は取っていたので少なからず見返りは目に見えない形で受けられたのだろうと信じている。  &lt;/p&gt;
-&lt;p&gt;さて、11月の目標は「何かを創る」。&lt;/p&gt;
-&lt;p&gt;ここまで日記にしてきて、そろそろ就職活動に向けて何か創っていこうかなと思う。 &lt;/p&gt;
-&lt;p&gt;Webサービス, アプリケーション, 個人EP(フリーで出すか…), Massiveのサンプルパックを作る?…etc。  &lt;/p&gt;
-&lt;p&gt;なんでもいいから形にしたい欲が高まってきたので、11月から一皮脱ぎますか~。頑張る。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Google Search Consoleを使ってみる]]></title><description><![CDATA[🎃だね…。いつも通りの日々だけど…。   source   ポートフォリオサイトを制作してGitHub Pagesにプッシュしてドメインもそれらしいのを購入してネームサーバに登録して…etc…]]></description><link>https://diary.superconsole.work/181031/</link><guid isPermaLink="false">https://diary.superconsole.work/181031/</guid><pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;🎃だね…。いつも通りの日々だけど…。  &lt;/p&gt;
+&lt;p&gt;あとこの日記をGit submoduleを活用して&lt;a href=&quot;https://superconsole.work/&quot;&gt;公式サイト&lt;/a&gt;に取り込んだり学生LTに登壇する予定だったり、これからもいろいろと頑張っていくので頑張ります！！！。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Google Search Consoleを使ってみる]]></title><description><![CDATA[🎃だね…。いつも通りの日々だけど…。   source   ポートフォリオサイトを制作してGitHub Pagesにプッシュしてドメインもそれらしいのを購入してネームサーバに登録して…etc…]]></description><link>https://diary.superconsole.work/181031/</link><guid isPermaLink="false">https://diary.superconsole.work/181031/</guid><pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;🎃だね…。いつも通りの日々だけど…。  &lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://wacul-ai.com/blog/seo/internal-seo/google-crawler-request/&quot;&gt;source&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;ポートフォリオサイトを制作してGitHub Pagesにプッシュしてドメインもそれらしいのを購入してネームサーバに登録して…etc、サイト運用が本格的になってきたこの頃。&lt;/p&gt;
 &lt;p&gt;何か足りない気がするんだよなぁと勘ぐっていたら思い出した。&lt;/p&gt;
@@ -587,7 +836,12 @@ there is a good day in my life like this…owari.&lt;/p&gt;</content:encoded></i
 &lt;p&gt;サイトを色んな人に見てもらうための工夫を何もしていなかった…。&lt;/p&gt;
 &lt;p&gt;ということでまずスタートラインに立つために、Google Search Console経由でクローラに探索申請をしてみる。&lt;/p&gt;
 &lt;p&gt;今からサイトマップを制作して、それをアップロードする予定。&lt;/p&gt;
-&lt;p&gt;自分のサイトの構造における癖が強くてジェネレータとかじゃ作れないっぽいので頑張ります…。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[倦怠感...]]></title><description><![CDATA[最近倦怠感がすごくて日中の活動量が減っている気がするので活気づけるためまずどのくらい疲れているかをself doctor.netで診断しました。結果は 慢性的な疲労(7…]]></description><link>https://diary.superconsole.work/181030/</link><guid isPermaLink="false">https://diary.superconsole.work/181030/</guid><pubDate>Tue, 30 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;最近倦怠感がすごくて日中の活動量が減っている気がするので活気づけるためまずどのくらい疲れているかを&lt;a href=&quot;https://www.selfdoctor.net/&quot;&gt;self doctor.net&lt;/a&gt;で診断しました。結果は &lt;strong&gt;慢性的な疲労(75%)&lt;/strong&gt; とのこと…。&lt;br&gt;
+&lt;p&gt;自分のサイトの構造における癖が強くてジェネレータとかじゃ作れないっぽいので頑張ります…。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[10月を終えて]]></title><description><![CDATA[きっかけから先へ進めたのかは正直わからない…。   でもきっかけを延長して先に進もうとする姿勢は取っていたので少なからず見返りは目に見えない形で受けられたのだろうと信じている。   さて、1…]]></description><link>https://diary.superconsole.work/181031_2/</link><guid isPermaLink="false">https://diary.superconsole.work/181031_2/</guid><pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;きっかけから先へ進めたのかは正直わからない…。  &lt;/p&gt;
+&lt;p&gt;でもきっかけを延長して先に進もうとする姿勢は取っていたので少なからず見返りは目に見えない形で受けられたのだろうと信じている。  &lt;/p&gt;
+&lt;p&gt;さて、11月の目標は「何かを創る」。&lt;/p&gt;
+&lt;p&gt;ここまで日記にしてきて、そろそろ就職活動に向けて何か創っていこうかなと思う。 &lt;/p&gt;
+&lt;p&gt;Webサービス, アプリケーション, 個人EP(フリーで出すか…), Massiveのサンプルパックを作る?…etc。  &lt;/p&gt;
+&lt;p&gt;なんでもいいから形にしたい欲が高まってきたので、11月から一皮脱ぎますか~。頑張る。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[倦怠感...]]></title><description><![CDATA[最近倦怠感がすごくて日中の活動量が減っている気がするので活気づけるためまずどのくらい疲れているかをself doctor.netで診断しました。結果は 慢性的な疲労(7…]]></description><link>https://diary.superconsole.work/181030/</link><guid isPermaLink="false">https://diary.superconsole.work/181030/</guid><pubDate>Tue, 30 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;最近倦怠感がすごくて日中の活動量が減っている気がするので活気づけるためまずどのくらい疲れているかを&lt;a href=&quot;https://www.selfdoctor.net/&quot;&gt;self doctor.net&lt;/a&gt;で診断しました。結果は &lt;strong&gt;慢性的な疲労(75%)&lt;/strong&gt; とのこと…。&lt;br&gt;
 大学一年の時に比べて家で作業することが多くなり、運動は元からしていないので体力とかはいつも通り皆無なのですが、疲れが抜けない感じがいつにもましている感じです。活力が無くなった…。&lt;br&gt;
 そこで次に記事をいくつかピックアップして活力をあげる懸け橋にしようと思いました。&lt;br&gt;
 自己満です。整理しましょう…。  &lt;/p&gt;
