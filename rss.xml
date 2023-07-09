@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SpCn-Diary]]></title><description><![CDATA[just diary.]]></description><link>https://diary.superconsole.work</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 25 Oct 2020 11:16:32 GMT</lastBuildDate><item><title><![CDATA[木更津駅経由で東京駅...遠回りして見た港と都会]]></title><description><![CDATA[朝の7時前、アラームが鳴る前に目が覚めた。 歯を磨いてボケーっとしながらYouTube見たりNetflix見たりして、…]]></description><link>https://diary.superconsole.work/201025/</link><guid isPermaLink="false">https://diary.superconsole.work/201025/</guid><pubDate>Sun, 25 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;朝の7時前、アラームが鳴る前に目が覚めた。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SpCn-Diary]]></title><description><![CDATA[just diary.]]></description><link>https://diary.superconsole.work</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 09 Jul 2023 05:53:05 GMT</lastBuildDate><item><title><![CDATA[GraphicEditionを創設した]]></title><description><![CDATA[3年ぶりの投稿。 これまで何度か投稿しようとは思っていたものの、この日記をビルドするための環境構築に挫折したりして気づいたらこんなに時間が過ぎていた。 ここ…]]></description><link>https://diary.superconsole.work/230709/</link><guid isPermaLink="false">https://diary.superconsole.work/230709/</guid><pubDate>Sun, 09 Jul 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;3年ぶりの投稿。&lt;/p&gt;
+&lt;p&gt;これまで何度か投稿しようとは思っていたものの、この日記をビルドするための環境構築に挫折したりして気づいたらこんなに時間が過ぎていた。&lt;/p&gt;
+&lt;p&gt;ここ3年の間でコロナは収束してきて、自分も一人前の社会人として会社に貢献できるようになり、収入も増えた故に生活も安定してきた。&lt;/p&gt;
+&lt;p&gt;本業は音楽ではないが、副収入と言えるくらいには音楽で稼いでいて、たまに贅沢なご飯を食べたりすることができている。&lt;/p&gt;
+&lt;p&gt;・・・&lt;/p&gt;
+&lt;p&gt;さて、今年の4/23(日)に「GraphicEdition」というレーベルを創設した。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/956336904c38ec7b1b544427e46f86b5/e51a6/23070901.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 119.37500000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAYCAIAAAB1KUohAAAACXBIWXMAAAsSAAALEgHS3X78AAADkUlEQVQ4y5VSXUxSYRg+qcBMJVEQJPAHUFBEnD/0Q8T822xOvdCaW81rZ97FvPDCG6eb3rjZjffNNbso01mKF6nNi+rGNftZmHMlYQoHRPk5cjj0HM5MdCvr2cfH+73nfd6f5/uIjIwMoVBYqFLpdCWGMoNcLif+DcnJyYREIsnOzhYKL4klOVKpLFMkunCMv5PZAPzS09ORIjMzMyUlhfgvpKWllZaWlhuNFRUVubm5YrFYqVTm5eVdVii49Gdwiszj8QQCAY+XwuPx44s9IiNfIEhKSjqnckFBgVqtLtXrUQ+GwWDQ6/Xl5eVarRafUlNTBXFgNOh6di6xWII+VSqVWCKBYMVarVqjVsWhUCrB5xTFsbi4GFeDzpPjYPuSSqWFhYVFRUUajQaVYYCgUCjk8svwQwUEwA8J0Av8OTk5UESt0chkuQQi4K2vr6+rq8Pe1tZ23WxGEWRB/9BPJBIhAJ7KykrUl8lkoOCIGgREbmxsrK2ttVgsMFpbW81ms9FoxPDoBXH5+fmYVqfTwQmbqwwybKK6uhocq9XK7Q0NDfCUlJSgmslkampqKisru2m1oimkA40joy+MQFy9dq2rq+uGxVJTU3P7zp2WlpZbTbcA0DBCR0dHe3t7Z2cnDFwBWoUKaB6p2cpgNjc3Ix9etemK6e49Fv39/Rik5/59m83W29vb09PT19eHdnD/uLysrCzof/FiGjE8PAwOJkcLGGx0dHRpaWl5ZWVycnJ1dXVtbe0VjsvLMCYmJoaGhgYHB0EZGRmx2R4Qi4uL3d3duHA+n19VVeXa2YnFYgzDxP4A0uvb3XMHAkGXy0UsLCzQND02NjYwMOBwOPA5EolEo1E4o6dBx0FRVCgcRtjGxgYxNfXE8XVz/cPHL46NN2/fOZ0/EitzBpOwfju3traIZ9PPXT93369/+PTZ8e37djAYip2HE/Ls7Cwsv98fwBzBoN9/QJKkz7cPD3afz+ff93tDtDvEeEIMGWKiTAJ5ZmYmRB3tuUkogeUhvawkbs+e2+MmvW4PCTsQjlDRGEWzi0msPD09TR1FPN79g8ND0PAHwSI0Hd8hUhR/Z8SHeKfajhxRTJSGjGGK4r5xs3Hg7ETl4dnc3CTsdjtrbe/s+Q5ix3oeBsOY5Xcp/2EgfHxEwEEgCMPpdBJ4gCuvVyceP3/0dA4Pxm5n14uXwAJnx4/z8/Mnx7m5F3h14+MPfwF/bZjFCOLiRAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;01&quot;
+        title=&quot;01&quot;
+        src=&quot;/static/956336904c38ec7b1b544427e46f86b5/6af66/23070901.png&quot;
+        srcset=&quot;/static/956336904c38ec7b1b544427e46f86b5/69538/23070901.png 160w,
+/static/956336904c38ec7b1b544427e46f86b5/72799/23070901.png 320w,
+/static/956336904c38ec7b1b544427e46f86b5/6af66/23070901.png 640w,
+/static/956336904c38ec7b1b544427e46f86b5/e51a6/23070901.png 783w&quot;
+        sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;このレーベルは、TR-808の音を使って音楽を制作するという方針を軸にTrapやHip-Hop/G-funkといったジャンル等の曲を展開し、ひたすらに音楽表現の可能性を探求し続ける集団を目指している。&lt;/p&gt;
+&lt;p&gt;集団…とはいえど、今のところ自分一人でコツコツとアルバムを制作してはリリースし続けていく次第だが、2-3年後くらいを目途に同じ808愛好家というかTrapやHip-Hop/Drillといったジャンルで曲を制作するプロデューサ陣を集めてコンピレーションアルバムを作れたらなという野望は抱いている。&lt;/p&gt;
+&lt;p&gt;ただ、この手の音楽を作るプロデューサは自己実現に向けて自分のペースで創作を進めている方が多いので、そもそもとして依頼自体受け付けていなかったり連絡手段が気づいたら消失していたりと、話を持ち掛けるだけで骨が折れそうな未来しかないけど…。&lt;/p&gt;
+&lt;p&gt;・・・&lt;/p&gt;
+&lt;p&gt;そして、渾身のレーベルリリース1作目は「裏命 x TR-808」という組み合わせをテーマに6曲入りのソロEPを売り出した。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6bf0a743e615ea64555ef2ed1d185f08/d2a60/23070902.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 116.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAIAAACEf/j0AAAACXBIWXMAAAsSAAALEgHS3X78AAACjElEQVQ4y4VU246bMBA1FztcDcZcDBgCIdlK6Ua7VX9h1YdVLy9dqf//JT3YNFqpSvYIGRv7zJwZz0AYY5xn83xYjsdpmlXbxkkSGYRhuI5RtLsBIqXUowb56en58fEyDEOaprlBmvIsz7Ms+58WBAFME9hOeYqxKIppmo6nU9t1YRTGcYxDzOCmZ7uNo3A47venh4dV/zzvpwnmPyDbFzwnScI5hwkYsks7wQiF98iWORqcTqdGKTjvtUYKhnEEHypukm1id+YEdPoG10O3lBO7tyzL5XI5n8+PBk3TQMjuI2zkruvmw0EphVRrrbFE8v1/uOfZAhcLb9CfC1FIWVW1RVVVyMi9mJHaQfdtq4QQuu/maQUkIH8YUSf3yEHCaZTSIGJhTBPhUeZ5LgR7BpTSO7JZ0MyhPof9p3D4HB2+7tKcUZ/RtUICgzsJ24lCqFY1qqmVKhGoatqu7XVXNzX8O+/gui5GyIFd45ntalXrvVa96obu+szLNC8zjqYGPOMI3sxSamphuyqQueAOdVzPdVzHZ75HPRas3+EK146CQwpRfKgINA9qDs43MgSDTAiRlZRlQRl1PIfuaKUqYuB7PqyQd0AWN7LqW1lLfHr59vL25+31+ytxSZRElgyFaHs4WOMkxDO34PtXcqugMBMZpD5/ef799nsNJOeqU5ZsfwmIH0vbp6BvZD3ooiwg1fEdWcqfv360fYtl0zY4DcGiKMDfQqBb2W7kYRyEFNgAgTgkjEPXd5Ez1TVXzyheTJDR9baIs8lG6PNhRjqhEyaKUmSC50Ve1uU4DqY3menZ2JrAHP7WfxiqB9sgL8eDEHlZyvWppJ3kIlvjdBy0CXquLEtcGzoP+cNt/QX54Ugdjg/X2gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;01&quot;
+        title=&quot;01&quot;
+        src=&quot;/static/6bf0a743e615ea64555ef2ed1d185f08/6af66/23070902.png&quot;
+        srcset=&quot;/static/6bf0a743e615ea64555ef2ed1d185f08/69538/23070902.png 160w,
+/static/6bf0a743e615ea64555ef2ed1d185f08/72799/23070902.png 320w,
+/static/6bf0a743e615ea64555ef2ed1d185f08/6af66/23070902.png 640w,
+/static/6bf0a743e615ea64555ef2ed1d185f08/d2a60/23070902.png 807w&quot;
+        sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;EPのタイトルは、「abnormality&amp;#x26;ravages(808Tapes by GraphicEdition)」&lt;/p&gt;
+&lt;p&gt;「808Tapes by GraphicEdition」というのはGraphicEditionというレーベル名だけだと808を専門としてるニュアンスが伝わりにくいかなと思ったので、全曲808使ってますよというのを大々的に伝えたくてこういったシリーズを展開していくという形で付けた。ブランド的な&lt;/p&gt;
+&lt;p&gt;EPのタイトルはなんでこれになったんだろう…。自分が如何せんストレスがたまった時や何かを発散したいとき、あるいはめちゃくちゃ酔ってる時に創作に関して重要な決断をしがちなので、当時怒りに任せて「異常性」と「破壊」にしたのかなとは思う。記憶にない…。&lt;/p&gt;
+&lt;p&gt;ここまで日記を書いてきてせっかくだしそれぞれの曲に対する思い出話でもしたくなってきたので書いていこうかなと思う。日記とは思えない文量になるけど、まぁいいか。&lt;/p&gt;
+&lt;p&gt;・・・&lt;/p&gt;
+&lt;p&gt;1曲目の「Abnormal」はサビでグルーヴ感強いボーカルカットと寂しげな裏命の歌声が合わさり、まるで家から出れない状態で深夜に孤独を抱えているような絶望感に苛まれているような表現が出来たように思う。曲調は、Skrillexが2月にリリースしたアルバムの1曲である「&lt;a href=&quot;https://www.youtube.com/watch?v=iesesSa1040&quot;&gt;Skrillex &amp;#x26; Eli Keszler - A Street I Know&lt;/a&gt;」にめちゃくちゃ影響受けてると思う。あとは、今まで聞いてきたDavid Lewis “D.A.” Doman(D.A. Got That Dope)とかBACHLOGIC、GREEN ASSASSIN DOLLAR、FEZBEATZといった偉大なプロデューサのヴァイブスが無意識化に溢れ出てるんだろうなーというのは今聞いてみると感じたりする。これは他の曲も然り。&lt;/p&gt;
+&lt;p&gt;2曲目の「Two Point2」はOldschoolなHip-Hopを現代に昇華させたような感じに仕上がった。途中で入ってくるサクソフォンの響きが個人的に気に入っている。裏命の音階は全部Bでベタ打ちしていてピッチでイントネーションを付ける手法で作ったので、それ故に一段と気だるさみたいなのが強調されていて悪くない調声が出来たなと思う。歌詞に関しても、バスケが得意な理芽のかつ強気な性格？を表現できたので理芽 -STRANGE GIRL CLUB-の一会員として我ながら誇らしく思う。&lt;/p&gt;
+&lt;p&gt;3曲目の「Elite」は実は今回のEPで一番最後に完成した曲でありかつ一番ビート作りに頭を抱えた曲である。頭を抱えたというよりは、基本的に曲は曲名を先に決めてからビートを制作し、歌詞から裏命の声の打ち込みと進んでいくが、曲名からビートが全然思い浮かばないし歌詞も全然まとまらないしで、非常に苦戦した。自分が創作で詰まった時は、電車で日帰りで旅をすることにしている。この時はどこにいったっけな。広島とか行ったのかな。ただ広島旅行で得たインスピレーションは4曲目の「Ravages」にめちゃくちゃ影響及ぼしてるのでそっちで解説したい。たぶんこっちは東京の適当なカフェとかビル群のある大都会の街並みとかを散策していて得たものかなとは思う。&lt;/p&gt;
+&lt;p&gt;4曲目の「Ravages」は、実はいうと曲を制作しているときは曲名は「Hiroshima」だった…。影響受けるどころか完全に広島で得たいろいろな感情を丸々この曲にぶつけてた。その断片は歌詞の至る所に散らばっているだろうと思うが、他に工夫している点としてはキックの配置。先にベースラインを仕上げてから数学的な法則に沿って機械的に置いて行ったので気持ち悪いグルーヴに仕上がった。スネアもDrillを意識して変なところに置いてるけど曲調と全然マッチしてないので余計にもやもやする感じがする。広島の原爆ドームとか平和記念資料館で見て得られた生々しい情報を処理しきれなくなって、深夜にコカ・コーラゼロを1.5L1本空けながら完成したこのなんとも言えない不快感みたいなものを曲から感じ取れるだろうか。歌詞は家の近くの川沿いを歩きながらタバコをパカパカ吸って書き殴ってできたものなので良い感じにまとまりがなく、それが味として出てるように思う。&lt;/p&gt;
+&lt;p&gt;5曲目の「Horizon」はたしか2-3年前に一回ビートだけ作って没にしている曲だ。曲調は学生の頃に狂うほどに聞いていたSTICKYのソロ曲&lt;a href=&quot;https://www.youtube.com/watch?v=6f0uWCj-61E&quot;&gt;SCARS - YOU ALREADY KNOW&lt;/a&gt;をリスペクトしている。STICKYが亡くなったのを知ったのがこの曲を完成させるきっかけにもなっていて、一気に作り上げた。この曲の歌詞に、自分が生まれ育った「千葉」という土地が出ていて感慨深いものがある。&lt;/p&gt;
+&lt;p&gt;6曲目の「そして音楽は愛となり」はこのEPの中で一番最初に出来た曲であり、また自分が裏命を自分のPCにインストールしてから一番初めにフルで完成させた曲である。曲調は完全にベタなG-funkではあるものの、歌詞はとにかく音楽を愛しているからいっそのこと音楽が愛そのものになってしまって何もかもめちゃくちゃにしてしまえよという、音楽に狂った自分のありのままを一切の希釈なしに落とし込んだものになっている。過去にも2019年にリリースした「voice of nostalgia」であったり2022年にリリースした「Sylvie Vallia (Collection of Prototypes)」でも最後のトラックは安定のG-funkで仕上げている。歌詞はやる気のない感じを出しながらも一部攻撃的な歌詞を、例えば「バズりさえすれば個性は二の次」みたいなのを盛り込んだ。&lt;/p&gt;
+&lt;p&gt;・・・&lt;/p&gt;
+&lt;p&gt;曲ごとの振り返りはこんな感じでしょう。ちなみに、G-funkについてはOldschoolなものよりかは「&lt;a href=&quot;https://www.youtube.com/watch?v=ZvMDSLebv8w&quot;&gt;Yellow Claw - Love &amp;#x26; War (feat. Yade Lauren) [Yellow Claw G-Funk Remix]&lt;/a&gt;」のような現代的サウンドでリバイブさせた方が好きだし、専ら自分が-funkを語るときはこっちのことを指している。「&lt;a href=&quot;https://www.youtube.com/watch?v=mbJTIUl27xs&quot;&gt;MC TYSON-LOCAL STAR “2” feat. DJ B=BALL&lt;/a&gt;」とかDJ PMX辺りのいわゆるウェッサイの音楽性に惹かれてる傾向があるのかもしれない。&lt;/p&gt;
+&lt;p&gt;ここまでぱっと1時間くらいで書き上げてきた。久しぶりにこうした形でのアウトプットは楽しかったのでまた近いうちにいろいろ綴っていこうかな。&lt;/p&gt;
+&lt;p&gt;過去の作品を振り返って形に残しておくことで将来の自分が読み返したときに「こんな思いもあったな」なんて思い出してもらえるとこうして日記に残しておく価値があるのかもしれない。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[木更津駅経由で東京駅...遠回りして見た港と都会]]></title><description><![CDATA[朝の7時前、アラームが鳴る前に目が覚めた。 歯を磨いてボケーっとしながらYouTube見たりNetflix見たりして、…]]></description><link>https://diary.superconsole.work/201025/</link><guid isPermaLink="false">https://diary.superconsole.work/201025/</guid><pubDate>Sun, 25 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;朝の7時前、アラームが鳴る前に目が覚めた。&lt;/p&gt;
 &lt;p&gt;歯を磨いてボケーっとしながらYouTube見たりNetflix見たりして、9時過ぎくらいに電車旅をしようと家を出た。&lt;/p&gt;
 &lt;p&gt;最初は池袋とか渋谷に行きたかったが休日だし人が多そうなので目的地を南房総へチェンジ。&lt;/p&gt;
 &lt;p&gt;千葉駅まで総武線快速で行く。内房線に乗り換えて木更津まで。GoogleMapで見たら東京湾に近かったので木更津駅で降りた。&lt;/p&gt;
@@ -1215,7 +1300,12 @@ there is a good day in my life like this…owari.&lt;/p&gt;</content:encoded></i
 &lt;p&gt;なので、今月は「何かを創る」。&lt;/p&gt;
 &lt;p&gt;この姿勢を持ちながら日記を書いていこうかと思います。  &lt;/p&gt;
 &lt;p&gt;今はAWSをはじめる準備(Vプリカの購入とか云々)を進めていて、サーバレスなサービスを開発したいと考えていたり、音楽活動としても何かEP制作?公募に参加?したりして実績を創ろうかと考えている最中です(なんなら全部やるか！！)。 &lt;/p&gt;
-&lt;p&gt;あとこの日記をGit submoduleを活用して&lt;a href=&quot;https://superconsole.work/&quot;&gt;公式サイト&lt;/a&gt;に取り込んだり学生LTに登壇する予定だったり、これからもいろいろと頑張っていくので頑張ります！！！。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Google Search Consoleを使ってみる]]></title><description><![CDATA[🎃だね…。いつも通りの日々だけど…。   source   ポートフォリオサイトを制作してGitHub Pagesにプッシュしてドメインもそれらしいのを購入してネームサーバに登録して…etc…]]></description><link>https://diary.superconsole.work/181031/</link><guid isPermaLink="false">https://diary.superconsole.work/181031/</guid><pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;🎃だね…。いつも通りの日々だけど…。  &lt;/p&gt;
+&lt;p&gt;あとこの日記をGit submoduleを活用して&lt;a href=&quot;https://superconsole.work/&quot;&gt;公式サイト&lt;/a&gt;に取り込んだり学生LTに登壇する予定だったり、これからもいろいろと頑張っていくので頑張ります！！！。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[10月を終えて]]></title><description><![CDATA[きっかけから先へ進めたのかは正直わからない…。   でもきっかけを延長して先に進もうとする姿勢は取っていたので少なからず見返りは目に見えない形で受けられたのだろうと信じている。   さて、1…]]></description><link>https://diary.superconsole.work/181031_2/</link><guid isPermaLink="false">https://diary.superconsole.work/181031_2/</guid><pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;きっかけから先へ進めたのかは正直わからない…。  &lt;/p&gt;
+&lt;p&gt;でもきっかけを延長して先に進もうとする姿勢は取っていたので少なからず見返りは目に見えない形で受けられたのだろうと信じている。  &lt;/p&gt;
+&lt;p&gt;さて、11月の目標は「何かを創る」。&lt;/p&gt;
+&lt;p&gt;ここまで日記にしてきて、そろそろ就職活動に向けて何か創っていこうかなと思う。 &lt;/p&gt;
+&lt;p&gt;Webサービス, アプリケーション, 個人EP(フリーで出すか…), Massiveのサンプルパックを作る?…etc。  &lt;/p&gt;
+&lt;p&gt;なんでもいいから形にしたい欲が高まってきたので、11月から一皮脱ぎますか~。頑張る。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Google Search Consoleを使ってみる]]></title><description><![CDATA[🎃だね…。いつも通りの日々だけど…。   source   ポートフォリオサイトを制作してGitHub Pagesにプッシュしてドメインもそれらしいのを購入してネームサーバに登録して…etc…]]></description><link>https://diary.superconsole.work/181031/</link><guid isPermaLink="false">https://diary.superconsole.work/181031/</guid><pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;🎃だね…。いつも通りの日々だけど…。  &lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://wacul-ai.com/blog/seo/internal-seo/google-crawler-request/&quot;&gt;source&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;ポートフォリオサイトを制作してGitHub Pagesにプッシュしてドメインもそれらしいのを購入してネームサーバに登録して…etc、サイト運用が本格的になってきたこの頃。&lt;/p&gt;
 &lt;p&gt;何か足りない気がするんだよなぁと勘ぐっていたら思い出した。&lt;/p&gt;
@@ -1223,12 +1313,7 @@ there is a good day in my life like this…owari.&lt;/p&gt;</content:encoded></i
 &lt;p&gt;サイトを色んな人に見てもらうための工夫を何もしていなかった…。&lt;/p&gt;
 &lt;p&gt;ということでまずスタートラインに立つために、Google Search Console経由でクローラに探索申請をしてみる。&lt;/p&gt;
 &lt;p&gt;今からサイトマップを制作して、それをアップロードする予定。&lt;/p&gt;
-&lt;p&gt;自分のサイトの構造における癖が強くてジェネレータとかじゃ作れないっぽいので頑張ります…。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[10月を終えて]]></title><description><![CDATA[きっかけから先へ進めたのかは正直わからない…。   でもきっかけを延長して先に進もうとする姿勢は取っていたので少なからず見返りは目に見えない形で受けられたのだろうと信じている。   さて、1…]]></description><link>https://diary.superconsole.work/181031_2/</link><guid isPermaLink="false">https://diary.superconsole.work/181031_2/</guid><pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;きっかけから先へ進めたのかは正直わからない…。  &lt;/p&gt;
-&lt;p&gt;でもきっかけを延長して先に進もうとする姿勢は取っていたので少なからず見返りは目に見えない形で受けられたのだろうと信じている。  &lt;/p&gt;
-&lt;p&gt;さて、11月の目標は「何かを創る」。&lt;/p&gt;
-&lt;p&gt;ここまで日記にしてきて、そろそろ就職活動に向けて何か創っていこうかなと思う。 &lt;/p&gt;
-&lt;p&gt;Webサービス, アプリケーション, 個人EP(フリーで出すか…), Massiveのサンプルパックを作る?…etc。  &lt;/p&gt;
-&lt;p&gt;なんでもいいから形にしたい欲が高まってきたので、11月から一皮脱ぎますか~。頑張る。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[倦怠感...]]></title><description><![CDATA[最近倦怠感がすごくて日中の活動量が減っている気がするので活気づけるためまずどのくらい疲れているかをself doctor.netで診断しました。結果は 慢性的な疲労(7…]]></description><link>https://diary.superconsole.work/181030/</link><guid isPermaLink="false">https://diary.superconsole.work/181030/</guid><pubDate>Tue, 30 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;最近倦怠感がすごくて日中の活動量が減っている気がするので活気づけるためまずどのくらい疲れているかを&lt;a href=&quot;https://www.selfdoctor.net/&quot;&gt;self doctor.net&lt;/a&gt;で診断しました。結果は &lt;strong&gt;慢性的な疲労(75%)&lt;/strong&gt; とのこと…。&lt;br&gt;
+&lt;p&gt;自分のサイトの構造における癖が強くてジェネレータとかじゃ作れないっぽいので頑張ります…。おわり。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[倦怠感...]]></title><description><![CDATA[最近倦怠感がすごくて日中の活動量が減っている気がするので活気づけるためまずどのくらい疲れているかをself doctor.netで診断しました。結果は 慢性的な疲労(7…]]></description><link>https://diary.superconsole.work/181030/</link><guid isPermaLink="false">https://diary.superconsole.work/181030/</guid><pubDate>Tue, 30 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;最近倦怠感がすごくて日中の活動量が減っている気がするので活気づけるためまずどのくらい疲れているかを&lt;a href=&quot;https://www.selfdoctor.net/&quot;&gt;self doctor.net&lt;/a&gt;で診断しました。結果は &lt;strong&gt;慢性的な疲労(75%)&lt;/strong&gt; とのこと…。&lt;br&gt;
 大学一年の時に比べて家で作業することが多くなり、運動は元からしていないので体力とかはいつも通り皆無なのですが、疲れが抜けない感じがいつにもましている感じです。活力が無くなった…。&lt;br&gt;
 そこで次に記事をいくつかピックアップして活力をあげる懸け橋にしようと思いました。&lt;br&gt;
 自己満です。整理しましょう…。  &lt;/p&gt;
