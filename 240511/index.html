@@ -1,0 +1,318 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><style id="typography.js">html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block}audio:not([controls]){display:none;height:0}progress{vertical-align:baseline}[hidden],template{display:none}a{background-color:transparent;-webkit-text-decoration-skip:objects}a:active,a:hover{outline-width:0}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit;font-weight:bolder}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}svg:not(:root){overflow:hidden}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}button,input,optgroup,select,textarea{font:inherit;margin:0}optgroup{font-weight:700}button,input{overflow:visible}button,select{text-transform:none}[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-input-placeholder{color:inherit;opacity:.54}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}html{font:100%/1.75 'Merriweather','Georgia',serif;box-sizing:border-box;overflow-y:scroll;}*{box-sizing:inherit;}*:before{box-sizing:inherit;}*:after{box-sizing:inherit;}body{color:hsla(0,0%,0%,0.9);font-family:'Merriweather','Georgia',serif;font-weight:400;word-wrap:break-word;font-kerning:normal;-moz-font-feature-settings:"kern", "liga", "clig", "calt";-ms-font-feature-settings:"kern", "liga", "clig", "calt";-webkit-font-feature-settings:"kern", "liga", "clig", "calt";font-feature-settings:"kern", "liga", "clig", "calt";}img{max-width:100%;margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}h1{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:Montserrat,sans-serif;font-weight:900;text-rendering:optimizeLegibility;font-size:2.5rem;line-height:1.1;}h2{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:1.73286rem;line-height:1.1;}h3{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:1.4427rem;line-height:1.1;}h4{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:1rem;line-height:1.1;letter-spacing:0.140625em;text-transform:uppercase;}h5{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:0.83255rem;line-height:1.1;}h6{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;color:inherit;font-family:'Merriweather','Georgia',serif;font-weight:900;text-rendering:optimizeLegibility;font-size:0.75966rem;line-height:1.1;font-style:italic;}hgroup{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}ul{margin-left:1.75rem;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;list-style-position:outside;list-style-image:none;list-style:disc;}ol{margin-left:1.75rem;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;list-style-position:outside;list-style-image:none;}dl{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}dd{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}p{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}figure{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}pre{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;font-size:0.85rem;line-height:1.75rem;}table{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;font-size:1rem;line-height:1.75rem;border-collapse:collapse;width:100%;}fieldset{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}blockquote{margin-left:-1.75rem;margin-right:1.75rem;margin-top:0;padding-bottom:0;padding-left:1.42188rem;padding-right:0;padding-top:0;margin-bottom:1.75rem;font-size:1.20112rem;line-height:1.75rem;color:hsla(0,0%,0%,0.59);font-style:italic;border-left:0.32813rem solid hsla(0,0%,0%,0.9);}form{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}noscript{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}iframe{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}hr{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:calc(1.75rem - 1px);background:hsla(0,0%,0%,0.2);border:none;height:1px;}address{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.75rem;}b{font-weight:700;}strong{font-weight:700;}dt{font-weight:700;}th{font-weight:700;}li{margin-bottom:calc(1.75rem / 2);}ol li{padding-left:0;}ul li{padding-left:0;}li > ol{margin-left:1.75rem;margin-bottom:calc(1.75rem / 2);margin-top:calc(1.75rem / 2);}li > ul{margin-left:1.75rem;margin-bottom:calc(1.75rem / 2);margin-top:calc(1.75rem / 2);}blockquote *:last-child{margin-bottom:0;}li *:last-child{margin-bottom:0;}p *:last-child{margin-bottom:0;}li > p{margin-bottom:calc(1.75rem / 2);}code{font-size:0.85rem;line-height:1.75rem;}kbd{font-size:0.85rem;line-height:1.75rem;}samp{font-size:0.85rem;line-height:1.75rem;}abbr{border-bottom:1px dotted hsla(0,0%,0%,0.5);cursor:help;}acronym{border-bottom:1px dotted hsla(0,0%,0%,0.5);cursor:help;}abbr[title]{border-bottom:1px dotted hsla(0,0%,0%,0.5);cursor:help;text-decoration:none;}thead{text-align:left;}td,th{text-align:left;border-bottom:1px solid hsla(0,0%,0%,0.12);font-feature-settings:"tnum";-moz-font-feature-settings:"tnum";-ms-font-feature-settings:"tnum";-webkit-font-feature-settings:"tnum";padding-left:1.16667rem;padding-right:1.16667rem;padding-top:0.875rem;padding-bottom:calc(0.875rem - 1px);}th:first-child,td:first-child{padding-left:0;}th:last-child,td:last-child{padding-right:0;}blockquote > :last-child{margin-bottom:0;}blockquote cite{font-size:1rem;line-height:1.75rem;color:hsla(0,0%,0%,0.9);font-weight:400;}blockquote cite:before{content:"— ";}ul,ol{margin-left:0;}@media only screen and (max-width:480px){ul,ol{margin-left:1.75rem;}blockquote{margin-left:-1.3125rem;margin-right:0;padding-left:0.98438rem;}}h1,h2,h3,h4,h5,h6{margin-top:3.5rem;}a{box-shadow:0 1px 0 0 currentColor;color:#007acc;text-decoration:none;}a:hover,a:active{box-shadow:none;}mark,ins{background:#007acc;color:white;padding:0.10938rem 0.21875rem;text-decoration:none;}a.gatsby-resp-image-link{box-shadow:none;}</style><style data-href="/styles.21f46e61a8a778a101fe.css" id="gatsby-global-css">@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);@import url(https://fonts.googleapis.com/css?family=Sawarabi+Mincho);@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:100;src:local("Montserrat Thin "),local("Montserrat-Thin"),url(/static/montserrat-latin-100-191cc9f50f3b76b9617cb383f19acb7d.woff2) format("woff2"),url(/static/montserrat-latin-100-370318464551d5f25b0f0a78f374faac.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:100;src:local("Montserrat Thin italic"),local("Montserrat-Thinitalic"),url(/static/montserrat-latin-100italic-bdeaeb79db315697bd173a55b097dc18.woff2) format("woff2"),url(/static/montserrat-latin-100italic-ecf7d49386e8f265878e735db34a7c4b.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:200;src:local("Montserrat Extra Light "),local("Montserrat-Extra Light"),url(/static/montserrat-latin-200-85d5ef9db7f2dc6979172a4a3b2c57cb.woff2) format("woff2"),url(/static/montserrat-latin-200-1fc98e126a3d152549240e6244d7e669.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:200;src:local("Montserrat Extra Light italic"),local("Montserrat-Extra Lightitalic"),url(/static/montserrat-latin-200italic-49095760a498d024fe1a85a078850df9.woff2) format("woff2"),url(/static/montserrat-latin-200italic-fe46cf8b9462c820457d3bf537e4057f.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:300;src:local("Montserrat Light "),local("Montserrat-Light"),url(/static/montserrat-latin-300-7c3daf12b706645b5d3710f863a4da04.woff2) format("woff2"),url(/static/montserrat-latin-300-8dc95fab9cf98d02ca8d76e97d3dff60.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:300;src:local("Montserrat Light italic"),local("Montserrat-Lightitalic"),url(/static/montserrat-latin-300italic-f20b178ca2024a5eac8e42e6649db86c.woff2) format("woff2"),url(/static/montserrat-latin-300italic-3fe16939288856e8e828fa2661bf2354.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:400;src:local("Montserrat Regular "),local("Montserrat-Regular"),url(/static/montserrat-latin-400-bc3aa95dca08f5fee5291e34959c27bc.woff2) format("woff2"),url(/static/montserrat-latin-400-8102c4838f9e3d08dad644290a9cb701.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:400;src:local("Montserrat Regular italic"),local("Montserrat-Regularitalic"),url(/static/montserrat-latin-400italic-5cad650422a7184467af5a4d17b264c4.woff2) format("woff2"),url(/static/montserrat-latin-400italic-d191f22af3bb50902b99ac577f81a322.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:500;src:local("Montserrat Medium "),local("Montserrat-Medium"),url(/static/montserrat-latin-500-92d16e458625f4d2c8940f6bdca0ff09.woff2) format("woff2"),url(/static/montserrat-latin-500-8b763220218ffc11c57c84ddb80e7b26.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:500;src:local("Montserrat Medium italic"),local("Montserrat-Mediumitalic"),url(/static/montserrat-latin-500italic-47bfcca6b69d6a9acca7a8bff17193e2.woff2) format("woff2"),url(/static/montserrat-latin-500italic-72c01f753c3940c0b9cb6bf2389caddf.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:600;src:local("Montserrat SemiBold "),local("Montserrat-SemiBold"),url(/static/montserrat-latin-600-6fb1b5623e528e27c18658fecf5ee0ee.woff2) format("woff2"),url(/static/montserrat-latin-600-7c839d15a6f54e7025ba8c0c4b333e8f.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:600;src:local("Montserrat SemiBold italic"),local("Montserrat-SemiBolditalic"),url(/static/montserrat-latin-600italic-60789af1c9338ed1a9546722ec54b4f7.woff2) format("woff2"),url(/static/montserrat-latin-600italic-f3d4de8d0afb19e777c79032ce828e3d.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:700;src:local("Montserrat Bold "),local("Montserrat-Bold"),url(/static/montserrat-latin-700-39d93cf678c740f9f6b2b1cfde34bee3.woff2) format("woff2"),url(/static/montserrat-latin-700-80f10bd382f0df1cd650fec59f3c9394.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:700;src:local("Montserrat Bold italic"),local("Montserrat-Bolditalic"),url(/static/montserrat-latin-700italic-ba136d97b14e82284dd595e257f11c47.woff2) format("woff2"),url(/static/montserrat-latin-700italic-8c98142b425630821139c24bd1698700.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:800;src:local("Montserrat ExtraBold "),local("Montserrat-ExtraBold"),url(/static/montserrat-latin-800-b7018be9ed6cd94da8b6675b3a468c3b.woff2) format("woff2"),url(/static/montserrat-latin-800-9a9befcf50d64f9d2d19d8b1d1984add.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:800;src:local("Montserrat ExtraBold italic"),local("Montserrat-ExtraBolditalic"),url(/static/montserrat-latin-800italic-540ffdd223d1a9ad3d4e678e1a23372e.woff2) format("woff2"),url(/static/montserrat-latin-800italic-897086f99f4e1f45e6b1e9368527d0bc.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:900;src:local("Montserrat Black "),local("Montserrat-Black"),url(/static/montserrat-latin-900-58cd789700850375b834e8b6776002eb.woff2) format("woff2"),url(/static/montserrat-latin-900-26d42c9428780e545a540bbb50c84bce.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:900;src:local("Montserrat Black italic"),local("Montserrat-Blackitalic"),url(/static/montserrat-latin-900italic-451157bc8861fe54f523b3669a3def71.woff2) format("woff2"),url(/static/montserrat-latin-900italic-a8ec4957e1c24f5793305763ad9845b3.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:300;src:local("Merriweather Light "),local("Merriweather-Light"),url(/static/merriweather-latin-300-b1158cfcd4aacb9d8fb61625e37af46a.woff2) format("woff2"),url(/static/merriweather-latin-300-cc7de05e166e90320d7d896e0f72a19d.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:300;src:local("Merriweather Light italic"),local("Merriweather-Lightitalic"),url(/static/merriweather-latin-300italic-8fe52a48089d6ebe46db0b8e7cc66263.woff2) format("woff2"),url(/static/merriweather-latin-300italic-e1331f5397c2a673f9d3765138debdb5.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:400;src:local("Merriweather Regular "),local("Merriweather-Regular"),url(/static/merriweather-latin-400-8276fdb72ae8f4714d4e6eba704cc39f.woff2) format("woff2"),url(/static/merriweather-latin-400-69f09800f4f6479d06e44eba837df872.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:400;src:local("Merriweather Regular italic"),local("Merriweather-Regularitalic"),url(/static/merriweather-latin-400italic-3a9be9ea9f7aa4af6de7307df21d9fc0.woff2) format("woff2"),url(/static/merriweather-latin-400italic-d76079ed7541a433a54f79316de086e9.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:700;src:local("Merriweather Bold "),local("Merriweather-Bold"),url(/static/merriweather-latin-700-fa534be7ffa380e39a7f6e03bf9a5e03.woff2) format("woff2"),url(/static/merriweather-latin-700-ba56ea84b8084b7ff9677f50d3cd81bd.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:700;src:local("Merriweather Bold italic"),local("Merriweather-Bolditalic"),url(/static/merriweather-latin-700italic-1ef5edaaa20ae53ea50399884c5e48c6.woff2) format("woff2"),url(/static/merriweather-latin-700italic-534bc9e7ce93c73d73426e46acd78092.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:900;src:local("Merriweather Black "),local("Merriweather-Black"),url(/static/merriweather-latin-900-7528fb70e8a4a82c7305e72ff43ac25f.woff2) format("woff2"),url(/static/merriweather-latin-900-3799b6e2f5ed3fcccf9d7a708d7419fa.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:900;src:local("Merriweather Black italic"),local("Merriweather-Blackitalic"),url(/static/merriweather-latin-900italic-e1b4d2aaa78e12ad84aaf8a56321e4c2.woff2) format("woff2"),url(/static/merriweather-latin-900italic-2ae22f731b3424e8dbb4b37f7ca6e708.woff) format("woff")}body,h1,h2,h3,h4,h5,h6{font-family:Sawarabi Mincho;background:#111;color:#ddd}section{padding-left:1em}h1{font-size:20px!important;color:#eee!important}h2,h3,h4,h5,h6{font-size:20px}p{font-size:1em}a{font-family:Sawarabi Mincho;background:#111;color:#eee}a:hover{border-bottom:1px solid #777}code,img{background:#222;padding:5px}img{max-width:960px}blockquote{padding:0 0 0 1.42188rem;margin:0 1.75rem 1.75rem -1.75rem;font-size:1.20112rem;line-height:1.75rem;color:#777;font-style:italic;border-left:.32813rem solid rgba(0,0,0,.9)}</style><meta name="generator" content="Gatsby 2.32.13"/><style>.gatsby-image-wrapper{position:relative;overflow:hidden}.gatsby-image-wrapper picture.object-fit-polyfill{position:static!important}.gatsby-image-wrapper img{bottom:0;height:100%;left:0;margin:0;max-width:none;padding:0;position:absolute;right:0;top:0;width:100%;object-fit:cover}.gatsby-image-wrapper [data-main-image]{opacity:0;transform:translateZ(0);transition:opacity .25s linear;will-change:opacity}.gatsby-image-wrapper-constrained{display:inline-block;vertical-align:top}</style><noscript><style>.gatsby-image-wrapper noscript [data-main-image]{opacity:1!important}.gatsby-image-wrapper [data-placeholder-image]{opacity:0!important}</style></noscript><script type="module">const e="undefined"!=typeof HTMLImageElement&&"loading"in HTMLImageElement.prototype;e&&document.body.addEventListener("load",(function(e){const t=e.target;if(void 0===t.dataset.mainImage)return;if(void 0===t.dataset.gatsbyImageSsr)return;let a=null,n=t;for(;null===a&&n;)void 0!==n.parentNode.dataset.gatsbyImageWrapper&&(a=n.parentNode),n=n.parentNode;const o=a.querySelector("[data-placeholder-image]"),r=new Image;r.src=t.currentSrc,r.decode().catch((()=>{})).then((()=>{t.style.opacity=1,o&&(o.style.opacity=0,o.style.transition="opacity 500ms linear")}))}),!0);</script><link rel="preconnect" href="https://www.google-analytics.com"/><link rel="dns-prefetch" href="https://www.google-analytics.com"/><link rel="alternate" type="application/rss+xml" href="/rss.xml"/><link rel="icon" href="/favicon-32x32.png?v=d49ead5a6c9bada562f78bdbaa4516bd" type="image/png"/><link rel="manifest" href="/manifest.webmanifest"/><meta name="theme-color" content="#111"/><link rel="apple-touch-icon" sizes="48x48" href="/icons/icon-48x48.png?v=d49ead5a6c9bada562f78bdbaa4516bd"/><link rel="apple-touch-icon" sizes="72x72" href="/icons/icon-72x72.png?v=d49ead5a6c9bada562f78bdbaa4516bd"/><link rel="apple-touch-icon" sizes="96x96" href="/icons/icon-96x96.png?v=d49ead5a6c9bada562f78bdbaa4516bd"/><link rel="apple-touch-icon" sizes="144x144" href="/icons/icon-144x144.png?v=d49ead5a6c9bada562f78bdbaa4516bd"/><link rel="apple-touch-icon" sizes="192x192" href="/icons/icon-192x192.png?v=d49ead5a6c9bada562f78bdbaa4516bd"/><link rel="apple-touch-icon" sizes="256x256" href="/icons/icon-256x256.png?v=d49ead5a6c9bada562f78bdbaa4516bd"/><link rel="apple-touch-icon" sizes="384x384" href="/icons/icon-384x384.png?v=d49ead5a6c9bada562f78bdbaa4516bd"/><link rel="apple-touch-icon" sizes="512x512" href="/icons/icon-512x512.png?v=d49ead5a6c9bada562f78bdbaa4516bd"/><title data-react-helmet="true">GraphicEditionを創設して1年くらい経った | SpCn-Diary</title><meta data-react-helmet="true" name="description" content="just diary."/><meta data-react-helmet="true" property="og:title" content="GraphicEditionを創設して1年くらい経った"/><meta data-react-helmet="true" property="og:description" content="just diary."/><meta data-react-helmet="true" property="og:type" content="website"/><meta data-react-helmet="true" property="og:image" content="https://diary.superconsole.work/static/9b0f171c95c269388c7dea4f36534eaf/ee604/24051101.png"/><meta data-react-helmet="true" name="twitter:card" content="summary"/><meta data-react-helmet="true" name="twitter:creator" content="SuperConsole"/><meta data-react-helmet="true" name="twitter:title" content="GraphicEditionを創設して1年くらい経った"/><meta data-react-helmet="true" name="twitter:description" content="just diary."/><link as="script" rel="preload" href="/webpack-runtime-61897b6531b89cfd356c.js"/><link as="script" rel="preload" href="/framework-01c4fffe37a2e322d916.js"/><link as="script" rel="preload" href="/app-71c46dd42deae8917b2e.js"/><link as="script" rel="preload" href="/styles-407fe62976dc5310c43e.js"/><link as="script" rel="preload" href="/d5d7a013bc6c1e2b6d7db819052c16d7efea5559-53826724e818675fb372.js"/><link as="script" rel="preload" href="/cd7d5f864fc9e15ed8adef086269b0aeff617554-bd22c84c94e0872372e1.js"/><link as="script" rel="preload" href="/component---src-templates-blog-post-js-9f9c81404cec59cfcf94.js"/><link as="fetch" rel="preload" href="/page-data\240511\page-data.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/4211413508.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data/sq/d/764694655.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/page-data\app-data.json" crossorigin="anonymous"/></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div style="margin-left:auto;margin-right:auto;max-width:52.5rem;padding:2.625rem 1.3125rem"><header><h3 style="font-family:Montserrat, sans-serif;margin-top:0"><a style="box-shadow:none;text-decoration:none;color:inherit" href="/">SpCn-Diary</a></h3></header><main><article><header><h1 style="margin-top:1.75rem;margin-bottom:0">GraphicEditionを創設して1年くらい経った</h1><p style="font-size:0.83255rem;line-height:1.75rem;display:block;margin-bottom:1.75rem">May 11, 2024</p></header><section><p>1年近くぶりの投稿。</p>
+<p>先月、GraphicEditionを創設してから1年が経った。作品は計3作品リリースをし、いずれも多くの方に手に取っていただけている。フォロワーも2桁に突入し、レーベルとしての形が出来てきたように思う。</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/9b0f171c95c269388c7dea4f36534eaf/ecf19/24051101.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 70%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAAsSAAALEgHS3X78AAAB5klEQVQoz41RSa+aYBRFUECZcUKj4AivKiJxTjWmplqMMRrj1qULF2qjG2Pif+8RbZu2L+k7wMc3nXvPPZeIRqPlcrnT6Xz2MZ1O2+12oVDI5XKVSiUWiyUSiU8+sNR1XdO0YrFomqYsy0Qqler3+8Ph8IuP5XI5Go0ajUatVkNQzYeqqo7jgJ/NZpPJZD6fx5EsKwRmi8ViPB5/9fHN87rdLpIgNgjQUiqVbNseDAaWZYEMIdAFsiRJhK4b8/n8GbXZbE4mE6iAlmcJq9UK42azwR0QMplMPB4v+HiQkcfzPNSWTqcNw5jNZrvd7na7rdfrw+FwuVxOp9N3H8iPBLgGLSCLokjUHafX61WrVdd16/V6q9Xabrfn8xkSQLjf7/v9/ng8Xq9XcJADBsOFlKbRNE0A8A2SUDyq4nme+AeBQIAkKUmSGZZNJJLIr6jq6wAjy7KKojyDBXz8RQZwJxgMsj4oinrcwRoFwLCabTdcF514l/+uHIIkSTQdZpiWVTZNNRolPoYXWRBEQRQ5XuA4Dg1AJ9EPQRA+QKYoUTNU403W3yRZwcPzIAqRSOSX/p/4o5xXZhhAh0IMTTMMiy9E0ywbDodB5/DjOB4vuop9xrfqNxmGIQ/2MUHPHoFo+r9uPck/AG5ZVbQng+nyAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="01"
+        title="01"
+        src="/static/9b0f171c95c269388c7dea4f36534eaf/6af66/24051101.png"
+        srcset="/static/9b0f171c95c269388c7dea4f36534eaf/69538/24051101.png 160w,
+/static/9b0f171c95c269388c7dea4f36534eaf/72799/24051101.png 320w,
+/static/9b0f171c95c269388c7dea4f36534eaf/6af66/24051101.png 640w,
+/static/9b0f171c95c269388c7dea4f36534eaf/ecf19/24051101.png 948w"
+        sizes="(max-width: 640px) 100vw, 640px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>前回の日記で1作目「abnormality&#x26;ravages」について制作の背景をまとめたが、2作目「grotesque is still talking.」と3作目「heavy rain alert.」については執筆がおざなりになっていたので、まとめておこうと思う。長文になるぞー</p>
+<p>・・・</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/2aa10efcccf7a7f49c4d622fa4d6dfa0/c8e86/24051101a.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 26.875%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAIAAADKYVtkAAAACXBIWXMAAAsSAAALEgHS3X78AAAAhElEQVQY02NgoArg4+Pj4uJiZGRkZmZmYmICMoCCLCwsbGxsQBGc2oDqBAUFLSwsLC0tFZWUtLRBQIiXFygF1CkuLi4tLc3Hy8fBwQE0HUKiGGdjY6OsoqKnr6cuL68mK6utpCwqKgKR4ubhFhUVFRYRBjpNQEAASAJtAroI3X6IU4kHAOUYCWcboxTGAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="01a"
+        title="01a"
+        src="/static/2aa10efcccf7a7f49c4d622fa4d6dfa0/6af66/24051101a.png"
+        srcset="/static/2aa10efcccf7a7f49c4d622fa4d6dfa0/69538/24051101a.png 160w,
+/static/2aa10efcccf7a7f49c4d622fa4d6dfa0/72799/24051101a.png 320w,
+/static/2aa10efcccf7a7f49c4d622fa4d6dfa0/6af66/24051101a.png 640w,
+/static/2aa10efcccf7a7f49c4d622fa4d6dfa0/c8e86/24051101a.png 758w"
+        sizes="(max-width: 640px) 100vw, 640px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>2作目「grotesque is still talking.」は、タイトル通り攻撃性や過激な表現を目指して製作を開始した。808による音楽表現において、TrapやDrillといった音で怪我人を出すような暴力的な形をとってみるのは避けては通れないだろうと感じた次第だ。これは1作目の「abnormality&#x26;ravages」でも似たような方向はやっていたが、2作目のアルバムを考案する段階でDark TrapやUK Drillなどより暴力的な音楽にハマっていたというのもあると思う。車を運転する時のセンスで例えてみるなら、140km/hで走ってても物足りなくて200km/h出してみようかなとアクセルをさらに踏み込むようなものだろうか(というよりは、今まで全力で踏み込んでいたけど車のリミッターが外れて、さらに踏み込めるらしいからやってみるかという好奇心の現れに近い気もしているが)。</p>
+<p>実は最初の制作に取り掛かった時期は、5月病なのか人間関係の縺れなのか、気が滅入っていた時にふと目が覚めたら着々と作品が形になり始めたというのがあり、アルバムのコンセプトや方向性は一気に舵を切って進んでいたという感じになる。気疲れしたときに精神的に社会的影響を及ぼすような事態に発展するのではなく、曲が完成したり急に進捗が出るというのは才能なのか…？であれば本当に恵まれてるというべきなのか謎だが非常にありがたいばかりだ。</p>
+<p>まず始めに完成したのが6曲目の「それでも音楽は止まない」だ。ピアノの短調由来の悲しさの上で、切に歌う裏命という現代の大衆的音楽センスとは逆をいくようなテイストになっているが、この曲調は当時聞いていた「<a href="https://www.youtube.com/watch?v=MBCuzKwqck4">Azide x J Swey feat. M.I.M.E - Xelf Habits(2017)</a>」の影響を直に受けたんだろうなと振り返ってみれば、そのように思う。当時のことを思い出そうとプロジェクトファイルを漁っていたら没になったバージョンのものも制作開始の1-2週間前に残っていた。没版のほうも、似たようにダークなピアノに太い808が貫いていくようなそんな感じだった。あとこの手の曲だと、「<a href="https://www.youtube.com/watch?v=5lLJfymcLBo">shima / TryTry - VY1(2019)</a>」も非常によく聞いていた。ボカロTrapに相当ハマってた時期とも被るのか。映画のバッドエンドを観た後の胸が痛くなるそんな感覚を曲で表現しようとしてたのかな。我ながらこんな歌詞書いてたことに心配になってきている。(あと、ちょいちょい曲中に潜んでいる声ネタは、当時もまだ影響受け続けてたSkrillexサウンドが混ざってるなぁと…。)</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/f18a1ce473c6297315d79b9bd45ae61a/7a1fb/24051102.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 48.75000000000001%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAAAsSAAALEgHS3X78AAABzUlEQVQoz2NgZmZmZWZhZ2NjY2ZmYgABJiYmII+FhQUoxQIGrKysLDDAjAQYgDoVGbl1GVjd+GXDNC39LB30dHTExcRERESAWhkZGRlQAYpmZkYmc3bx9uisCrewLH3HNBc/RwMzRwcnHW0doFJjY2MnJ6eQkBALCwtnZ2dzc3OgcUiaGRh8tE2TM1KSIqKiOJRdmCUSfUPsnF1cXNyBrtXQ0ACybGxsrK2tPT09zcxMgSbCHc/AycoeamcX52pqoaMeLqzlySAU4+yto6ejoqQM9LKoiCg/Pz8nBwcnEHJwcHFxCQsLCwoIMjMxgTQLCQhW5RcaGWgHOzl7MgslqlssmjjL3tFZQ1MXKM3FxcnGzsbNxcXHx8cGBshhxiAqKrp69Vp7e9uNm3dNz6o9sGb79XvPzC3tLcysgXbJyMgA/aylpQVUyg4GnJwgJ0A18/Ly7dq1f/2ypRe27Dt25NS+fUevXb23YtXGWZNnAb2XmZl57eq1CRMmCAoKCgkJAUlxcXFhIWEWcNwxcHFxL16yfOXipct6phZk50RFRS1ZtPLkqQtLlq4GSgPjHGgbE9iHTGDACAaw0GZmBsYlI1gVA2qsQjQAGcjRgwwAKIxepAlStDEAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="02"
+        title="02"
+        src="/static/f18a1ce473c6297315d79b9bd45ae61a/6af66/24051102.png"
+        srcset="/static/f18a1ce473c6297315d79b9bd45ae61a/69538/24051102.png 160w,
+/static/f18a1ce473c6297315d79b9bd45ae61a/72799/24051102.png 320w,
+/static/f18a1ce473c6297315d79b9bd45ae61a/6af66/24051102.png 640w,
+/static/f18a1ce473c6297315d79b9bd45ae61a/d9199/24051102.png 960w,
+/static/f18a1ce473c6297315d79b9bd45ae61a/7a1fb/24051102.png 1030w"
+        sizes="(max-width: 640px) 100vw, 640px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>2番目と3番目に完成したのは、それぞれ5曲目の「Still talking」と3曲目の「くだらない」だ。ここはアルバムのタイトルに名前負けしないような個性的なトラックになったと思う。如何せんこの系統の曲を作るときは舐達磨をはじめとしたアーティストのトラックを手掛けるGREEN ASSASSIN DOLLARや7SEEDSらへんのヴァイブスに大きく影響を受けるが、とにかくSplice等のサービスからインスピレーションを受けるために音源を漁って、感性に刺さる音に出会った時に創造性に乗せて書き上げることが多いので、今まで積み重なってきた音楽に対するセンスやスキルが無意識化で結合していって気づいたら形になってる、そんな感じが多い。ちょうど「Still talking」については友達と作業通話している時に歌詞書いたり裏命の歌を打ち込んだりしてたので、ファミレスで話してるっぽい内容になってたりしてる。「くだらない」の歌詞は本当に何も考えずに打ったのかな…どういった背景で降りてきたのか覚えてない…。</p>
+<p>4曲目の「8」が完成したのは先に制作していた曲たちが5月中旬から下旬だったのに対して、少し7月ごろと時間が空いていた。これは6月が仕事で忙しくて創作活動は小休憩としていたのと、リリースする10月末にあたってもうアルバムの半数が完成しているという状況下でまぁまぁサボっても許されるのではという甘えから離れていたのもある。7月に完成へと至る中で、歌詞がなかなか思い浮かばずに悩んでいたが、この辺で埼玉の狭山市に日帰りで旅に出たのを気に一気に歌詞を書き上げることができた。これは狭山市のスタバに行った時の写真。ここでコーヒー入れた後に近くの入間川沿いを散歩しながら一気に歌詞をメモした。</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/4e0f004d463d23bf8a61f1b1b76929ce/d5bfb/24051103.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 44.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAACMElEQVQozwElAtr9AH648Hq17ni073Wy7nm39n2+/3m8/3W2+nKy9HCu72+r7W6q7G6q7G2p62yn6mum6mul6Wyl6Gqj6Gmh5gCJvOyFu+2Cuu6Jw/pzptZMZ35hfpd1ocl+tOaFv/eGwvuBwf98vPp5t/V2s/B0se52sO11rux0rOtxqukAjbngjbTYjbfcXX6aHCAjSUk+R0g9EQwGKS0vO0ZMVGJta4mkfabMiLjmjcP2jsb8icP6hr71gLbrfbPpAHR/h11maU5ZWx8iHSspIDM1NCAlJwoNDzY2NCQhHBMUEhMTEhkaGCYrLj5JUlNkc2mHpHSdxoCy5H6x5ABaXEpAQS9DRDgwNCs4PTYbHRsdIR4tMS9YUUVgVkhGRD5VT0VEQj0oKCQkIhw3Lyg5MyuVnJu/1+awzeIAZm5HWGFGWV5EOjs2Ly8yFRMWFRYVHyQlJicmIB0cISEhLCklNzUxODMrWFBHfnForo9mxKqB1Mir4+HKAMO6lZ6cdo6VWHyFSoOEWoN/W3J2VGhqTGBiSElLNE5OPj4/MjU2LSUmIVVOSHhpZK2HW6x/SYp6ZX2DgwCtn4zFtJrKvJqyrn6NlluIkFGFklCLk06SnFaYn1iepF6boVuWm1iJkFCBiU6FiVWDglKTjFl+f1Zrb08AWFBNZFtUgXRjq5mBu6qOtaaIn5p0eoJNdYNDg4lNfohSg45GhZJIjZVLhI5CgIs9d4U5bX42bH02a3s1MCT5sr2CScAAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="03"
+        title="03"
+        src="/static/4e0f004d463d23bf8a61f1b1b76929ce/6af66/24051103.png"
+        srcset="/static/4e0f004d463d23bf8a61f1b1b76929ce/69538/24051103.png 160w,
+/static/4e0f004d463d23bf8a61f1b1b76929ce/72799/24051103.png 320w,
+/static/4e0f004d463d23bf8a61f1b1b76929ce/6af66/24051103.png 640w,
+/static/4e0f004d463d23bf8a61f1b1b76929ce/d9199/24051103.png 960w,
+/static/4e0f004d463d23bf8a61f1b1b76929ce/d5bfb/24051103.png 1072w"
+        sizes="(max-width: 640px) 100vw, 640px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>「Goodbye」と「Grotesque」はそれぞれ、1作目のアルバム内の「Elite」と「そして音楽は愛となり」の続編的な感じになったように思う。歌詞は一切相関が無いけど、トラックの作り方や音の配置については意識したところが多々ある。「Goodbye」に関しては寺田創一ヴァイブスと808の融合的サウンドとしてなかなかに良い答えにもなってるのかなと思う。自身の曲に合わられるダークさの原点はBig Seanの古典的Trapであったり、寺田創一のゲームBGMであったり、原点とはいえどそこにも様々なルーツと潜在意識化に眠る記憶の複合的作用があるように感じている。「Grotesque」に関してはめちゃくちゃ曲のミックスが上手くなったなとつくづく感じるばかりで、G-funkのHip-Hopのなかでも昔からモダン的立ち位置にあるテイストに今の自分のスキルが追い付いて成熟した完成形になった気でいる。</p>
+<p>2023年秋M3においても、2作目のリリースからありがたいことにファンであったり自分の音楽を好きと言ってくれる方や、試聴から一目惚れで買ってくれる人も現れるなどGraphicEditionから発信する音楽に共感してくれて、そこから有意義なコミュニケーションやそこからまた創作へと繋がるモチベーションになってくるようになっていったように感じる。</p>
+<p>・・・</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/1e218ee058cb09a38da7f32040e8dd88/f941f/24051104.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 30%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAIAAABM9SnKAAAACXBIWXMAAAsSAAALEgHS3X78AAAAl0lEQVQY042Q3QrDIAyF/YvRQQV/6GhvdCns0jfw/V9roRcdHRvdRy7knHiiEeIKufPTVkp57wFAay3+4JTlnCul1Fp7784hgEG0LHIoJ6aUYorW2u/32ZimiegxxmiNWts2erZKiMhuCIGI1nXNOfOMGON8n7n/ncQSdyzLgtZryXWTEo4hakfv8MEYc3o5S5+LkdeffwGvaAitX4GIrAAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="04"
+        title="04"
+        src="/static/1e218ee058cb09a38da7f32040e8dd88/6af66/24051104.png"
+        srcset="/static/1e218ee058cb09a38da7f32040e8dd88/69538/24051104.png 160w,
+/static/1e218ee058cb09a38da7f32040e8dd88/72799/24051104.png 320w,
+/static/1e218ee058cb09a38da7f32040e8dd88/6af66/24051104.png 640w,
+/static/1e218ee058cb09a38da7f32040e8dd88/f941f/24051104.png 736w"
+        sizes="(max-width: 640px) 100vw, 640px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>さて、2024年春M3にリリースした「heavy rain alert」はGraphicEditionの手掛ける裏命x808のコンセプトアルバムの3作目でかつGraphicEditionの活動1周年記念たる記憶的な新作のリリースとなった。</p>
+<p>正直、1周年という実感は全くなく、3作目についてもその意識をして制作したわけではないが、808による音楽表現においては一つの求めていた形としてのコンセプトアルバムになったのかなと感じている。</p>
+<p>1曲目の「Tokyo,heavy rain alert,yyyymmdd2127」だが、実はこれ、2024年春M3を目前とした4月の頭に、ギリギリで完成した最後の曲だ。雰囲気としては「三浦大知 / 球体(2018)」のアルバムコンセプトを808に落とし込んだものになっている。三浦大知の音楽ってメインストリームとは思えないほど探求心溢れるサウンドになっているし、三浦大知本人が様々な音楽(ベースミュージックやHip-Hop、DeepなR&#x26;Bや一部実験的音楽も含めて)を取り入れて自身の歌唱や曲に落とし込んでいるので、以前から機会があれば三浦大知的な緊張感のある音展開をしてみたいと思っていたところだった。実際は、三浦大知を意識して作ったわけではなく、時間がギリギリ過ぎて歌詞を考えている場合じゃないし普通に歌唱曲作ってる場合じゃないというのが正直なところにはなるが。まぁ、アルバムによくありがちなイントロとかSKITという立ち位置のトラックに仕上がった。</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/470180b12e0523c67cad394210375870/6295b/24051105.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 44.375%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAAB0klEQVQozz2Qz2/SYBzGG7hwILb8ykxggTAuM3GcmSYEsvLjzpmEMOeBvwSuHPgnJshtGCiQuVKCXMgskxl1lIJOGKWOyiBFHyrzafPmbd983uf5PoTVavX5fH6/PxAIhMPhUCgUiUSwhjVhj/8vNdnt9qc7O2az+YkmkiSJYDDIsuz78/Ner/dHk6Ioa1VdLBbL5XK9XouiWDo7Yy8uEonE/rN9j8djMplsNhtWAiaNRqNer3e73dVqBUAUhLu7yWg0nIzHP29vP19fvyuVGiybTCZJitrbczt2dwFTFEXQR0e4tcowPM/DR5ZlSZoKNzfSdIpb8NlqNnEK+NXxsdvtOXh+4HQ6jUYjkhM0Tf+DP15ewhZWqqoOB4OHxWIynsgz6dPVFU6bHAcYbg47HofL5YL5JjbHcbVaDbExMAx/Kwqcf8nycCDOZtKHVospV1gttl6vt1gsJk2bwkI0jUjVahXOgOf399++fhmK4kAQ8P74PuryfKVcRi+AdTod2ibJTdUbOBqNdjqddrvd7/e3bc/nGP5h27ZaYZhsNvvm9DQej8NZg7civF5vJpNJp9O5XK5QKOTz+WKx+PZR2KdSqVgs9vrk5MXhocFgwNj/4b8y5igUTE7VcAAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="05"
+        title="05"
+        src="/static/470180b12e0523c67cad394210375870/6af66/24051105.png"
+        srcset="/static/470180b12e0523c67cad394210375870/69538/24051105.png 160w,
+/static/470180b12e0523c67cad394210375870/72799/24051105.png 320w,
+/static/470180b12e0523c67cad394210375870/6af66/24051105.png 640w,
+/static/470180b12e0523c67cad394210375870/6295b/24051105.png 919w"
+        sizes="(max-width: 640px) 100vw, 640px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>2曲目の「Serenity」については、TranceみのあるProgressiveなサウンドかつ電子的依存性のある雰囲気にしたかったため、Project-Gをはじめとしたアーティストの音構成を参考に自分ながらのトランスの解釈を含めたものに仕上げた。ちなみに、歌詞は新宿のベルギービール専門店「新宿フリゴ」でベルギービールとムール貝の白ワイン無視を貪りながら書いた。如何せん、夜の新宿は人がごった返して五月蠅いだけでなく、少し栄えたところから離れた国道沿いを歩くと静かになる二つの側面を持っているので(新宿だけでなく都会の定義に入るあらゆる街に見られるとは思うが)、“街から街”や”喧騒と静寂”というフレーズは自然と降りてきたように思う。新宿という街と、この皮肉めいた”Serenity(静けさを表す英単語)“と、曲名に反して近未来的なサウンドが3点で引っ張り合っているこの曲は、アルバム内の曲を構成する上で可もなく不可もなくただ”この曲によってバランスを保っている”という形になっているのは、自分がこのアルバムの中で特に好きな点だ。</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/b3d4dcb44b8d07825b4f8d650ccad4ff/8cae4/24051106.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 46.25%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAACFklEQVQozw3Oy0/aAACA8T5tFWgpbS2ltjyrVCsgr1oELAhWBCnaLYK6ZTIVA9uBxEYNbmqIHrZkO+yyw5LtTx3Jd/wdPmAOxV0uws/IB+WHVvkhImpuly8qaqSHUcK1oD/Ds4qp3zQKTiU3TK20pUW/ILA4hkIgCMAwQhJeFEFgBOY4lg/wAUEgKQqEYIoiKR9NECQEgyA0kzAMQTgK4+4FZA5CEQhAYdBPe2TJL7BkaIlNrUasat4yspoS6reMx0F30t0zE7IHgQgcwVCwmJCHdl1LxiivCyDdmBzwZSWulpAtI3PZMUZHO86Hzkk1Z+UUM7X8935wb9cUiU2vhTZ1dXJx9G9gT3t757s6ECJdlYR8Wttsa+p1xxj3zOdR99fTsN8sbkWERib+4/Ppl+O6lgg2G4WSsfHc7/zpW9PD4qu9Dax6iWYh+bah3308+O6cPV1aX686L+OzycWb8cn+oZ7+ZJaum+W0Gje21/VSwjneebWNu1bdMUtAiqZMVe4YmX5dm/V40f427v10zm/fWbPXKFmO870N6cYzH8YwPMS1Zb7unceCdL66+hsoBLiKJJSjYltdHu4WpleHo/1it5hSFxaCOOx3R9eElxjfEzg1r9wuklkXuh7jxhgSFn3vgTzH5Dgmw/iSDKXzi7WIuBuTKiKfZuhWLlpZsyVfnybiG5HHJbqMoyQE4Kx7KylOCXzlPwhTbG0g60VXAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="06"
+        title="06"
+        src="/static/b3d4dcb44b8d07825b4f8d650ccad4ff/6af66/24051106.png"
+        srcset="/static/b3d4dcb44b8d07825b4f8d650ccad4ff/69538/24051106.png 160w,
+/static/b3d4dcb44b8d07825b4f8d650ccad4ff/72799/24051106.png 320w,
+/static/b3d4dcb44b8d07825b4f8d650ccad4ff/6af66/24051106.png 640w,
+/static/b3d4dcb44b8d07825b4f8d650ccad4ff/d9199/24051106.png 960w,
+/static/b3d4dcb44b8d07825b4f8d650ccad4ff/8cae4/24051106.png 1109w"
+        sizes="(max-width: 640px) 100vw, 640px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>3曲目の「Lost bridges」は本当にいつも通りというか、スパコン節を発揮しただけというか、実際に一晩でトラックから裏命を乗っけて2mixまで落とし込んだので特に説明するところはない。この曲が完成したのが実は5番目で、これまで1作目2作目のアルバムのテーマとは違ってより癖のある変化球を投げ続けてきた中で急に王道なTrapを作りたくなったのでその創造性に従っただけである。無意識化でDAやGREEN ASSASSIN DOLLAR、あとは「<a href="https://www.youtube.com/watch?v=S1gp0m4B5p8">Meek Mill - Going Bad feat. Drake(2018)</a>」を手掛けるWheezyとかのヴァイブスが表れてるなーと振り返ってみて思う。何気に自分のかつて作りたいとしていた音楽が思いのままに出来たのかなと。ちなみに、Going BadだけどMVめちゃくちゃ好きで人生で見返したか覚えてないくらいは見返してる。もしかしたら100回とかいってるかもしれない。</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/3908a3d2f25cf7d6b53fdc4d6f520b29/e4a12/24051107.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 41.875%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAAsSAAALEgHS3X78AAAByUlEQVQY0w2R32+aUBTHaUZVfl3w4lUEBEQEodgLYoWiVsu0Jc2atXWrZluyJV2ymPRlyZY0e9vD9rCnPe5l2b+6m5yHk3y/OefzPYfieV5X0Eno3F+ff9nvPm7WN1lwf4a/P27//Hj89/vr31+f92+uitjdLkff9q9/Pj28LM9OsO/aBsXzQgNKOfYuUnybR3nYSxx94pkF7sdOZ5EOFyO/zI6Xx+7QUssc767mL4os7FuWplBQBE4bGS35dGDtpjgy2zqC2NZwr2O15M1yfFOkb1fpw2oSqOh2fVrE/sy3fUNtNiAli8BWkFSX4r5RDKyZZ4a2rjSg326qsL5I8fvr83fldBUNZCC8upyWeUS45qEjAkCJIshHAUKNgW10EBxY2njoAkkCAHCCcFhjDyu1u+fp0/ay1UQHdMV3zI6qdDuqpjSpKsN5PbOcJ0Ue11gu9p27VTYJXYbjSXECoOjKh83Fp23JcvyzKpMMvShwiKS0EFVhOASl5Kg3jX1TU8ZHTuzbBJxYiURM1AG9niVZHJCmyvJQhnUIGZZjeZ5iOA7JdfItr6tjrxs4BpIlcn8SqcqwhIuQk/1AlGgSocbSVYY0ZC5R/wNh1Ehv5ZzYJgAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="07"
+        title="07"
+        src="/static/3908a3d2f25cf7d6b53fdc4d6f520b29/6af66/24051107.png"
+        srcset="/static/3908a3d2f25cf7d6b53fdc4d6f520b29/69538/24051107.png 160w,
+/static/3908a3d2f25cf7d6b53fdc4d6f520b29/72799/24051107.png 320w,
+/static/3908a3d2f25cf7d6b53fdc4d6f520b29/6af66/24051107.png 640w,
+/static/3908a3d2f25cf7d6b53fdc4d6f520b29/d9199/24051107.png 960w,
+/static/3908a3d2f25cf7d6b53fdc4d6f520b29/e4a12/24051107.png 963w"
+        sizes="(max-width: 640px) 100vw, 640px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>4曲目の「In heavy rain」に関しては、個人的にトラックが自信作である。声ネタのグルーヴとサビの裏命の歌うメロディーとの調和が綺麗に取れていて、展開といい808との重なりと言い、満足のいく出来になった。歌詞は実際に雨の中を散歩していて出来たのでリアリティがあるかも。</p>
+<p>5曲目の「Dead whale」については、何気なく買い物をしている時にふと曲名とサビが舞い降りてきた。しかし、肝心のトラックが全く作れずに悩んでいたが、実はこうしたアンビエント調の強い曲はアルバムの草案の段階で絶対に取り入れようと考えていたものになる。アルバム名の「heavy rain alert.(大雨警報)」という緊張感のあるフレーズは、Lootaの「<a href="https://www.youtube.com/watch?v=TBLUVBc3WrQ&#x26;t=1s">キリキリマイ Ft.5lack(2013)</a>」から得た緊張感と未知の音楽性に対する驚きから化学反応的に書き起こしたものになる。キリキリマイはHip-Hopの音楽表現としての知見をより広げるために聞いておくべき1曲だと思う。リリースが2013年て目を疑った。音楽性が最先端を行き過ぎて時代が追い付いていないタイプの作品に何年振りかに出会った気がした、当時はそう感じた上に、今もなお唯一無二というべき歴史上重要な表現の分岐点となる曲であろう。そして、自身の音楽表現の追求において、アンビエント調の現時点での最高到達点は何かしらのアウトプットとして腕試しがてら必要だろうと考え、「Dead whale」への取り込みと完成に至ったのである。</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 617px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/5eb2e168b784d604b9102823a7272635/bc962/24051108.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 36.875%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAAsSAAALEgHS3X78AAABG0lEQVQY02NgYmJiZGRkYWFxcHAKCAjx8wv09Q2Ijo718/NnZWVlgAEmbICBmZkZKMfJyTl9+sItWw+tW79n44Z9t289PHn8pIS4hLqauoaGhpSUFFANUCV2zRwcHDOmzZ41feGkSfOWLt+ya/fRjRt3iImJmRgbOzk5aWlqEdC8etWGjRv3rVmz49jR85cu3dq+dQcvLy8zMwsbGxsfHx/Qa4wMDEACu+ZdO3c9v3/91dOn167duXVy+561cwQEhdTV1dXU1NjBAOg1YChg9TPX7m1bbl08+/rF679///989+TU/m3i4pJdXd3lZWXcXNxAywUFBbk4OZEdzwAPbTc3Tz//0KCg8LjY+JjYJP+AEKCD4aENdjW6swEY71p4vjNLbgAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="08"
+        title="08"
+        src="/static/5eb2e168b784d604b9102823a7272635/bc962/24051108.png"
+        srcset="/static/5eb2e168b784d604b9102823a7272635/69538/24051108.png 160w,
+/static/5eb2e168b784d604b9102823a7272635/72799/24051108.png 320w,
+/static/5eb2e168b784d604b9102823a7272635/bc962/24051108.png 617w"
+        sizes="(max-width: 617px) 100vw, 617px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>6曲目の「たとえ音楽を失ったとしても」は、恒例となった音楽そのものに対する考えをまとめる立ち位置の曲だ。アルバムのコンセプトとは関係なく、自身の808への向き合い方も含めて、音楽とは何か、そして何故音楽なのか、そうした形容しがたい思いや姿勢を一番手癖で創れるG-funkに乗せて形にする。また、書き慣れたG-funkの音の中でも、アコギのエフェクトや各ドラム帯のコンプレッション、そしてボーカルのコーラスや各音配置といった細かい技術についても成長を感じることが出来たように思う。ただやみくもに探求ばかりしていくのではなく、基礎も固めて作品を創ることの大切さを示唆する上で、自分にとって非常に大事な役割を担う曲で、本アルバムは締まる。</p>
+<p>・・・</p>
+<p>ここまで、2作目のアルバムと3作目のアルバムについて記した。次はどういう方向で行こうかなと考えている最中ではあるが、最近の自身の曲全般に対してモットーとしている「コーヒーに合う808」というのを次回作ではコンセプトとして前面に出してもよいのではと思っているので、ここも視野に創っていこうと思う。</p>
+<p>どのような形であれ、創作は「創り続けること」が一番の才能であり、自分も命ある限りは貫いていこうかなと思っているので、ひたむきにただ一心に、それに向き合っていく。</p>
+<p>あと、余裕があればボカロTrapのコンピアルバム制作も本腰を入れていきたいな…。自身のアルバム制作と並行してプロデュースもできるかはただただ心配だが。まぁ、やってみてといったところかな。</p>
+<p>おわり</p></section><hr style="margin-bottom:1.75rem"/><footer><div style="display:flex;margin-bottom:0.875rem"><div class=" gatsby-image-wrapper" style="position:relative;overflow:hidden;display:inline-block;width:50px;height:50px;margin-right:0.875rem;margin-bottom:0;min-width:50px;border-radius:100%"><img aria-hidden="true" src="data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMCBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHgUzoaYAAP/8QAGxAAAgEFAAAAAAAAAAAAAAAAAQMAEBEgITL/2gAIAQEAAQUCG4VkUT0xlhh//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHhAAAQEJAAAAAAAAAAAAAAAAABECEBIgITFhcYH/2gAIAQEABj8Coavh3CFlEl//xAAcEAEBAAEFAQAAAAAAAAAAAAABEQAQICExQZH/2gAIAQEAAT8hCgFXwyl0xYdDRycoqyZ9Ljb/AP/aAAwDAQACAAMAAAAQQAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHhABAQACAgIDAAAAAAAAAAAAAREhYQAxECBBgZH/2gAIAQEAAT8QWoqAVefPHsQ0Xq68YDakcJLe/ozzAgQUyuI6L+79f//Z" alt="[object Object]" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;object-position:center;opacity:1;transition-delay:500ms;border-radius:50%"/><noscript><picture><source srcset="/static/d49ead5a6c9bada562f78bdbaa4516bd/99438/profile-pic.jpg 1x,
+/static/d49ead5a6c9bada562f78bdbaa4516bd/aba1d/profile-pic.jpg 1.5x,
+/static/d49ead5a6c9bada562f78bdbaa4516bd/b315d/profile-pic.jpg 2x" /><img loading="lazy" width="50" height="50" srcset="/static/d49ead5a6c9bada562f78bdbaa4516bd/99438/profile-pic.jpg 1x,
+/static/d49ead5a6c9bada562f78bdbaa4516bd/aba1d/profile-pic.jpg 1.5x,
+/static/d49ead5a6c9bada562f78bdbaa4516bd/b315d/profile-pic.jpg 2x" src="/static/d49ead5a6c9bada562f78bdbaa4516bd/99438/profile-pic.jpg" alt="[object Object]" style="position:absolute;top:0;left:0;opacity:1;width:100%;height:100%;object-fit:cover;object-position:center"/></picture></noscript></div><p><small>日々の記録や考え事とか　-　written by &quot;_spxn&quot;</small><br/>　<a href="https://twitter.com/_superconsole"><i class="fa fa-twitter"></i></a>　<a href="https://github.com/SuperConsole"><i class="fa fa-github"></i></a>　<a href="https://soundcloud.com/SuperConsole"><i class="fa fa-soundcloud"></i></a>　<a href="https://www.youtube.com/channel/UCtfFkG9H7xVMiPCcmGdpN_A/videos"><i class="fa fa-youtube"></i></a>　</p></div></footer></article><nav><ul style="display:flex;flex-wrap:wrap;justify-content:space-between;list-style:none;padding:0"><li><a rel="prev" href="/230717/">← <!-- -->Blackhole(Eventide)により付与される空間的緊張感についての考察</a></li><li></li></ul></nav></main><footer><small>© Built with Gatsby <!-- -->2024<!-- --> / SuperConsole</small></footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script>
+  
+  
+  if(true) {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  }
+  if (typeof ga === "function") {
+    ga('create', 'UA-141914707-3', 'auto', {});
+      
+      
+      
+      
+      
+      }</script><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/240511/";/*]]>*/</script><script id="gatsby-chunk-mapping">/*<![CDATA[*/window.___chunkMapping={"polyfill":["/polyfill-4c9e5ca557f297a65cac.js"],"app":["/app-71c46dd42deae8917b2e.js"],"component---cache-caches-gatsby-plugin-offline-app-shell-js":["/component---cache-caches-gatsby-plugin-offline-app-shell-js-ad6431e4664bcf916d19.js"],"component---src-pages-404-js":["/component---src-pages-404-js-d15fd331b2688d6b42f7.js"],"component---src-pages-index-js":["/component---src-pages-index-js-9be7f4f0c27dc8066b76.js"],"component---src-templates-blog-post-js":["/component---src-templates-blog-post-js-9f9c81404cec59cfcf94.js"]};/*]]>*/</script><script src="/polyfill-4c9e5ca557f297a65cac.js" nomodule=""></script><script src="/component---src-templates-blog-post-js-9f9c81404cec59cfcf94.js" async=""></script><script src="/cd7d5f864fc9e15ed8adef086269b0aeff617554-bd22c84c94e0872372e1.js" async=""></script><script src="/d5d7a013bc6c1e2b6d7db819052c16d7efea5559-53826724e818675fb372.js" async=""></script><script src="/styles-407fe62976dc5310c43e.js" async=""></script><script src="/app-71c46dd42deae8917b2e.js" async=""></script><script src="/framework-01c4fffe37a2e322d916.js" async=""></script><script src="/webpack-runtime-61897b6531b89cfd356c.js" async=""></script></body></html>
